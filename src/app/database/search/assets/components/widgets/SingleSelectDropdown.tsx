@@ -18,7 +18,7 @@ const SingleSelectDropdown = ({
   options = [],
   value,
   onChange,
-  placeholder = null,
+  placeholder,
 }: SingleSelectDropdownProps) => {
   const [open, setOpen] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
@@ -54,11 +54,10 @@ const SingleSelectDropdown = ({
       </p>
       <button
         type="button"
-        className={`border py-3 px-4 rounded-lg min-w-[160px] w-full flex justify-between items-center focus:outline-none focus:ring-0 transition gap-2 ${
-          selectedOption
+        className={`border py-3 px-4 rounded-lg min-w-[160px] w-full flex justify-between items-center focus:outline-none focus:ring-0 transition gap-2 ${selectedOption
             ? "bg-primaryBlue-200 text-textColor-secondary "
             : "bg-interface-background text-text-primary-color"
-        }`}
+          }`}
         onClick={() => setOpen((prev) => !prev)}
         aria-label={label}
         aria-haspopup="listbox"
@@ -91,11 +90,10 @@ const SingleSelectDropdown = ({
                 <button
                   key={option.value}
                   type="button"
-                  className={`text-sm1 font-medium text-left px-3 py-2 rounded-lg border transition ${
-                    isActive
+                  className={`text-sm1 font-medium text-left px-3 py-2 rounded-lg border transition ${isActive
                       ? "bg-primaryBlue-200 border-primary-default text-textColor-secondary"
                       : "border-transparent hover:bg-Gray-250 text-text-color-gray"
-                  }`}
+                    }`}
                   onClick={() => handleSelect(option.value)}
                 >
                   {option.label}

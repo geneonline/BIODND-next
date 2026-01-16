@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { useUser } from "@/hooks/useUser";
+import { useAuth } from "@/context/AuthContext";
 import ClinicalTrialTabs from "../../components/ClinicalTrialTabs";
 import ShareButton from "../../components/widgets/ShareButton";
 import PrintButton from "../../components/widgets/PrintButton";
@@ -12,7 +13,8 @@ import { executeSearchkitQuery } from "@/lib/searchkitClient";
 const INDEX_NAME = "clinical_trial_db_schema";
 
 export default function ClinicalTrialDetailClient({ id }: { id: string }) {
-  const { userData } = useUser();
+  const { token } = useAuth();
+  const { userData } = useUser(token);
   const searchParams = useSearchParams();
   const [data, setData] = useState<any>(null);
 

@@ -9,6 +9,7 @@ import PrintButton from "@/app/database/data/assets/components/widgets/PrintButt
 import ExportButton from "@/app/database/data/assets/components/widgets/ExportButton";
 import { useGlobalHorizontalScrollbar } from "@/hooks/useGlobalHorizontalScrollbar";
 import { useUser } from "@/hooks/useUser";
+import { useAuth } from "@/context/AuthContext";
 import {
   TableBlock,
   TableBlockA,
@@ -130,7 +131,8 @@ const DrugCompareClient = () => {
   const tabsContainerRef = useRef<HTMLDivElement>(null);
   const { bottomScrollRef, showScrollbar, scrollbarInnerWidth } =
     useGlobalHorizontalScrollbar({ dependencies: [data, ids.length] });
-  const { userData } = useUser();
+  const { token } = useAuth();
+  const { userData } = useUser(token);
   const shouldMaskContact = userData?.subscriptionLevel !== "Pro";
   const scrollToTable = useComparePageLayout(tabsContainerRef, [
     data,
@@ -248,9 +250,8 @@ const DrugCompareClient = () => {
             <div className="flex gap-1 self-end">
               <ExportButton
                 data={displayData}
-                filename={`drug-compare-${
-                  new Date().toISOString().split("T")[0]
-                }.csv`}
+                filename={`drug-compare-${new Date().toISOString().split("T")[0]
+                  }.csv`}
               />
               <ShareButton
                 title={primaryDrugName ?? "Compare Drug Assets"}

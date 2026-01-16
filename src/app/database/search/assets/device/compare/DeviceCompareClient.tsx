@@ -9,6 +9,7 @@ import PrintButton from "@/app/database/data/assets/components/widgets/PrintButt
 import ExportButton from "@/app/database/data/assets/components/widgets/ExportButton";
 import { useGlobalHorizontalScrollbar } from "@/hooks/useGlobalHorizontalScrollbar";
 import { useUser } from "@/hooks/useUser";
+import { useAuth } from "@/context/AuthContext";
 import {
   TableBlock,
   TableBlockA,
@@ -60,9 +61,9 @@ const approvalRows = [
     render: (_value: any, item: any) =>
       renderFieldValue(
         item?.approval_status ??
-          item?.device_status ??
-          item?.status ??
-          item?.regulatory_status
+        item?.device_status ??
+        item?.status ??
+        item?.regulatory_status
       ),
   },
   { label: "Clearance Type", field: "clearance_type" },
@@ -118,7 +119,8 @@ const DeviceCompareClient = () => {
   const tabsContainerRef = useRef<HTMLDivElement>(null);
   const { bottomScrollRef, showScrollbar, scrollbarInnerWidth } =
     useGlobalHorizontalScrollbar({ dependencies: [data, ids.length] });
-  const { userData } = useUser();
+  const { token } = useAuth();
+  const { userData } = useUser(token);
   const shouldMaskContact = userData?.subscriptionLevel !== "Pro";
   const scrollToTable = useComparePageLayout(tabsContainerRef, [
     data,
@@ -235,9 +237,8 @@ const DeviceCompareClient = () => {
             <div className="flex gap-1 self-end">
               <ExportButton
                 data={displayData}
-                filename={`device-compare-${
-                  new Date().toISOString().split("T")[0]
-                }.csv`}
+                filename={`device-compare-${new Date().toISOString().split("T")[0]
+                  }.csv`}
               />
               <ShareButton
                 title={primaryDeviceName ?? "Compare Device Assets"}

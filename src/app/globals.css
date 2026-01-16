@@ -380,7 +380,7 @@ input[type="password"]::-ms-reveal {
   @apply bg-search-tag-bg;
 }
 .sui-layout-header {
-  @apply bg-db-Asearch px-20;
+  @apply bg-db-asearch px-20;
 }
 .sui-search-box__submit.sui-search-box__submit {
   @apply rounded-full bg-db-search px-10 text-18px;

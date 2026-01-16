@@ -3,6 +3,7 @@
 import { useCallback, useMemo } from "react";
 import { InstantSearch, Configure, Pagination } from "react-instantsearch";
 import { useUser } from "@/hooks/useUser";
+import { useAuth } from "@/context/AuthContext";
 import { createSearchkitClient } from "@/lib/searchkitClient";
 import PromoTrialCard from "@/components/Database/PromoTrialCard";
 import SearchControls from "./SearchControls";
@@ -31,7 +32,8 @@ const AssetSearch = () => {
   // Let's assume useUser works for now (it was migrated).
   // But we need the token string for useAssetLockStatus.
   // Ideally useUser provides it.
-  const { userData, token } = useUser(); // Ensure useUser returns token if available
+  const { token } = useAuth();
+  const { userData } = useUser(token);
 
   const {
     searchParams,
@@ -73,7 +75,7 @@ const AssetSearch = () => {
       }
 
       if (filter.type === "milestone-date") {
-        filter.options?.forEach?.((option) => {
+        filter.options?.forEach?.((option: any) => {
           if (!option?.value) return;
           addAttribute({
             attribute: option.value,
@@ -196,9 +198,8 @@ const AssetSearch = () => {
 
   const compare = useCallback(() => {
     if (selected.length < 2) return;
-    const baseUrl = `/database/compare/assets/${
-      resolvedAssetOption.value
-    }?ids=${selected.join(",")}`;
+    const baseUrl = `/database/compare/assets/${resolvedAssetOption.value
+      }?ids=${selected.join(",")}`;
     const query = searchParams?.toString();
     window.open(query ? `${baseUrl}&${query}` : baseUrl, "_blank");
   }, [resolvedAssetOption.value, selected, searchParams]);

@@ -9,7 +9,7 @@ const Hero = ({ token }: { token: string | null }) => {
         <div className="w-full flex-1 self-stretch max-w-[1200px] h-[600px] md:h-[800px] relative flex justify-start items-center">
           <div className="w-full md:w-[689px] inline-flex flex-col justify-start items-start gap-10 z-10">
             <div className="self-stretch flex flex-col justify-start items-start gap-6">
-              <h1 className="w-[329px] md:w-full self-stretch justify-start text-Gray-950 selection:text-white selection:bg-primary-default text-5xl md:text-64px font-bold leading-120">
+              <h1 className="w-[329px] md:w-full self-stretch justify-start text-gray-950 selection:text-white selection:bg-primary-default text-5xl md:text-64px font-bold leading-120">
                 AI-Powered <br /> Biotech Data Platform
               </h1>
               <div className="self-stretch justify-start selection:text-white selection:bg-primary-default text-textColor-secondary text-xl font-normal leading-140">

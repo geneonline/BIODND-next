@@ -1,4 +1,5 @@
 import AssetSearch from "../components/AssetSearch";
+import { Suspense } from "react";
 import { ASSET_OPTIONS } from "@/config/assetConfig";
 import { notFound } from "next/navigation";
 
@@ -21,5 +22,9 @@ export default function AssetSearchPage({
     notFound();
   }
 
-  return <AssetSearch />;
+  return (
+    <Suspense fallback={<div>Loading...</div>}>
+      <AssetSearch />
+    </Suspense>
+  );
 }

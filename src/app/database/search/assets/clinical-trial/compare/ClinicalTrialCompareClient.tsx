@@ -9,6 +9,7 @@ import PrintButton from "@/app/database/data/assets/components/widgets/PrintButt
 import ExportButton from "@/app/database/data/assets/components/widgets/ExportButton";
 import { useGlobalHorizontalScrollbar } from "@/hooks/useGlobalHorizontalScrollbar";
 import { useUser } from "@/hooks/useUser";
+import { useAuth } from "@/context/AuthContext";
 import {
   TableBlockA,
   TableBlock,
@@ -84,7 +85,8 @@ const ClinicalTrialCompareClient = () => {
   const tabsContainerRef = useRef<HTMLDivElement>(null);
   const { bottomScrollRef, showScrollbar, scrollbarInnerWidth } =
     useGlobalHorizontalScrollbar({ dependencies: [data, ids.length] });
-  const { userData } = useUser();
+  const { token } = useAuth();
+  const { userData } = useUser(token);
   const shouldMaskContact = userData?.subscriptionLevel !== "Pro";
 
   useEffect(() => {
@@ -206,9 +208,8 @@ const ClinicalTrialCompareClient = () => {
             <div className="flex gap-1 self-end">
               <ExportButton
                 data={data}
-                filename={`clinical-trial-compare-${
-                  new Date().toISOString().split("T")[0]
-                }.csv`}
+                filename={`clinical-trial-compare-${new Date().toISOString().split("T")[0]
+                  }.csv`}
               />
               <ShareButton title={shareTitle} url={shareUrl} />
               <PrintButton />
