@@ -1,0 +1,1200 @@
+{
+  "head": {
+    "home": {
+      "title": "BIODND - Empower Your Decisions with Life Science Company Database & Market Research",
+      "description": "Make smarter decisions with BIODND, your go-to resource for life science data, regulatory insights, and industry trends tailored for leaders in biotechnology and pharmaceuticals. Streamline your deal sourcing effectively."
+    },
+    "database": {
+      "title": "BIODND Database - Search and Discover Precise Life Science Data",
+      "description": "Dive into BIODND's extensive life science database and market research tools to uncover valuable insights tailored for biotechnology and pharmaceutical leaders. Effortlessly search for companies, assets, and industry trends to streamline your decision-making process effectively."
+    },
+    "event": {
+      "title": "BIODND Events: Partner, Invest & Innovate in Life Sciences",
+      "description": "Explore BIODND's collaborative partnering conferences, uniting innovators from startups to Fortune 500 companies. Gain insights, identify investment opportunities, and forge lasting partnerships in the biotech ecosystem. Join us for investment, BD&L opportunities, and collective progress in advancing human health."
+    }
+  },
+  "nav": {
+    "chatbot": "CHATDND",
+    "bridging": "BRIDGING",
+    "database": "SEARCH",
+    "news": "NEWS",
+    "member_network": "MEMBER NETWORK",
+    "event": "EVENT",
+    "subscribe": "SUBSCRIBE",
+    "login": "LOG IN",
+    "signup": "SIGN UP",
+    "about": "ABOUT",
+    "contact_us": "CONTACT US",
+    "user_button": {
+      "view_user_profile": "View User Profile",
+      "view_company_profile": "View Company Profile",
+      "view_my_list": "View My List",
+      "subscribe": "Subscribe",
+      "log_out": "Log Out"
+    },
+    "null_info": "Please enter your info"
+  },
+  "home": {
+    "search_section": {
+      "placeholder": "Search by company name, keyword, or technology",
+      "title": "A Precise Life Science Database for Industry Professionals to Make Smarter Decisions.",
+      "description": "BIODND leverages AI to streamline deal sourcing for life science executives, business development leaders, and investors, helping them identify promising opportunities faster.<br /><br />Our precise database integrates company information across Asia, Europe, and North America, with valuable insights on funding, partnerships, and technology pipelines. Gain unmatched insights with AI-generated market reports and connect globally with our Bridging Experts & Institutions feature to optimize your strategic decisions.",
+      "graph_part": {
+        "purple": "Precise Database of APAC Life Science Companies",
+        "blue": "In-Depth Data from Global Research Institutes",
+        "green": "User-Friendly Bilingual Interface for Global Access"
+      }
+    },
+    "our_partners": "OUR PARTNERS",
+    "demo_section": {
+      "title": "Explore Biotech Possibilities<br />with BIODND Features",
+      "database": "Database",
+      "company_profile": "Company Profile",
+      "user_profile": "User Profile"
+    },
+    "chart_section": {
+      "companies": "BIOPHARMA COMPANIES",
+      "company_assets": "INVESTMENT ENTRIES",
+      "company_types": "BUSINESS TYPE",
+      "companies_by_area": "Companies by Area",
+      "asset_type": "Asset type",
+      "companies_by_type": "Companies by Type",
+      "up": "up",
+      "types": "types"
+    },
+    "why_bio": {
+      "title": "Why You Should Choose",
+      "description_title": [
+        "Optimize Your Decision-Making",
+        "Gain Unmatched Insights",
+        "Go Beyond Borders"
+      ],
+      "description_content": [
+        "With our AI-Powered Search Tool, efficiently retrieve data with an AI-driven search engine, quickly finding biotech companies, clinical trials, and regulatory information to facilitate smoother interactions and decision-making.",
+        "BIODND’s AI-Generated Market Report, developed in collaboration with the Google AI Program, leverages advanced data analysis and machine learning to offer deeper market insights and trend predictions, providing you with unparalleled insights.",
+        "BIODND’s Bridging Experts & Institutions feature connects you with other experts, institutions, and teams through interactive tools, enhancing corporate collaborations and fostering effective communication."
+      ],
+      "join_button": "JOIN BIODND",
+      "rect": {
+        "purple": {
+          "title": " Streamline Decision-Making with Advanced Data Comparison Tools.",
+          "description": "Easily compare target companies within the BIODND database to uncover key similarities, differences, and emerging industry trends. Perfect for life science executives and analysts looking to gain a competitive edge."
+        },
+        "green": {
+          "title": "Build Valuable Connections in the Life Sciences Sector.",
+          "description": "Join the BIODND Member Network to connect, collaborate, and create partnerships with leading professionals across the globe. Ideal for fostering strategic relationships and expanding industry knowledge."
+        },
+        "blue": {
+          "title": "Effortlessly Generate Custom Trend Reports.",
+          "description": "Utilize BIODND’s robust database to automatically produce detailed trend reports tailored to your specific industry needs. Essential for pharmaceutical and biotech analysts conducting market research or tracking industry advancements."
+        }
+      }
+    },
+    "about_geneonline": {
+      "title": "About GeneOnline",
+      "description": "GeneOnline Group is a B2B information and media company focusing on the life science sector. Its goal is to accelerate life science business opportunities through B2B exposure and data platforms. GeneOnline Media is the leading life science media outlet with a strong focus in the Asia market, reporting on the latest industry trends, and research focuses, and interviews with key opinion leaders in multiple languages.<br />GeneOnline Group is committed to delivering targeted media exposure services and business expansion solutions, helping you excel in the field of life sciences. We look forward to collaborating with you to shape a brighter future for the life science industry."
+    },
+    "partnership_section": {
+      "title": "PARTNERSHIP",
+      "description": "We have successfully built partnerships with these major biotech clusters and key clients in APAC and the US."
+    },
+    "join_us_section": {
+      "description": "Ready to Transform Your Strategic Insights?<br/> Start Your Free BIODND Trial Today",
+      "join_biodnd": "JOIN BIODND"
+    }
+  },
+  "about": {
+    "title": "ABOUT",
+    "sub_title": "About BIODND",
+    "p1": "BIODND is an AI-powered industry database that accelerates deal sourcing processes for life science executives, BDs and investors.",
+    "p2": "It integrates company information from Asia, Europe and North America, with plans to include additional information on academic institution teams."
+  },
+  "footer": {
+    "about": "ABOUT",
+    "database": "SEARCH",
+    "contact_us": "CONTACT US",
+    "report_issue": "REPORT AN ISSUE",
+    "terms_of_service": "TERMS OF SERVICE",
+    "copyright": "BIODND @ All Rights Reserved."
+  },
+  "login": {
+    "login_page": {
+      "title": "Login",
+      "email_unverified": {
+        "message": "We’re unable to log you in because you haven’t verify your email.",
+        "button": "Start Email Verification"
+      },
+      "wrong_email_password": "Wrong email or password.",
+      "form": {
+        "email_label": "Email",
+        "email_placeholder": "Enter your email address",
+        "password_label": "Password",
+        "password_placeholder": "Enter your password",
+        "remember_me": "Remember me",
+        "forgot_password": "Forgot Password?",
+        "login_button": "Log in",
+        "or_continue_with": "or continue with",
+        "new_to_biodnd": "New to BIODND?",
+        "create_account": "Create Your Account"
+      }
+    },
+    "forgot_password_page": {
+      "title": "Forgot Your Password?",
+      "instructions": "Enter the email address associated with your account <br/>and we’ll sent you a link to reset your password.",
+      "form": {
+        "email_label": "Email",
+        "email_placeholder": "Enter your email address",
+        "send_mail_button": "Send Email to Reset Password"
+      },
+      "no_account": "This account does not exist."
+    },
+    "reset_password_page": {
+      "title": "Reset Your Password",
+      "institutions": "Reset a new password for your account.",
+      "form": {
+        "password_label": "Password",
+        "password_placeholder": "Enter your password",
+        "confirm_password_label": "Confirm Password",
+        "confirm_password_placeholder": "Confirm your password",
+        "reset_password_button": "Reset Password"
+      },
+      "success_page": {
+        "title": "Your password has been changed",
+        "description": "Log in to continue.",
+        "button": "Log in"
+      },
+      "failed_page": {
+        "title": "Reset password failed",
+        "description": "Please try again.",
+        "button": "Back to Login"
+      }
+    },
+    "resend_email_page": {
+      "title": "Resend Email",
+      "institutions": "Didn’t receive the email?<br/>Enter your email address again to resend email.",
+      "form": {
+        "email_label": "Email",
+        "email_placeholder": "Enter your email address",
+        "unknow_email": "can not recognize your email.",
+        "resend_button": "Resend Email"
+      }
+    },
+    "popup": {
+      "title": "Log in or Sign up to continue",
+      "description": "You need to log in or sign up to search on BIODND.",
+      "button": {
+        "login": "Log in",
+        "signup": "Sign up"
+      }
+    }
+  },
+  "signup": {
+    "signup_page": {
+      "title": "Sign up",
+      "already_have_account": "If you already have an account registered you can <1>LOG IN</1>",
+      "form": {
+        "email_label": "Email",
+        "email_placeholder": "Enter your email address",
+        "email_used_warning": "This email have been used.",
+        "password_label": "Password",
+        "password_placeholder": "Enter your password",
+        "confirm_password_label": "Confirm Password",
+        "confirm_password_warning": "Password must match.",
+        "confirm_password_placeholder": "Confirm your password",
+        "terms_policy_before": "People who use our service may have uploaded your contact information to BIODND. By clicking Sign Up, you agree to our Terms, ",
+        "terms_policy_link": "Privacy Policy & Cookies Policy.",
+        "terms_policy_after": " You may receive SMS Notifications from us and can opt out any time.",
+        "signup_button": "Sign up"
+      },
+      "Policy": {
+        "title": "Privacy Policy",
+        "introduction": "This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.",
+        "usage": "We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.This Privacy Policy has been created with the help of the <1>Privacy Policy Generator.</1>",
+        "interpretationTitle": "Interpretation and Definitions",
+        "interpretationSubTitleTitle": "Interpretation",
+        "interpretationContent": "The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.",
+        "definitionsTitle": "Definitions",
+        "definitionsContent": "For the purposes of this Privacy Policy:",
+        "terms": {
+          "account": "<0>Account</0> means a unique account created for You to access our Service or parts of our Service.",
+          "affiliate": "<0>Affiliate</0> means an entity that controls, is controlled by or is under common control with a party, where 'control' means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.",
+          "company": "<0>Company</0> (referred to as either 'the Company', 'We', 'Us' or 'Our' in this Agreement) refers to Geneonline, 11F-A, No. 303, Section 4, Zhongxiao E Rd, Da’an District, Taipei City.",
+          "cookies": "<0>Cookies</0> are small files that are placed on Your computer, mobile device or any other device by a website, containing the details of Your browsing history on that website among its many uses.",
+          "country": "<0>Country</0> refers to: Taiwan",
+          "device": "<0>Device</0> means any device that can access the Service such as a computer, a cellphone or a digital tablet.",
+          "personalData": "<0>Personal Data</0> is any information that relates to an identified or identifiable individual.",
+          "service": "<0>Service</0> refers to the Website.",
+          "serviceProvider": "<0>Service Provider</0> means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used.",
+          "thirdPartySocialMediaService": "<0>Third-party Social Media Service</0> refers to any website or any social network website through which a User can log in or create an account to use the Service.",
+          "usageData": "<0>Usage Data</0> refers to data collected automatically, either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).",
+          "website": "<0>Website</0> refers to BIODND, accessible from https://www.biodnd.com/",
+          "you": "<0>You</0> means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable."
+        },
+        "collectingPersonalDataTitle": "Collecting and Using Your Personal Data",
+        "typesOfDataCollectedTitle": "Types of Data Collected",
+        "personalDataTitle": "Personal Data",
+        "personalDataDescription": "While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:",
+        "personalDataList": {
+          "email": "Email address",
+          "name": "First name and last name",
+          "phone": "Phone number",
+          "address": "Address, State, Province, ZIP/Postal code, City",
+          "usageData": "Usage Data"
+        },
+        "usageData": {
+          "description": "Usage Data is collected automatically when using the Service.",
+          "details": "Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.",
+          "details_2": "When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.",
+          "details_3": "We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device."
+        },
+        "thirdPartySocialMediaServices": {
+          "title": "Information from Third-Party Social Media Services",
+          "description": "The Company allows You to create an account and log in to use the Service through the following Third-party Social Media Services:",
+          "services": ["Google", "Facebook", "Instagram", "LinkedIn"],
+          "additionalInfo": "If You decide to register through or otherwise grant us access to a Third-Party Social Media Service, We may collect Personal data that is already associated with Your Third-Party Social Media Service's account, such as Your name, Your email address, Your activities or Your contact list associated with that account.",
+          "additionalInfo_2": "You may also have the option of sharing additional information with the Company through Your Third-Party Social Media Service's account. If You choose to provide such information and Personal Data, during registration or otherwise, You are giving the Company permission to use, share, and store it in a manner consistent with this Privacy Policy."
+        },
+        "trackingAndCookies": {
+          "title": "Tracking Technologies and Cookies",
+          "description": "We use Cookies and similar tracking technologies to track the activity on Our Service and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze Our Service. The technologies We use may include:",
+          "description_2": "Cookies or Browser Cookies. A cookie is a small file placed on Your Device. You can instruct Your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if You do not accept Cookies, You may not be able to use some parts of our Service. Unless you have adjusted Your browser setting so that it will refuse Cookies, our Service may use Cookies.",
+          "description_3": "Web Beacons. Certain sections of our Service and our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of a certain section and verifying system and server integrity).",
+          "cookiesTypes": {
+            "persistent": "Cookies can be 'Persistent' or 'Session' Cookies. Persistent Cookies remain on Your personal computer or mobile device when You go offline, while Session Cookies are deleted as soon as You close Your web browser.Learn more about cookies on the <1>Privacy Policies website</1> article.",
+            "below": "We use both Session and Persistent Cookies for the purposes set out below:",
+            "administered": "Administered by: Us",
+            "necessary": {
+              "title": "Necessary / Essential Cookies",
+              "type": "Type: Session Cookies",
+              "description": "Purpose: These Cookies are essential to provide You with services available through the Website and to enable You to use some of its features. They help to authenticate users and prevent fraudulent use of user accounts. Without these Cookies, the services that You have asked for cannot be provided, and We only use these Cookies to provide You with those services."
+            },
+            "policyAcceptance": {
+              "title": "Cookies Policy / Notice Acceptance Cookies",
+              "type": "Type: Persistent Cookies",
+              "description": "Purpose: These Cookies identify if users have accepted the use of cookies on the Website."
+            },
+            "functionality": {
+              "title": "Functionality Cookies",
+              "type": "Type: Persistent Cookies",
+              "description": "Purpose: These Cookies allow us to remember choices You make when You use the Website, such as remembering your login details or language preference. The purpose of these Cookies is to provide You with a more personal experience and to avoid You having to re-enter your preferences every time You use the Website.",
+              "description_2": "For more information about the cookies we use and your choices regarding cookies, please visit our Cookies Policy or the Cookies section of our Privacy Policy."
+            }
+          }
+        },
+        "personalDataUse": {
+          "title": "Use of Your Personal Data",
+          "description": "The Company may use Personal Data for the following purposes:",
+          "purposes": {
+            "serviceProvision": "<0>To provide and maintain our Service</0>, including to monitor the usage of our Service.",
+            "accountManagement": "<0>To manage Your Account</0>: to manage Your registration as a user of the Service.",
+            "contractPerformance": "<0>For the performance of a contract</0>: the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.",
+            "communication": "<0>To contact You</0>: To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication.",
+            "marketing": "<0>To provide You</0> with news, special offers and general information about other goods, services and events which we offer.",
+            "requestsManagement": "<0>To manage Your requests</0>: To attend and manage Your requests to Us.",
+            "businessTransfers": "<0>For business transfers</0>: We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets.",
+            "otherPurposes": "<0>For other purposes</0>: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns."
+          }
+        },
+        "personalDataSharing": {
+          "description": "We may share Your personal information in the following situations:",
+          "situations": {
+            "withServiceProviders": "<0>With Service Providers</0>: We may share Your personal information with Service Providers to monitor and analyze the use of our Service.",
+            "forBusinessTransfers": "<0>For business transfers</0>: We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.",
+            "withAffiliates": "<0>With Affiliates</0>: We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy.",
+            "withBusinessPartners": "<0>With business partners</0>: We may share Your information with Our business partners to offer You certain products, services or promotions.",
+            "withOtherUsers": "<0>With other users</0>: when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside.",
+            "withYourConsent": "<0>With Your consent</0>: We may disclose Your personal information for any other purpose with Your consent."
+          }
+        },
+        "personalDataRetention": {
+          "title": "Retention of Your Personal Data",
+          "description": "The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.",
+          "description_2": "The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer time periods."
+        },
+        "personalDataTransfer": {
+          "title": "Transfer of Your Personal Data",
+          "description": "Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.",
+          "description_2": "Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.",
+          "description_3": "The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information."
+        },
+        "personalDataDeletion": {
+          "title": "Delete Your Personal Data",
+          "description": "You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.",
+          "description_2": "Our Service may give You the ability to delete certain information about You from within the Service.",
+          "description_3": "You may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us.",
+          "description_4": "Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so."
+        },
+        "personalDataDisclosure": {
+          "title": "Disclosure of Your Personal Data",
+          "businessTransactions": "Business Transactions",
+          "description": "If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.",
+          "lawEnforcement": "Law enforcement",
+          "description_2": "Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency)."
+        },
+        "personalDataOther": {
+          "title": "Other legal requirements",
+          "description": "The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:",
+          "list": [
+            "Comply with a legal obligation",
+            "Protect and defend the rights or property of the Company",
+            "Prevent or investigate possible wrongdoing in connection with the Service",
+            "Protect the personal safety of Users of the Service or the public",
+            "Protect against legal liability"
+          ]
+        },
+        "security": {
+          "title": "Security of Your Personal Data",
+          "description": "The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security."
+        },
+        "childrensPrivacy": {
+          "title": "Children's Privacy",
+          "description": "Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.",
+          "description_2": "If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information."
+        },
+        "linksToOtherWebsites": {
+          "title": "Links to Other Websites",
+          "description": "Our Service may contain links to other websites that are not operated by Us. We strongly advise You to review the Privacy Policy of every site You visit.",
+          "description_2": "We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services."
+        },
+        "policyChanges": {
+          "title": "Changes to this Privacy Policy",
+          "description": "We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.",
+          "description_2": "We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the \"Last updated\" date at the top of this Privacy Policy.",
+          "description_3": "You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page."
+        },
+        "contactUs": {
+          "title": "Contact Us",
+          "description": "If you have any questions about this Privacy Policy, You can contact us:",
+          "email": "l By email: jerry.jhuang@geneonlineasia.com"
+        },
+        "cookiesPolicy": {
+          "title": "Cookies Policy",
+          "sections": {
+            "whatAreCookies": {
+              "title": "What are cookies?",
+              "content": "Cookies are small pieces of text used to store information on web browsers. Cookies are used to store and receive identifiers and other information on computers, phones and other devices. Other technologies, including data that we store on your web browser or device, identifiers associated with your device and other software, are used for similar purposes. In this policy, we refer to all of these technologies as 'cookies'."
+            },
+            "usage": {
+              "content": "We use cookies if you have a BIODND account, use the website, or visit other websites that use the GeneOnline Products. Cookies enable GeneOnline to offer the GeneOnline Products to you and to understand the information that we receive about you, including information about your use of other websites and apps, whether or not you are registered or logged in."
+            },
+            "explains": "This policy explains how we use cookies and the choices you have.Except as otherwise stated in this policy, the will apply to our processing of the data that we collect via cookies.",
+            "whereWeUse": {
+              "title": "Where do we use cookies?",
+              "content": "We may place cookies on your computer or device and receive information stored in cookies when you use or visit:",
+              "content_2": "The GeneOnline Products;",
+              "content_3": "Products provided by other members of the GeneOnline; and Websites and apps provided by other companies that use the GeneOnline Products, including companies that incorporate GeneOnline technologies into their websites and apps. GeneOnline uses cookies and receives information when you visit those sites and apps, including and information about your activity, without any further action from you."
+            },
+            "typesOfCookies": {
+              "title": "What types of cookies do we use?",
+              "necessaryCookies": {
+                "title": "Necessary cookies",
+                "content": "Necessary cookies allow us to offer you the best possible experience when accessing and navigating through our website and using its features. For example, these cookies let us recognize that you have created an account and have logged into that account."
+              },
+              "functionalityCookies": {
+                "title": "Functionality cookies",
+                "content": "Functionality cookies let us operate the site in accordance with the choices you make. For example, we will recognize your username and remember how you customized the site during future visits."
+              },
+              "analyticalCookies": {
+                "title": "Analytical cookies",
+                "content": "These cookies enable us and third-party services to collect aggregated data for statistical purposes on how our visitors use the website. These cookies do not contain personal information such as names and email addresses and are used to help us improve your user experience of the website."
+              }
+            },
+            "howToDelete": {
+              "title": "How to delete cookies?",
+              "content": "If you want to restrict or block the cookies that are set by our website, you can do so through your browser setting. Alternatively, you can visit www.internetcookies.com, which contains comprehensive information on how to do this on a wide variety of browsers and devices. You will find general information about cookies and details on how to delete cookies from your device."
+            },
+            "contactUs": {
+              "title": "Contacting us",
+              "content": "If you have any questions about this policy or our use of cookies, please contact us.dio urna pulvinar pellentesque nunc. Massa molestie tortor id diam laoreet urna. Neque tellus venenatis dui sodales dictum donec elementum. Nisl at urna venenatis habitant. Malesuada nunc interdum nullam auctor. Nunc mauris neque at magna. Tellus libero turpis nunc egestas adipiscing curabitur at iaculis at. Sed suspendisse consectetur sed aliquam pulvinar libero ultricies."
+            }
+          }
+        }
+      }
+    },
+
+    "confirmation_page": {
+      "title": "Finish signing up...",
+      "verify_email_title": "Please verify your email",
+      "instructions": {
+        "part1": "We’ve sent an email to",
+        "part2": "Please check your mailbox and click the link in that email to </br>complete your signup.",
+        "part3": "Still can’t find the email?"
+      },
+      "resend_button": "Resend Email"
+    },
+    "confirmed_page": {
+      "title": "Your Email Has Been Verified",
+      "message": "Log in to continue.",
+      "button": "Log in"
+    },
+    "already_confirmed_page": {
+      "title": "Your Email is Already Verified",
+      "message": "Log in to continue.",
+      "button": "Log in"
+    }
+  },
+  "search": {
+    "button": "ADVANCED SEARCH",
+    "options": {
+      "companies": "Companies",
+      "assets": "Assets",
+      "teams": "Teams"
+    },
+    "form": {
+      "general_search_placeholder": "Enter any keywords...",
+      "company_name_label": "Company Name",
+      "location_label": "Location",
+      "company_types_label": "Company Types",
+      "main_therapeutic_area_label": "Main Therapeutic Area",
+      "founded_year_label": "Founded (year)",
+      "employees_label": "Employees",
+      "asset_name_label": "Asset Name",
+      "assets_types_label": "Assets types",
+      "therapeutic_sector_label": "Therapeutic sector",
+      "development_phase_label": "Development phase",
+      "search_button": "Search",
+      "clear_search_button": "Clear Search",
+      "select": {
+        "continent": {
+          "defult_continent": "--- Select Continent ---",
+          "defult_country": "--- Select Country/Region ---",
+          "Global": "Global"
+        },
+        "company_types": {
+          "defult_main_type": "--- Select Main Type ---",
+          "defult_sub_type": "--- Select Sub Type ---"
+        },
+        "main_therapeutic_area": {
+          "defult": "--- Select The Main Therapeutic Area ---"
+        },
+        "assets_types": {
+          "defult_main_type": "--- Select Main Type ---",
+          "defult_sub_type": "--- Select Sub Type ---"
+        },
+        "therapeutic_sector": {
+          "defult": "--- Select Therapeutic Sector ---"
+        },
+        "development_phase": {
+          "defult": "--- Select Development Phase ---"
+        },
+        "employees": {
+          "defult": "--- Select Employees Phase ---"
+        }
+      }
+    },
+    "search_results": {
+      "loading": "Loading Search Results...",
+      "results_found": "{{count}} Results Found",
+      "displaying_results": "Displaying Results {{start}}-{{end}}",
+      "company_name": "Company Name",
+      "headquarters": "Headquarters",
+      "company_types": "Company Types",
+      "main_therapeutic_area": "Main Therapeutic Area",
+      "description": "Description",
+      "actions": "Actions",
+      "view_full_profile": "View Full Profile",
+      "add_to_list": "Add to List",
+      "added_to_list": "Added to List",
+      "no_results": "No Results Found"
+    },
+    "search_assets_results": {
+      "loading": "Loading Search Results...",
+      "results_found": "{{count}} Results Found",
+      "displaying_results": "Displaying Results {{start}}-{{end}}",
+      "table_headers": {
+        "product_name": "Product Name",
+        "company_name": "Company Name",
+        "assets_types": "Assets types",
+        "main_therapeutic_area": "Main Therapeutic Area",
+        "description": "Description",
+        "development_phase": "Development Phase",
+        "view_detail": "View Detail"
+      },
+      "view_full_profile": "View Full Profile",
+      "not_found": "Not found anything :("
+    },
+    "subscribe_now": {
+      "title": "View All 1000+ Companies From This Search",
+      "description": "By subscribing to BIODND plans you can gain access to all search results, full company profile including assets and financial information, and much more functions to explore!",
+      "button_text": "Subscribe Now"
+    }
+  },
+  "company_profile": {
+    "top_part": {
+      "back_to_search_results": "Back to Search Results",
+      "add_to_list": "Add to List",
+      "remove_to_list": "Remove to List",
+      "IP_right": "View IP Rights",
+      "company_tag": "Company"
+    },
+
+    "overview": {
+      "about": {
+        "title": "About",
+        "brief_description": "Brief Description",
+        "country_region": "Country/Region",
+        "address": "Address",
+        "founded_date": "Founded Date",
+        "state_of_ownership": "State of Ownership",
+        "employees_worldwide": "Employees (Worldwide)"
+      },
+      "categorization": {
+        "title": "Categorization",
+        "main_sector": "Main Sector(s)",
+        "primary_therapeutic_areas": "Primary Therapeutic Areas"
+      },
+      "summary_of_assets": {
+        "title": "Summary of Assets",
+        "learn_more_button": "Learn More"
+      },
+      "contact": {
+        "title": "Contact"
+      },
+      "latest_news": {
+        "title": "Latest News",
+        "no_news": "no any news"
+      },
+      "team": "Team",
+      "subscribe_now": {
+        "title": "View More Information About This Company",
+        "description": "By subscribing to BIODND plans you can gain access to all search results, full company profile including assets and financial information, and much more functions to explore!",
+        "button_text": "Subscribe Now"
+      }
+    },
+    "assets": {
+      "title": {
+        "Products": "Products",
+        "Services": "Services",
+        "Technologies": "Technologies",
+        "Others": "Others"
+      },
+      "table_headers": {
+        "product_name": "Product Name",
+        "service_name": "Service Name",
+        "technologies_name": "Technologies Name",
+        "main_therapeutic_area": "Main Therapeutic Area",
+        "product_description": "Product Description",
+        "service_description": "Service Description",
+        "technologies_description": "Technologies Description",
+        "administration_mode": "Administration Mode",
+        "development_phase": "Development Phase",
+        "service_availability": "Service Availability"
+      }
+    },
+    "other_info": {
+      "button": {
+        "overview": "Overview",
+        "assets": "Assets",
+        "financials": "Financials"
+      },
+      "recently_viewed": "Recently Viewed"
+    }
+  },
+  "my_list": {
+    "title": "My List",
+    "options": {
+      "companies": "Companies",
+      "people": "People"
+    },
+    "actions": {
+      "delete": "Delete",
+      "compare": "Compare"
+    },
+    "view_profile_button": "View Full Profile",
+    "table_headers": {
+      "checkbox": "",
+      "company_name": "Company Name",
+      "headquarters": "Headquarters",
+      "company_types": "Company Types",
+      "main_therapeutic_area": "Main Therapeutic Area",
+      "description": "Description",
+      "actions": "Actions"
+    },
+    "no_data_message": "you didn't save any company :("
+  },
+  "subscribe": {
+    "button": {
+      "current_plan": "Your Current Plan",
+      "purchase_plan": "Purchase Plan",
+      "manage_subscription": "Manage Subscription"
+    },
+    "choose_plan": {
+      "title": "Choose the Right BIODND Solution For You",
+      "plans": {
+        "basic": {
+          "title": "Basic",
+          "price": "Free",
+          "sub_title": "free of charge",
+          "description": "Best for individuals doing simple company research",
+          "button": "Your Current Plan",
+          "feature_title": "Includes",
+          "features": [
+            "See 5 results per search",
+            "See only Company Name, Headquarters, Company Types, Main Therapeutic Area, Description when searching for companies",
+            "Set up personal and company profiles"
+          ]
+        },
+        "silver": {
+          "title": "Advanced",
+          "price": "$49",
+          "sub_title": "/ user / month / billed annually",
+          "description": "Best for individuals and small teams to build pipeline and engage with contacts",
+          "feature_title": "Everything in Basic, plus",
+          "features": [
+            "See 30 results per search",
+            "Post Supply and Demand",
+            "See all results per search"
+          ]
+        },
+        "pro": {
+          "popular": "Popular",
+
+          "title": "Pro",
+          "price": "$5000",
+          "sub_title": "/ user / billed annually",
+          "description": " Best for teams grow rapidly  to build pipeline and engage with contacts",
+          "feature_title": "Everything in Advanced, plus",
+          "features": [
+            "See all company, assets, and funding data",
+            "Access member network support and chat",
+            "Company compare & Generate report capability"
+          ]
+        },
+        "enterprise": {
+          "title": "Enterprise",
+          "price": "Contact Us",
+          "sub_title": "custom billing",
+          "description": "Best for large teams who need scalable integrations and API access",
+          "button": "Talk to Sales",
+          "feature_title": "Everything in Pro, plus",
+          "features": [
+            "See real-time updates",
+            "Gain API access",
+            "Bulk export full BioDND dataset",
+            "Access Customer Success Manager support"
+          ]
+        }
+      }
+    },
+    "plan_comparison": {
+      "title": "Plan Comparison",
+      "Current_plan": "Current Plan",
+      "Purchase_now": "Purchase Now",
+      "options": {
+        "highlights": {
+          "title": "Highlights",
+          "Partial": "Partial",
+          "items": [
+            "Company Information",
+            "Set up personal and company profiles",
+            "Supply & Demand",
+            "Contact Data",
+            "Access member network and Messsaging"
+          ]
+        },
+        "feature": {
+          "title": "Features",
+          "items": [
+            "My List",
+            "Unlimited Search Results",
+            "Events participation",
+            "Access member network and Messsaging",
+            "Company comparison",
+            "IP Search",
+            "Latest News",
+            "Bulk export full BIODND dataset",
+            "Gain API access"
+          ]
+        }
+      }
+    }
+  },
+  "payment": {
+    "pirce_section": {
+      "pro": {
+        "title": {
+          "subscription_name": "Subscribe to BIODND Membership: Pro",
+          "price": "US $5,000",
+          "billed_by": "/ billed annually"
+        },
+        "details": {
+          "main": {
+            "title": "BIODND Membership Subscription (Pro)",
+            "billed_by": "billed Annually",
+            "price": "US $5,000"
+          },
+          "subtotal": { "title": "Subtotal", "price": "US $5,000" },
+          "tax": { "title": "Tax", "price": "US $0.000" },
+          "total": { "title": "Total", "price": "US $5,000" }
+        }
+      },
+      "silver": {
+        "title": {
+          "subscription_name": "Subscribe to BIODND Membership: Advanced",
+          "price": "US $49",
+          "billed_by": "/ billed annually"
+        },
+        "details": {
+          "main": {
+            "title": "BIODND Membership Subscription (Advanced)",
+            "billed_by": "billed Annually",
+            "price": "US $49"
+          },
+          "subtotal": { "title": "Subtotal", "price": "US $49" },
+          "tax": { "title": "Tax", "price": "US $0" },
+          "total": { "title": "Total", "price": "US $49" }
+        }
+      }
+    },
+    "paymentForm": {
+      "title": "Payment Information",
+      "fields": {
+        "card_number": "Card Number",
+        "expiration_date": "Expiration Date",
+        "cvv": "CVV",
+        "card_holder_name": "Cardholder Name",
+        "postal_code": "Postal Code"
+      },
+      "placeholder": {
+        "card_number": "Enter Your Card Number",
+        "expiration_date": "MM/YY",
+        "cvv": "CVV",
+        "card_holder_name": "Enter Cardholder Name",
+        "postal_code": "Postal Code"
+      },
+      "errors": "Card Errors",
+      "submit_button": "Submit Payment"
+    },
+    "success": {
+      "title": "Payment Successful",
+      "message": "Credit card transaction was completed successfully.<br/>Thank you for your billing.",
+      "button": "Return to Home Page"
+    },
+    "failed": {
+      "title": "Payment Failed",
+      "message": "Your payment was declined due to the following possible reasons:",
+      "list": [
+        "Incorrect card number",
+        "Incorrect CVC",
+        "Your card has expired",
+        "Insufficient funds",
+        "Processing error or other error factors"
+      ],
+      "message_2": "Please try again or contact the card issuer.",
+      "button": "Return to Payment Page"
+    },
+    "popup": {
+      "title": "This is a Paid Premium Feature",
+      "description": "You need to subscribe to BIODND Pro or Enterprise to enable this function.",
+      "button": {
+        "subscribe_now": "Subscribe Now"
+      }
+    }
+  },
+  "user": {
+    "profile": {
+      "user_profile_section": {
+        "edit_img": "Edit",
+        "edit_profile": "Edit Profile",
+        "save": "save",
+        "user_name": "User Name",
+        "job_title": "Job Title",
+        "company": "Company",
+        "country_region": "Country/Region",
+        "email": "Email",
+        "office_phone_number": "Phone Number (Office)",
+        "mobile_number": "Phone Number (Mobile)",
+        "social_media": "Social Media",
+        "linkedIn": "LinkedIn",
+        "facebook": "Facebook"
+      },
+      "my_lists_section": {
+        "title": "My List",
+        "view_list": "View List",
+        "no_company_saved": "you didn't save any company :("
+      },
+      "friends_section": {
+        "title": "Friends"
+      },
+      "event_section": {
+        "title": "Attended Events",
+        "no_event_saved": "you didn't attend any event"
+      },
+      "needs_section": {
+        "title": "My Supply & Demand",
+        "no_company_created": "you should create company profile first",
+        "create": "Create",
+        "view_more": "View More",
+        "needs_item": {
+          "view_detail": "View Detail",
+          "edit": "Edit",
+          "delete": "Delete"
+        }
+      }
+    },
+    "company_profile": {
+      "defult_company_name": "Your Company Name",
+      "company_profile": "Company profile",
+      "list": {
+        "overview": {
+          "overview": "Overview",
+          "about": "About",
+          "categorization": "Categorization",
+          "summary_of_assets": "Summary of Assets",
+          "contact": "Contact"
+        },
+        "assets": {
+          "assets": "Assets",
+          "products": "Products",
+          "services": "Services",
+          "technologies": "Technologies"
+        },
+        "financials": {
+          "financials": "Financials"
+        }
+      },
+      "fields": {
+        "company_name": "Company Name",
+        "global_region": "Global Region",
+        "country_region": "Country/Region",
+        "address": "Address",
+        "founded_year": "Founded Year",
+        "ownership": "State of Ownership",
+        "employees": "Employees (Worldwide)",
+        "description": "Company Description",
+        "main_sector": "Main Sector(s)",
+        "therapeutic_area": "Main Therapeutic Area",
+        "summary_of_assets": "Summary of Assets",
+        "introduction": "Introduce the products, services, technologies of your company briefly.",
+        "contact_title": "General Contact Information",
+        "website": "Company Website",
+        "email": "Email",
+        "phone": "Phone Number",
+        "social_media": "Social Media",
+        "facebook": "Facebook",
+        "linkedin": "LinkedIn",
+        "twitter": "X (Twitter)"
+      },
+      "placeholders": {
+        "company_name": "Enter Company Name",
+        "global_region": "Select Country/Region",
+        "country_region": "Select Country/Region",
+        "address": "Enter Address",
+        "founded_year": "Enter Founded Year",
+        "state_of_ownership": "Select State of Ownership",
+        "employees": "Select Employees",
+        "company_description": "Enter company description...",
+        "main_company_type": "Select Main Type",
+        "sub_company_type": "Select Sub Type",
+        "main_therapeutic_area": "Enter Main Therapeutic Area",
+        "summary_of_assets": "Enter summary of assets...",
+        "website": "Enter Company Website URL",
+        "email": "Enter Company Email",
+        "phone_number": "Enter Company Phone Number",
+        "facebook": "Enter Facebook URL",
+        "linkedin": "Enter LinkedIn URL",
+        "twitter": "Enter X (Twitter) URL"
+      },
+      "buttons": {
+        "edit_profile": "Edit Profile",
+        "save_changes": "Save Changes",
+        "cancel": "Cancel",
+        "edit_img": "Edit"
+      },
+      "add_assets_profile": {
+        "title": "Asset profile",
+        "button": {
+          "add": "Add New Asset",
+          "back": "Back to Company Profile",
+          "cancel": "Cancel",
+          "save": "Save Changes"
+        },
+        "add_sucess": {
+          "sucess": "New Asset Added Successfully",
+          "back": "Back to Company Profile",
+          "another": "Add Another Asset"
+        },
+        "edit_sucess": {
+          "saved": "Changes Have Been Saved",
+          "back": "Back to Company Profile"
+        },
+        "fields": {
+          "main_asset_type": "Main Asset Types",
+          "sub_asset_type": "Sub Asset Types",
+          "product_name": "Product Name",
+          "service_name": "Service Name",
+          "technologies_name": "Technologies Name",
+          "main_therapeutic_sector": "Main Therapeutic Area",
+          "mode_of_administration": "Administration Mode",
+          "development_phase": "Development Phase",
+          "service_availability": "Service Availability",
+          "product_description": "Product Description",
+          "service_description": "Service Description",
+          "technologies_description": "Technologies Description"
+        },
+        "placeholder": {
+          "main_asset_type": "Select Main Asset Types",
+          "sub_asset_type": "Select Sub Asset Types",
+          "product_name": "Enter Product Name",
+          "service_name": "Enter Service Name",
+          "technologies_name": "Enter Technologies Name",
+          "main_therapeutic_sector": "Select Main Therapeutic Area",
+          "mode_of_administration": "Enter Administration Mode",
+          "development_phase": "Select Development Phase",
+          "service_availability": "Enter Service Availability",
+          "product_description": "Enter Product Description",
+          "service_description": "Enter Service Description",
+          "technologies_description": "Enter Technologies Description"
+        }
+      }
+    },
+    "needs_profile": {
+      "title": {
+        "add": "Add New Supply/Demand",
+        "edit": "Edit Supply/Demand"
+      },
+      "label": {
+        "type": {
+          "supply": "Supply",
+          "demand": "Demand"
+        },
+        "title": "Title",
+        "category": "Category",
+        "department": "Department",
+        "budget": "Budget",
+        "expire_date": "Expire Date",
+        "description_of_supply/demand": "Description of Supply/Demand"
+      },
+      "placeholders": {
+        "title": "Enter Title",
+        "category": "Select Category",
+        "department": "Enter Department",
+        "budget": "Select Budget Range",
+        "expire_date": "Select Expire Date",
+        "description_of_supply/demand": "Enter description..."
+      },
+      "button": {
+        "cancel": "Cancel",
+        "add": "Add New Supply/Demand",
+        "save": "Save Changes"
+      },
+      "popup": {
+        "delete": {
+          "title": "Delete Supply/Demand",
+          "content": "Are you sure you want to delete this Supply/Demand?",
+          "cancel": "Cancel",
+          "confirm": "Delete"
+        },
+        "edit": {
+          "title": "Edit Editing Supply/Demand",
+          "content": "Are you sure you want to cancel editing supply/demand?",
+          "keep_editing": "Keep Editing",
+          "confirm": "Yes"
+        }
+      }
+    },
+    "first_setting": {
+      "setting_step": {
+        "title": "Setting Up Your Account",
+        "steps": {
+          "user_profile": "User Profile",
+          "company_profile": "Company Profile",
+          "subscription": "Subscription",
+          "confirmation": "Confirmation"
+        }
+      },
+      "profile": {
+        "edit": "Edit",
+        "required": "*Required",
+        "user_name_label": "User Name",
+        "user_name_placeholder": "Enter your Name",
+        "job_title_label": "Job Title",
+        "job_title_placeholder": "Enter your job title",
+        "company_label": "Company",
+        "company_placeholder": "Enter your Company",
+        "country_label": "Country/Region",
+        "country_placeholder": "Enter your Country",
+        "email_label": "Email",
+        "email_placeholder": "Enter your Email",
+        "office_phone_label": "Phone Number (Office)",
+        "office_phone_placeholder": "Enter Phone Number",
+        "mobile_phone_label": "Phone Number (Mobile)",
+        "mobile_phone_placeholder": "Enter Phone Number",
+        "agree_receive": "I agree to receive newsletters or promotional emails from BIODND.",
+        "save_continue_button": "Save and Continue",
+        "invitation_code": {
+          "label": "Trial Access",
+          "description": "Enter your invitation code below to unlock your exclusive one-month trial account.",
+          "placeholder": "Enter Code",
+          "error": "Invalid or expired invitation code.",
+          "button": {
+            "skip": "Skip",
+            "continue": "Continue"
+          }
+        }
+      },
+      "company_profile": {
+        "upload_logo": "Upload Company Logo Image",
+        "list": {
+          "overview": {
+            "overview": "Overview",
+            "about": "About",
+            "categorization": "Categorization",
+            "summary_of_assets": "Summary of Assets",
+            "contact": "Contact",
+            "usage_demand": "Usage Demand"
+          },
+          "assets": {
+            "assets": "Assets"
+          },
+          "financials": {
+            "financials": "Financials"
+          }
+        },
+        "fields": {
+          "company_name": "Company Name",
+          "global_region": "Global Region",
+          "country_region": "Country/Region",
+          "address": "Address",
+          "founded_year": "Founded Year",
+          "ownership": "State of Ownership",
+          "employees": "Employees (Worldwide)",
+          "description": "Company Description",
+          "main_sector": "Main Sector(s)",
+          "therapeutic_area": "Main Therapeutic Area",
+          "summary_of_assets": "Summary of Assets",
+          "introduction": "Introduce the products, services, technologies of your company briefly.",
+          "contact_title": "General Contact Information",
+          "website": "Company Website",
+          "email": "Email",
+          "phone": "Phone Number",
+          "social_media": "Social Media",
+          "facebook": "Facebook",
+          "linkedin": "LinkedIn",
+          "twitter": "X (Twitter)",
+          "usage_demand_type": "Usage Demand Type",
+          "title_of_demand": "Title of Demand",
+          "demand_description": "Demand Description"
+        },
+        "placeholders": {
+          "company_name": "Enter Company Name",
+          "global_region": "Select Global Region",
+          "country_region": "Select Country/Region",
+          "address": "Enter Address",
+          "founded_year": "Enter Founded Year",
+          "state_of_ownership": "Select State of Ownership",
+          "employees": "Select Employees",
+          "company_description": "Enter company description...",
+          "main_sector": "Enter Main Sector",
+          "main_therapeutic_area": "Enter Main Therapeutic Area",
+          "summary_of_assets": "Enter summary of assets...",
+          "website": "Enter Company Website URL",
+          "email": "Enter Company Email",
+          "phone_number": "Enter Company Phone Number",
+          "facebook": "Enter Facebook URL",
+          "linkedin": "Enter LinkedIn URL",
+          "twitter": "Enter X (Twitter) URL",
+          "usage_demand_type": "Select Type",
+          "title_of_demand": "Enter Title of Demand, e.g. Seeking CDMO Partnership",
+          "demand_description": "Enter detailed description of your demand. For example, write “I wish to use this database to analyze supply chain in the biopharma industry. This allows me to precisely position our company, develop targeted marketing strategies, tailor product offerings to obtain positive company growth."
+        },
+        "buttons": {
+          "skip": "Skip for Now",
+          "go_back": "Go Back",
+          "save_continue": "Save and Continue",
+          "continue": "Continue"
+        }
+      },
+      "complete": {
+        "all_set": "You’re all set!",
+        "setup_complete": "You’ve finished setting up your account. Start searching on BIODND or continue editing User & Company Profile details.",
+        "edit_user_profile": "Edit User Profile",
+        "edit_company_profile": "Edit Company Profile"
+      }
+    },
+    "popup": {
+      "coming_soon": {
+        "title": "Coming Soon...",
+        "description": "We're working on it. Stay tuned!"
+      }
+    },
+    "no_data": {
+      "no_company": {
+        "title": "YOU DON'T HAVE COMPANY PROFILE",
+        "description": "you should create company profile first",
+        "button": "create"
+      }
+    }
+  },
+  "event": {
+    "event_page": {
+      "title": "Partner, Invest & Innovate<br/> in Life Sciences",
+      "description": "BIODND is a leading life science database and market research platform that fosters collaboration. Our diverse partnering conferences unite innovators of all sizes – from startups to Fortune 500 companies. Uncover industry trends, gain firsthand insights, identify investment opportunities, and forge lasting partnerships across the biotech ecosystem. Explore our event list below for investment, BD&L opportunities, and collective progress in improving human lives."
+    }
+  },
+  "connect": {
+    "demand": {
+      "title": "Companies",
+      "placeholder": "Search Demand by Keywords...",
+      "new_needs": "Post New Supply/Demand",
+      "all_companies_tag": "All Companies",
+      "post_on": "Post on",
+      "valid_until": "Valid Until",
+      "connect": "Connect",
+      "back_button": "Back to All Demands",
+      "compant_info": {
+        "name": "Company",
+        "department": "Department",
+        "budget": "Budget"
+      }
+    },
+    "supply": {
+      "title": "Companies",
+      "placeholder": "Search Supply by Keywords...",
+      "new_needs": "Post New Supply/Demand",
+      "all_companies_tag": "All Companies",
+      "post_on": "Post on",
+      "connect": "Connect",
+      "back_button": "Back to All Supply",
+      "compant_info": {
+        "name": "Company",
+        "department": "Department",
+        "budget": "Budget"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us or Report An Issue",
+    "label": {
+      "name": "Your Full Name",
+      "email": "Email",
+      "type": "Type of Issue",
+      "subject": "Subject",
+      "description": "Description"
+    },
+    "placeholder": {
+      "name": "Enter Full Name",
+      "email": "Enter Email",
+      "type": "Select Type of Issue",
+      "subject": "Enter Subject",
+      "description": "Enter Issue Description"
+    },
+    "submit": "Submit",
+    "popup": {
+      "title": "Thank You For Your Feedback",
+      "description": "We will deal with it as soon as possible",
+      "button": "Return to Home Page"
+    }
+  },
+  "message": {
+    "message_sending": {
+      "title": "Write A Message",
+      "new": "New Message",
+      "to": "To:",
+      "placeholder": "Type your message here..."
+    },
+    "messaging": "Messaging",
+    "all_messages": "All Messages",
+    "read": "Read"
+  }
+}

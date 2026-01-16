@@ -1,0 +1,84 @@
+{
+  "Clinical Information": [
+    {
+      "title": "U.S. Clinical Trials",
+      "link": "drug_dev-usclinicaltrials"
+    },
+    {
+      "title": "China Clinical Trials",
+      "link": "drug_dev-chinaclinicaltrials"
+    },
+    {
+      "title": "China Clinical Trial Registry Data",
+      "link": "drug_dev-chinaclinicaltrialregistrydata"
+    },
+    {
+      "title": "China Approval for Clinical Trials",
+      "link": "drug_dev-chinaapprovalclinical"
+    },
+    {
+      "title": "Traditional Chinese Medicine Clinical Trial",
+      "link": "drug_dev-traditionalchinesemedicineclinicaltrial"
+    },
+    {
+      "title": "ISRCTN Clinical Trial",
+      "link": "drug_dev-isrctnclinicaltrial"
+    },
+    {
+      "title": "Australian Clinical Trial",
+      "link": "drug_dev-astralianclinicaltrial"
+    },
+    {
+      "title": "German Clinical Trial",
+      "link": "drug_dev-germanclinicaltrial"
+    },
+    {
+      "title": "Japanese Clinical Trial",
+      "link": "drug_dev-japaneseclinicaltrial"
+    },
+    {
+      "title": "Korean Clinical Trial",
+      "link": "drug_dev-koreanclinicaltrial"
+    },
+    {
+      "title": "Taiwan Clinical Trial",
+      "link": "drug_dev-taiwan_ct"
+    },
+    {
+      "title": "Thailand Clinical Trial",
+      "link": "drug_dev-thailandclinicaltrial"
+    }
+  ],
+  "Drug Development": [
+    {
+      "title": "U.S. Listed Drugs",
+      "link": "globaldm-uslisteddrugs"
+    },
+    {
+      "title": "China Listed Drugs",
+      "link": "globaldm-chinalisted"
+    },
+    {
+      "title": "China Imported Drugs",
+      "link": "globaldm-chainimported"
+    },
+    {
+      "title": "EU EMA Listed Drugs",
+      "link": "globaldm-euemalisteddrugs"
+    },
+    {
+      "title": "Japanese PMDA Listed Drugs",
+      "link": "globaldm-pmda"
+    },
+    {
+      "title": "Taiwan Listed Drugs",
+      "link": "globaldm-taiwanlisteddrugs"
+    }
+  ],
+  "Medical Devices": [
+    {
+      "title": "Taiwan Listed Medical Devices",
+      "link": "mdevices-taiwanlistedmedical"
+    }
+  ]
+}
