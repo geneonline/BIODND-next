@@ -141,7 +141,7 @@
 
   /* Font Family */
   --font-avenir: Avenir;
-  --font-inter: "Inter", sans-serif;
+  --font-inter: var(--font-inter), sans-serif;
   --font-pjs: "Plus Jakarta Sans", sans-serif;
   --font-noto: "Noto Sans TC", sans-serif;
 
@@ -251,12 +251,18 @@
   /* Assets */
   --image-home-search-bg: url("/src/assets/img/home/Search_BG.webp");
   --image-about-bg: url("/src/assets/img/about/about_bg.webp");
+
+  /* Custom Leading */
+  --leading-120: 1.2;
+  --leading-140: 1.4;
+  --leading-160: 1.6;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Inter, sans-serif
+;
 }
 
 /* Legacy Styles */

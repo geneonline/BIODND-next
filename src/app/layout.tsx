@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { Suspense } from "react";
-import { Geist, Geist_Mono } from "next/font/google"; // Keeping Geist as primary but user can override via CSS logic
+import { Geist, Geist_Mono, Inter } from "next/font/google"; // Keeping Geist as primary but user can override via CSS logic
 import "./globals.css";
 import "react-toastify/dist/ReactToastify.css";
 
@@ -17,6 +17,11 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const inter = Inter({
+  variable: "--font-inter",
+  subsets: ["latin"],
+});
+
 export const metadata: Metadata = {
   title: "BIODND Next",
   description: "Migrated BIODND Application",
@@ -30,7 +35,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased m-0 p-0 box-border w-full bg-white leading-tight min-w-[320px] font-Inter`}
+        className={`${geistSans.variable} ${geistMono.variable} ${inter.variable} antialiased m-0 p-0 box-border w-full bg-white leading-tight min-w-[320px] font-Inter`}
       >
         <Suspense fallback={<div>Loading...</div>}>
           <Providers>{children}</Providers>
