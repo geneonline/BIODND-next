@@ -5,8 +5,6 @@ import Logos from "@/components/Home/sections/Logos";
 import Streamline from "@/components/Home/sections/Streamline";
 import Richdata from "@/components/Home/sections/Richdata";
 import Howworks from "@/components/Home/sections/Howworks";
-import Faq from "@/components/Home/sections/Faq";
-import Footer from "@/components/Home/sections/Footer";
 
 export default function HomePage() {
   // In the original HomePage, token was fetched from localStorage or passed down.
@@ -27,8 +25,6 @@ export default function HomePage() {
       <Streamline token={token} />
       <Richdata token={token} />
       <Howworks token={token} />
-      <Faq />
-      <Footer token={token} />
     </>
   );
 }

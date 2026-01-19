@@ -1,13 +1,8 @@
-import Link from "next/link";
-import streamlineBg from "@/assets/webp/home/streamline-bg.webp";
-
-const Streamline = ({ token }: { token: string | null }) => {
+import { Link } from "react-router-dom";
+const Streamline = ({ token }) => {
   return (
     <section className="w-full h-fit self-stretch  bg-white inline-flex flex-col justify-center items-center overflow-hidden">
-      <div
-        className="h-[800px] px-8 md:px-16 lg:px-20 xl:px-28 self-stretch w-full bg-center bg-no-repeat flex justify-center"
-        style={{ backgroundImage: `url(${streamlineBg.src})` }}
-      >
+      <div className="h-[800px] px-8 md:px-16 lg:px-20 xl:px-28 self-stretch w-full bg-home-streamline-bg bg-center bg-no-repeat flex justify-center">
         <div className="w-full flex-1 max-w-[1200px] xl:w-[1200px] pt-[336px] relative flex justify-center md:justify-end">
           <div className=" flex flex-col justify-start items-start gap-10">
             <div className="self-stretch flex flex-col justify-start items-start gap-6">
@@ -27,7 +22,7 @@ const Streamline = ({ token }: { token: string | null }) => {
 
             {!token && (
               <Link
-                href="/account/register"
+                to="/account/register"
                 className="px-6 py-3 font-medium text-white bg-primary-default hover:bg-primary-hovered rounded-50px inline-flex justify-center items-center overflow-hidden"
               >
                 Join Us Now

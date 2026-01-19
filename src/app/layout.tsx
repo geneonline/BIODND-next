@@ -6,6 +6,7 @@ import "react-toastify/dist/ReactToastify.css";
 
 import { Providers } from "@/components/Providers";
 import "@/i18n";
+import Footer from "@/components/Footer";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -23,8 +24,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "BIODND Next",
-  description: "Migrated BIODND Application",
+  title: "BIODND - Empower Your Decisions with Life Science Company Database & Market Research",
+  description: "Make smarter decisions with BIODND, your go-to resource for life science data, regulatory insights, and industry trends tailored for leaders in biotechnology and pharmaceuticals. Streamline your deal sourcing effectively.",
 };
 
 export default function RootLayout({
@@ -38,7 +39,12 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} ${inter.variable} antialiased m-0 p-0 box-border w-full bg-white leading-tight min-w-[320px] font-Inter`}
       >
         <Suspense fallback={<div>Loading...</div>}>
-          <Providers>{children}</Providers>
+          <Providers>
+            <div className="flex flex-col min-h-screen">
+              {children}
+            </div>
+            <Footer />
+          </Providers>
         </Suspense>
       </body>
     </html>

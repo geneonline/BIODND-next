@@ -6,22 +6,20 @@ import logo from "@/assets/svg/LOGO_white.svg";
 import go_logo from "@/assets/webp/footer/geneonline_logo.webp";
 import axios from "axios";
 import Image from "next/image";
+import { useAuth } from "@/context/AuthContext";
 
 const baseURL = process.env.NEXT_PUBLIC_API_URL;
 
-const Footer = ({ token }: { token: string | null }) => {
+const Footer = () => {
   const router = useRouter();
+  const { token } = useAuth();
 
   // Insights AI(ChatDND) behavior replacement
   const handleGoToChatDND = async (e: any) => {
     e.preventDefault();
 
-    // Use token from props or localStorage (but props is better if passed down)
-    // The original code re-read localStorage. We should arguably rely on `token` prop if it's reliable.
-    // But let's check localStorage if token prop is null/undefined to be safe, or just use prop.
-    const currentToken =
-      token ||
-      (typeof window !== "undefined" ? localStorage.getItem("token") : null);
+    // Use token from context
+    const currentToken = token;
 
     if (!currentToken) {
       router.push("/account/login");
@@ -46,7 +44,7 @@ const Footer = ({ token }: { token: string | null }) => {
   };
 
   return (
-    <footer className="w-full self-stretch bg-Gray-950 inline-flex flex-col justify-center items-center overflow-hidden">
+    <footer className="w-full self-stretch bg-gray-950 inline-flex flex-col justify-center items-center overflow-hidden">
       <div className="self-stretch px-8 md:px-16 lg:px-20 xl:px-28 py-20 flex flex-col justify-center items-center gap-16">
         <div className="w-full max-w-[1200px] flex flex-col justify-start items-start gap-16">
           <div className="self-stretch inline-flex flex-col gap-y-16 md:gap-y-20  xl:flex-row justify-between items-start content-start">
@@ -168,14 +166,14 @@ const Footer = ({ token }: { token: string | null }) => {
                   {!token && (
                     <Link
                       href="/account/login"
-                      className="justify-center text-Gray-400 text-sm1 font-normal  leading-tight"
+                      className="justify-center text-gray-400 text-sm1 font-normal  leading-tight"
                     >
                       Login
                     </Link>
                   )}
                   <Link
                     href="/subscribe"
-                    className="justify-center text-Gray-400 text-sm1 font-normal  leading-tight"
+                    className="justify-center text-gray-400 text-sm1 font-normal  leading-tight"
                   >
                     Pricing
                   </Link>
@@ -189,26 +187,26 @@ const Footer = ({ token }: { token: string | null }) => {
                 <div className="flex flex-col justify-start items-start gap-4">
                   <Link
                     href="/about"
-                    className="justify-center text-Gray-400 text-sm1 font-normal  leading-tight"
+                    className="justify-center text-gray-400 text-sm1 font-normal  leading-tight"
                   >
                     About BIODND
                   </Link>
                   <Link
                     href="/contact"
-                    className="justify-center text-Gray-400 text-sm1 font-normal  leading-tight"
+                    className="justify-center text-gray-400 text-sm1 font-normal  leading-tight"
                   >
                     Contact Us
                   </Link>
                   <Link
                     href="/contact"
-                    className="justify-center text-Gray-400 text-sm1 font-normal  leading-tight"
+                    className="justify-center text-gray-400 text-sm1 font-normal  leading-tight"
                   >
                     Partnership
                   </Link>
                   <a
                     target="_blank"
                     href="https://geneonline.com"
-                    className="justify-center text-Gray-400 text-sm1 font-normal  leading-tight"
+                    className="justify-center text-gray-400 text-sm1 font-normal  leading-tight"
                   >
                     GeneOnline News
                   </a>
@@ -222,14 +220,14 @@ const Footer = ({ token }: { token: string | null }) => {
                 <div className="flex flex-col justify-start items-start gap-4">
                   <Link
                     href={"/database/serach"}
-                    className="justify-center text-Gray-400 text-sm1 font-normal  leading-tight"
+                    className="justify-center text-gray-400 text-sm1 font-normal  leading-tight"
                   >
                     Asset Explore
                   </Link>
 
                   <Link
                     href={"/company-home"}
-                    className="justify-center text-Gray-400 text-sm1 font-normal  leading-tight"
+                    className="justify-center text-gray-400 text-sm1 font-normal  leading-tight"
                   >
                     Company Search
                   </Link>
@@ -237,14 +235,14 @@ const Footer = ({ token }: { token: string | null }) => {
                   <button
                     type="button"
                     onClick={handleGoToChatDND}
-                    className="justify-center text-Gray-400 text-sm1 font-normal  leading-tight"
+                    className="justify-center text-gray-400 text-sm1 font-normal  leading-tight"
                   >
                     Insights AI
                   </button>
 
                   <Link
                     href="/event"
-                    className="justify-center text-Gray-400 text-sm1 font-normal  leading-tight"
+                    className="justify-center text-gray-400 text-sm1 font-normal  leading-tight"
                   >
                     Event
                   </Link>
@@ -255,7 +253,7 @@ const Footer = ({ token }: { token: string | null }) => {
           <div className="self-stretch h-12 flex flex-col justify-start items-center gap-4">
             <div className="self-stretch h-px bg-white" />
             <div className="self-stretch inline-flex justify-between items-center">
-              <div className="justify-center text-Gray-400 text-sm1 font-normal  leading-tight">
+              <div className="justify-center text-gray-400 text-sm1 font-normal  leading-tight">
                 BIODND @ All Rights Reserved.
                 <Link
                   href="/terms"
