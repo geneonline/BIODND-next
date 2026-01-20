@@ -1,0 +1,793 @@
+{
+  "5409d3d5-e7b4-4cdc-ad99-78f3638eaed9": {
+    "id": "5409d3d5-e7b4-4cdc-ad99-78f3638eaed9",
+    "value": [
+      {
+        "id": "e082d5fc-08b3-44bf-8e6a-17d7998766b0",
+        "type": "heading-two",
+        "children": [
+          {
+            "text": "20240627-Wells Fargo-Medical Technology：Diabetes Devices Tracker & Q2 Preview_Data Week Ended 614 Business Analysis"
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "HeadingTwo",
+    "meta": {
+      "order": 0,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "826dce40-6bce-4b88-a352-e3299e669633": {
+    "id": "826dce40-6bce-4b88-a352-e3299e669633",
+    "value": [
+      {
+        "id": "01e8400a-7dda-4bb5-a223-72b61a65b00b",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 1,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "611e6899-642f-4f30-a3a6-f6a2a64971e1": {
+    "id": "611e6899-642f-4f30-a3a6-f6a2a64971e1",
+    "value": [
+      {
+        "id": "1ca0c017-d284-4b68-aa51-6dd0f98f5f63",
+        "type": "heading-three",
+        "children": [
+          {
+            "text": "1. Industry Status"
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "HeadingThree",
+    "meta": {
+      "order": 2,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "c74e77e1-5801-4ca3-a821-93060aba5ce3": {
+    "id": "c74e77e1-5801-4ca3-a821-93060aba5ce3",
+    "value": [
+      {
+        "id": "c33fc9e0-9a0b-491d-8509-5218b8600538",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "The industry report focuses on the diabetes devices market, specifically on insulin pumps and continuous glucose monitors (CGM). The market is experiencing significant growth driven by increasing prevalence of diabetes and rising demand for better blood glucose management."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 3,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "48c6f1ba-f4e4-40c2-8fe6-1928d3c1a486": {
+    "id": "48c6f1ba-f4e4-40c2-8fe6-1928d3c1a486",
+    "value": [
+      {
+        "id": "565fd6d0-10fd-4207-9900-41a4745b4a8c",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Key trends include the development of advanced technologies, such as integrated pumps and CGM systems, and the shift towards personalized diabetes care."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 4,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "959d0a2c-e13f-4fe0-99ae-1939d642eb67": {
+    "id": "959d0a2c-e13f-4fe0-99ae-1939d642eb67",
+    "value": [
+      {
+        "id": "077b61ab-5d2e-433f-b023-76987deae8de",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "The report does not explicitly mention the market size or growth rate but highlights the growing popularity of products like Omnipod 5, Libre 3, and Dexcom G7, indicating strong market demand."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 5,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "c5610fed-4f40-4b49-b050-8c62eb89feaf": {
+    "id": "c5610fed-4f40-4b49-b050-8c62eb89feaf",
+    "value": [
+      {
+        "id": "ffffd05d-21ba-49d1-8888-a3874435d481",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 6,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "04f7442d-8579-41ba-80de-13c96234a4f0": {
+    "id": "04f7442d-8579-41ba-80de-13c96234a4f0",
+    "value": [
+      {
+        "id": "7878f9b8-6500-40ba-a85e-562ffb5dd5fb",
+        "type": "heading-three",
+        "children": [
+          {
+            "text": "2. Financial Performance"
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "HeadingThree",
+    "meta": {
+      "order": 7,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "1940ba2a-442f-4066-9a79-28d1d97dabc7": {
+    "id": "1940ba2a-442f-4066-9a79-28d1d97dabc7",
+    "value": [
+      {
+        "id": "1a2535b8-c803-4f2d-bc25-95b3f3d23edb",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "The report does not provide a detailed analysis of financial performance for specific companies in the diabetes devices market. Instead, it focuses on tracking the adoption trends of different devices based on weekly prescription data from IQVIA. This data is used to estimate the number of new reader prescriptions (NRx) and total sensor prescriptions (TRx) for Libre, Dexcom, and Omnipod devices for the week ending June 14, 2024. The report also provides the year-over-year (y/y) growth rates for the rolling four-week average prescriptions."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 8,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "cc3f3a0f-fd37-4d4f-9870-b04a050190fb": {
+    "id": "cc3f3a0f-fd37-4d4f-9870-b04a050190fb",
+    "value": [
+      {
+        "id": "dca579b9-4ffd-48fd-9d1f-baac9227a899",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 9,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "4493a4bf-79e5-4c2f-be23-c8ac4ffa4a5b": {
+    "id": "4493a4bf-79e5-4c2f-be23-c8ac4ffa4a5b",
+    "value": [
+      {
+        "id": "e1583a3b-4c21-45a8-b14e-ebc8f9163b18",
+        "type": "heading-three",
+        "children": [
+          {
+            "text": "3. Market Position and Strategy"
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "HeadingThree",
+    "meta": {
+      "order": 10,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "2a0bb80c-965a-46ea-af57-12669d9a965b": {
+    "id": "2a0bb80c-965a-46ea-af57-12669d9a965b",
+    "value": [
+      {
+        "id": "d1561819-c9a8-45f0-bd49-15a0b4f7f7f1",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "The report highlights the growing popularity of Omnipod 5, Libre 3, and Dexcom G7, suggesting that these devices are well-positioned in the market. However, it does not delve into the specific marketing strategies of each company."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 11,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "d9ce64e7-472e-48dc-9b25-2f4326627ce8": {
+    "id": "d9ce64e7-472e-48dc-9b25-2f4326627ce8",
+    "value": [
+      {
+        "id": "3bb547eb-b92c-471f-9455-63b5f3a42405",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 12,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "cb8e3c25-e5e6-4ca2-9d52-6294439df167": {
+    "id": "cb8e3c25-e5e6-4ca2-9d52-6294439df167",
+    "value": [
+      {
+        "id": "c1f3c254-28d7-44d8-8b06-b7612c7910d7",
+        "type": "heading-three",
+        "children": [
+          {
+            "text": "4. Competitive Landscape"
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "HeadingThree",
+    "meta": {
+      "order": 13,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "2b2cf9d9-165c-4a4c-9c2d-c95cd4ae14d2": {
+    "id": "2b2cf9d9-165c-4a4c-9c2d-c95cd4ae14d2",
+    "value": [
+      {
+        "id": "4bf2788f-fd46-46f2-be2b-8bdb2613bdf6",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "The report identifies Abbott Laboratories (ABT), Dexcom (DXCM), and Insulet Corporation (PODD) as key players in the diabetes devices market. The report analyzes the market share of these companies based on weekly prescription data. While it mentions a potential impact of GLP-1s on insulin pumps, it does not specifically address the competitive landscape in that segment."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 14,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "d49eeb50-574d-4c08-a592-47940dfc6cc3": {
+    "id": "d49eeb50-574d-4c08-a592-47940dfc6cc3",
+    "value": [
+      {
+        "id": "5e567da4-7490-45fa-966a-532c354919b0",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 15,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "7675756f-67cf-4661-81ff-42feebcb0561": {
+    "id": "7675756f-67cf-4661-81ff-42feebcb0561",
+    "value": [
+      {
+        "id": "adf068fb-c364-4143-93a2-e98ec399e852",
+        "type": "heading-three",
+        "children": [
+          {
+            "text": "5. Innovation and Product Development"
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "HeadingThree",
+    "meta": {
+      "order": 16,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "9e7ce7d8-d18e-4e84-8e08-93e8212e225c": {
+    "id": "9e7ce7d8-d18e-4e84-8e08-93e8212e225c",
+    "value": [
+      {
+        "id": "05f3a91e-d35f-4daf-888e-b097363eca9c",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "The report highlights the technological advancements in the diabetes devices market, particularly in the area of integrated pumps and CGM systems. It mentions the integration of Omnipod 5 with Dexcom G6/G7, indicating a trend towards seamless monitoring and insulin delivery. However, it does not provide details about the R&D strategies or intellectual property of specific companies."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 17,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "8809f3ea-1c43-4848-8433-e052be4fe04a": {
+    "id": "8809f3ea-1c43-4848-8433-e052be4fe04a",
+    "value": [
+      {
+        "id": "643b5921-3c35-4972-92fd-bcbce35a1dc9",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 18,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "3dc58d07-82e2-446d-8c0c-9eb4cb1b4a4b": {
+    "id": "3dc58d07-82e2-446d-8c0c-9eb4cb1b4a4b",
+    "value": [
+      {
+        "id": "c5064494-d7fc-475a-942f-82d98a259e38",
+        "type": "heading-three",
+        "children": [
+          {
+            "text": "6. SWOT Analysis"
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "HeadingThree",
+    "meta": {
+      "order": 19,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "bbd1b762-4304-47d8-bf10-f8b6e2a67c2d": {
+    "id": "bbd1b762-4304-47d8-bf10-f8b6e2a67c2d",
+    "value": [
+      {
+        "id": "17ea6c17-2905-4ca7-97f8-f5e6aa74aa36",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Strengths",
+            "bold": true
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 20,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "26183aac-b07e-4f52-9086-a2de5fc7680a": {
+    "id": "26183aac-b07e-4f52-9086-a2de5fc7680a",
+    "value": [
+      {
+        "id": "253c66ce-6e01-44c4-b341-d3ebdd0b1a4c",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Weaknesses",
+            "bold": true
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 23,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "7d18ae2a-9945-4f12-b2a3-b229c9c40737": {
+    "id": "7d18ae2a-9945-4f12-b2a3-b229c9c40737",
+    "value": [
+      {
+        "id": "42a43913-a766-4521-b548-9c3600e6a6b4",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Opportunities",
+            "bold": true
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 25,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "0f120b1e-aaac-4776-8bfb-4a616c663d8d": {
+    "id": "0f120b1e-aaac-4776-8bfb-4a616c663d8d",
+    "value": [
+      {
+        "id": "d7ed9854-f307-4449-814a-be0a69d2c3e9",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Threats",
+            "bold": true
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 29,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "63e811aa-8fc2-48da-92de-45b1964519a8": {
+    "id": "63e811aa-8fc2-48da-92de-45b1964519a8",
+    "value": [
+      {
+        "id": "4fd87368-0d0e-4d06-b969-1f444f8cb819",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 31,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "4198e372-ee47-4374-97b7-498ace69b074": {
+    "id": "4198e372-ee47-4374-97b7-498ace69b074",
+    "value": [
+      {
+        "id": "86d50abd-2c02-4477-bfc0-5f439dde053c",
+        "type": "heading-three",
+        "children": [
+          {
+            "text": "7. Future Prospects"
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "HeadingThree",
+    "meta": {
+      "order": 32,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "ca98f1bc-3111-4fca-bbf0-66f346cd5afb": {
+    "id": "ca98f1bc-3111-4fca-bbf0-66f346cd5afb",
+    "value": [
+      {
+        "id": "6b2986b4-8da8-4ce2-9cb2-5ea02d62b84f",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "The report suggests that the diabetes devices market has strong future prospects, driven by the increasing adoption of advanced technologies and the growing demand for personalized diabetes care. It predicts that the market will continue to grow in the coming years. However, it does not provide specific projections or details about future expansion plans for specific companies. The report also does not address the potential risks and challenges facing the industry, such as regulatory changes or competition from emerging technologies."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 33,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "6d72e8d0-051f-4c4f-8e17-0deda8c2d599": {
+    "id": "6d72e8d0-051f-4c4f-8e17-0deda8c2d599",
+    "type": "BulletedList",
+    "meta": {
+      "order": 21,
+      "depth": 0
+    },
+    "value": [
+      {
+        "id": "6f6df305-ed83-4ced-81c5-3b9af6d2e390",
+        "type": "bulleted-list",
+        "children": [
+          {
+            "text": "Growing market demand driven by increased diabetes prevalence and rising demand for better blood glucose management."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ]
+  },
+  "86e96c2d-cc52-4e1a-9d45-40156d91b45e": {
+    "id": "86e96c2d-cc52-4e1a-9d45-40156d91b45e",
+    "value": [
+      {
+        "id": "973a1ce4-33e6-44ba-8288-aac584f8139f",
+        "type": "bulleted-list",
+        "children": [
+          {
+            "text": "Development of advanced technologies like integrated pumps and CGM systems."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      },
+      {
+        "id": "973a1ce4-33e6-44ba-8288-aac584f8139f",
+        "type": "bulleted-list",
+        "props": {
+          "nodeType": "block"
+        },
+        "children": [
+          {
+            "text": "Strong brand positioning of key players like Omnipod, Libre, and Dexcom."
+          }
+        ]
+      }
+    ],
+    "type": "BulletedList",
+    "meta": {
+      "order": 22,
+      "depth": 0
+    }
+  },
+  "83e6fb92-8d60-4711-bfa8-038d43534d85": {
+    "id": "83e6fb92-8d60-4711-bfa8-038d43534d85",
+    "type": "BulletedList",
+    "meta": {
+      "order": 24,
+      "depth": 0
+    },
+    "value": [
+      {
+        "id": "dfd08ee5-5205-49fa-9481-97d079c632c6",
+        "type": "bulleted-list",
+        "children": [
+          {
+            "text": "The report does not identify any specific weaknesses for the companies discussed."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ]
+  },
+  "18c3d5c3-72fa-411a-8508-e16638bb25bf": {
+    "id": "18c3d5c3-72fa-411a-8508-e16638bb25bf",
+    "type": "BulletedList",
+    "meta": {
+      "order": 26,
+      "depth": 0
+    },
+    "value": [
+      {
+        "id": "35b93bef-4cc9-4661-8f4d-3e9db05945aa",
+        "type": "bulleted-list",
+        "children": [
+          {
+            "text": "Potential for increased market penetration with the adoption of new technologies."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ]
+  },
+  "efdd6099-3da2-4f11-a86e-e2c1bab2e76d": {
+    "id": "efdd6099-3da2-4f11-a86e-e2c1bab2e76d",
+    "value": [
+      {
+        "id": "bde95568-14ac-4d00-a3c8-c805aed14cd4",
+        "type": "bulleted-list",
+        "children": [
+          {
+            "text": "Growing demand for personalized diabetes care."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "BulletedList",
+    "meta": {
+      "order": 27,
+      "depth": 0
+    }
+  },
+  "7f50db8a-cf1f-431d-949b-472410f42a5e": {
+    "id": "7f50db8a-cf1f-431d-949b-472410f42a5e",
+    "value": [
+      {
+        "id": "7be232f1-749a-4416-831f-15fa91a12d19",
+        "type": "bulleted-list",
+        "children": [
+          {
+            "text": "Potential for expansion into new markets."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "BulletedList",
+    "meta": {
+      "order": 28,
+      "depth": 0
+    }
+  },
+  "fa0f1469-1867-42b9-a007-960b638fcf26": {
+    "id": "fa0f1469-1867-42b9-a007-960b638fcf26",
+    "type": "BulletedList",
+    "meta": {
+      "order": 30,
+      "depth": 0
+    },
+    "value": [
+      {
+        "id": "300407d8-e91c-4d19-8fad-31421ee295c5",
+        "type": "bulleted-list",
+        "children": [
+          {
+            "text": "The report does not identify any specific threats."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ]
+  }
+}

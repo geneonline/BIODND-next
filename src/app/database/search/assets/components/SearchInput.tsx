@@ -40,13 +40,9 @@ const SearchInput = ({
   }, [resetSignal, refine]);
 
   const performSearch = async () => {
-    let token = "";
-    if (typeof window !== "undefined") {
-      token = localStorage.getItem("token") || "";
-    }
-
     try {
-      const lockedBeforeSearch = await checkAndLockUser(token);
+      // Token is now handled via HttpOnly cookie text search calls
+      const lockedBeforeSearch = await checkAndLockUser();
       if (lockedBeforeSearch) {
         onLock?.();
         return;
@@ -56,11 +52,11 @@ const SearchInput = ({
       lastAppliedQueryRef.current = value;
       onQueryCommit?.(value);
 
-      await storeAssetSearchRequest(token, {
+      await storeAssetSearchRequest({
         queryAssetRequest: JSON.stringify({ q: value }),
       });
 
-      const lockedAfterSearch = await checkAndLockUser(token);
+      const lockedAfterSearch = await checkAndLockUser();
       if (lockedAfterSearch) {
         onLock?.();
       }

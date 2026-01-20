@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.yoopta-editor {
+  @apply mx-auto;
+}
+
+.scrollbar-container {
+  @apply h-[98%];
+}
+
+.scroll-button.scroll-down {
+  @apply bottom-4;
+}
+
+input[type="password"]::-ms-reveal {
+  display: none !important;
+}

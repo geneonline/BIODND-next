@@ -1,6 +1,9 @@
 import Link from "next/link";
 
-const Howworks = ({ token }: { token: string | null }) => {
+import { useUser } from "@/hooks/useUser";
+
+const Howworks = () => {
+  const { user } = useUser();
   return (
     <section className="w-full py-32 px-8 md:px-16 lg:px-20 xl:px-28 self-stretch bg-white inline-flex justify-center items-center overflow-hidden">
       <div className="flex-1 inline-flex flex-col justify-center items-center">
@@ -155,7 +158,7 @@ const Howworks = ({ token }: { token: string | null }) => {
                 </div>
               </div>
             </div>
-            {!token && (
+            {!user && (
               <Link
                 href="/account/register"
                 className="px-6 py-3 font-medium text-white bg-primary-default hover:bg-primary-hovered rounded-50px inline-flex justify-center items-center overflow-hidden"

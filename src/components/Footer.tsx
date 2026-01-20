@@ -8,11 +8,14 @@ import axios from "axios";
 import Image from "next/image";
 import { useAuth } from "@/context/AuthContext";
 
+import { useUser } from "@/hooks/useUser";
+
 const baseURL = process.env.NEXT_PUBLIC_API_URL;
 
 const Footer = () => {
   const router = useRouter();
-  const { token } = useAuth();
+  const { user } = useUser();
+  const token = user ? "active" : null;
 
   // Insights AI(ChatDND) behavior replacement
   const handleGoToChatDND = async (e: any) => {
@@ -26,11 +29,7 @@ const Footer = () => {
       return;
     }
     try {
-      const response = await axios.get(`${baseURL}/api/ChatDND/Go`, {
-        headers: {
-          Authorization: `Bearer ${currentToken}`,
-        },
-      });
+      const response = await axios.get(`/api/proxy/api/ChatDND/Go`);
       const result =
         typeof response.data === "string" ? response.data : response.data.url;
       if (typeof result === "string" && result.startsWith("http")) {
@@ -163,7 +162,7 @@ const Footer = () => {
                   Account
                 </div>
                 <div className="flex flex-col justify-start items-start gap-4">
-                  {!token && (
+                  {!user && (
                     <Link
                       href="/account/login"
                       className="justify-center text-gray-400 text-sm1 font-normal  leading-tight"

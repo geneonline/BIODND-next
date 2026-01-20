@@ -13,18 +13,13 @@ export default function HomePage() {
   // The components Hero, Streamline, Richdata, Faq, Footer all accept `token`.
   // Let's fetch it here to be consistent with the original design.
 
-  let token: string | null = null;
-  if (typeof window !== "undefined") {
-    token = localStorage.getItem("token");
-  }
-
   return (
     <>
-      <Hero token={token} />
+      <Hero />
       <Logos />
-      <Streamline token={token} />
-      <Richdata token={token} />
-      <Howworks token={token} />
+      <Streamline />
+      <Richdata />
+      <Howworks />
     </>
   );
 }

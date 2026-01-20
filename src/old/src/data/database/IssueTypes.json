@@ -1,0 +1,22 @@
+{
+  "en": [
+    ["Website Usage Issues", "Website Usage Issues"],
+    ["Entrepreneur Subscription Plan", "Entrepreneur Subscription Plan"],
+    ["Create and Edit Profile", "Create and Edit Profile"],
+    ["Misinformation", "Misinformation"],
+    ["Set Up & Edit Settings", "Set Up & Edit Settings"],
+    ["Account Permissions", "Account Permissions"],
+    ["Reporting a Possible Scam", "Reporting a Possible Scam"],
+    ["Others", "Others"]
+  ],
+  "zh": [
+    ["網站使用問題", "Website Usage Issues"],
+    ["創業者訂閱計劃", "Entrepreneur Subscription Plan"],
+    ["創建和編輯個人資料", "Create and Edit Profile"],
+    ["錯誤資訊", "Misinformation"],
+    ["設置和編輯設定", "Set Up & Edit Settings"],
+    ["帳戶權限", "Account Permissions"],
+    ["回報詐騙資訊", "Reporting a Possible Scam"],
+    ["其他", "Others"]
+  ]
+}

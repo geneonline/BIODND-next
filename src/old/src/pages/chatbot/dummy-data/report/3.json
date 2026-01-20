@@ -1,0 +1,834 @@
+{
+  "c3f12b68-15be-432e-82b6-9e4c7bd25fe8": {
+    "id": "c3f12b68-15be-432e-82b6-9e4c7bd25fe8",
+    "value": [
+      {
+        "id": "e42411ee-a83a-4beb-9ada-d7e334dbf46c",
+        "type": "heading-two",
+        "children": [
+          {
+            "text": "20240716-UBS-China Healthcare：China medtech mid_year pulse check Episode 1：medical equipment renewal Business Analysis"
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "HeadingTwo",
+    "meta": {
+      "order": 0,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "9f04845b-441e-42e7-8428-6ab0874b3214": {
+    "id": "9f04845b-441e-42e7-8428-6ab0874b3214",
+    "value": [
+      {
+        "id": "0abab544-e964-48af-b1cd-c6b5c12d0b18",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 1,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "2c60c7b2-4781-4222-9899-72fa14782ac6": {
+    "id": "2c60c7b2-4781-4222-9899-72fa14782ac6",
+    "value": [
+      {
+        "id": "9f5bb25f-2ed1-42a2-bd59-63bd1f6794ad",
+        "type": "heading-three",
+        "children": [
+          {
+            "text": "1. Industry Status"
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "HeadingThree",
+    "meta": {
+      "order": 2,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "b44f940c-7af7-45f9-9fa6-da05f66da9f0": {
+    "id": "b44f940c-7af7-45f9-9fa6-da05f66da9f0",
+    "value": [
+      {
+        "id": "49d38084-3a8f-4d0e-98b6-79b1106881ec",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "The report focuses on the medical equipment renewal program in China's healthcare industry. The industry encompasses the manufacturing, distribution, and utilization of medical devices, equipment, and supplies within hospitals and other healthcare facilities."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 3,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "c3ecffcf-32ce-43b6-95c4-13f816edf769": {
+    "id": "c3ecffcf-32ce-43b6-95c4-13f816edf769",
+    "value": [
+      {
+        "id": "7b08bb6e-26e4-4d41-84eb-776879bebed6",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "The report highlights the potential program size for the year 2024, initially estimated at Rmb85.6bn by UBS analysts. However, based on data from 10 provinces as of July 15th, 2024, the total investment size reached Rmb19.7bn. This translates to an extrapolated investment size of Rmb55.9bn for the entire program. This suggests the actual program size may fall short of the initial estimate and aligns more closely with the ~Rmb74bn estimate from UBS channel checks."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 4,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "a243f502-fbf6-4ee9-8a8d-e9dc067202fd": {
+    "id": "a243f502-fbf6-4ee9-8a8d-e9dc067202fd",
+    "value": [
+      {
+        "id": "8317e0e4-f3f9-4876-9058-baf8897a2a73",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Key trends driving the industry include a robust emphasis on technological advancements, a growing aging population with increased healthcare needs, and government initiatives aimed at enhancing the quality and accessibility of medical care. The regional market analysis reveals that the investment size for equipment renewal varies across provinces."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 5,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "0c0c477b-c44c-49cb-a615-066aaa8e0472": {
+    "id": "0c0c477b-c44c-49cb-a615-066aaa8e0472",
+    "value": [
+      {
+        "id": "d4331957-bf30-45ed-8a28-b10811649eff",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "The economic and policy environment is characterized by a blend of central government support, including the allocation of ultra-long special treasury bonds, and the need for matching funds from local governments and hospitals. The report highlights the policy for subsidized loans, which seeks to mitigate financing challenges for hospitals."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 6,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "ba7fd19c-e345-4d40-9b9d-3cb17167cd0d": {
+    "id": "ba7fd19c-e345-4d40-9b9d-3cb17167cd0d",
+    "value": [
+      {
+        "id": "2de0f723-06ec-4c79-982f-c53e70cc4ab0",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 7,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "cd63f3c3-957c-4969-8853-91f1f12e6fac": {
+    "id": "cd63f3c3-957c-4969-8853-91f1f12e6fac",
+    "value": [
+      {
+        "id": "a32b9b7e-bff6-4853-a2a6-962e254bd685",
+        "type": "heading-three",
+        "children": [
+          {
+            "text": "2. Financial Performance"
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "HeadingThree",
+    "meta": {
+      "order": 8,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "b4f7295b-7d08-4291-9e30-c1cd16be5380": {
+    "id": "b4f7295b-7d08-4291-9e30-c1cd16be5380",
+    "value": [
+      {
+        "id": "8c0bf9d5-9cca-4af1-89f8-e5178e89bb7d",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "The report does not offer specific financial performance figures for the medtech companies operating within China. However, it does discuss the funding sources for the medical equipment renewal program. The report states that the central government is expected to contribute approximately 60% of the total investment, while local governments and hospitals are expected to cover the remaining 40%. The funding sources are expected to include a combination of government subsidies, hospitals' own funds, and subsidized loans."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 9,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "3092cf9a-747d-4859-9ab3-2d3c83b62d89": {
+    "id": "3092cf9a-747d-4859-9ab3-2d3c83b62d89",
+    "value": [
+      {
+        "id": "c0d04cdc-8739-4c65-b5bb-f10c2c0b5112",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 10,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "6b370dbf-1d10-4b81-95b8-68802baaec31": {
+    "id": "6b370dbf-1d10-4b81-95b8-68802baaec31",
+    "value": [
+      {
+        "id": "0b429a03-14e2-48b7-968e-d8986debfba8",
+        "type": "heading-three",
+        "children": [
+          {
+            "text": "3. Market Position and Strategy"
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "HeadingThree",
+    "meta": {
+      "order": 11,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "6f1cf76e-c728-43a6-8019-9c67b35e2e33": {
+    "id": "6f1cf76e-c728-43a6-8019-9c67b35e2e33",
+    "value": [
+      {
+        "id": "ca119c45-db4d-4e0c-b052-9a1efefbb7fa",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "The report emphasizes the role of global medtech companies in the program, stating that they can participate as long as their products are manufactured in China. The report suggests that global companies should be able to leverage their technological advancements and market expertise to secure a share in the program."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 12,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "bfdce2e3-75b5-4a42-9473-f26fc6eeaef9": {
+    "id": "bfdce2e3-75b5-4a42-9473-f26fc6eeaef9",
+    "value": [
+      {
+        "id": "8fae504f-7e61-4f70-8c98-8d9f418e8315",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 13,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "12519161-0c66-4887-916c-3c267b834080": {
+    "id": "12519161-0c66-4887-916c-3c267b834080",
+    "value": [
+      {
+        "id": "e8045de9-aa15-4dc9-94d9-c09dc8689842",
+        "type": "heading-three",
+        "children": [
+          {
+            "text": "4. Competitive Landscape"
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "HeadingThree",
+    "meta": {
+      "order": 14,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "c2482020-a908-4464-a37e-af742025a257": {
+    "id": "c2482020-a908-4464-a37e-af742025a257",
+    "value": [
+      {
+        "id": "383671da-8f0b-4e53-9c9c-f4d1256c2c88",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "The report does not provide a detailed competitive landscape analysis. However, it suggests that global medtech companies face competition from domestic Chinese companies in the medical equipment market. The report highlights the government's support for domestic companies, potentially leading to a more competitive environment for global players."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 15,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "00ccf1bd-becc-4b4b-8a00-228f4822aa34": {
+    "id": "00ccf1bd-becc-4b4b-8a00-228f4822aa34",
+    "value": [
+      {
+        "id": "a520c63f-a188-4f6e-92df-b87c05683a78",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 16,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "62d1ece5-1a01-46cb-a120-58000d1e0a72": {
+    "id": "62d1ece5-1a01-46cb-a120-58000d1e0a72",
+    "value": [
+      {
+        "id": "81f66890-7695-4e3f-b8a2-7f0ac509ee83",
+        "type": "heading-three",
+        "children": [
+          {
+            "text": "5. Innovation and Product Development"
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "HeadingThree",
+    "meta": {
+      "order": 17,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "0bc1271d-57d5-4410-9f30-37ad22cd3c04": {
+    "id": "0bc1271d-57d5-4410-9f30-37ad22cd3c04",
+    "value": [
+      {
+        "id": "26c2d358-3f48-4817-a31d-6a18a94ecafc",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "The report does not offer specific details on the company’s R&D strategy or technological innovation. However, it notes that the Executive Meeting of the State Council has emphasized support for both domestic and foreign companies to participate in the equipment renewal program, indicating a broader focus on advancing technological capabilities within the medtech industry."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 18,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "6c2bd728-0705-4f3d-ab5d-6c595aa6a283": {
+    "id": "6c2bd728-0705-4f3d-ab5d-6c595aa6a283",
+    "value": [
+      {
+        "id": "918c9638-22ce-4366-a34e-f25459fa6c4c",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 19,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "50650207-dc28-498e-933b-b174a24324f9": {
+    "id": "50650207-dc28-498e-933b-b174a24324f9",
+    "value": [
+      {
+        "id": "cf7dc818-0eef-4c97-aac2-8c814101ae4e",
+        "type": "heading-three",
+        "children": [
+          {
+            "text": "6.SWOT Analysis"
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "HeadingThree",
+    "meta": {
+      "order": 20,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "f5194cdb-f40b-4098-bf41-de4a794bb243": {
+    "id": "f5194cdb-f40b-4098-bf41-de4a794bb243",
+    "value": [
+      {
+        "id": "6f672bb2-ccad-4a9c-9290-0550f09baa38",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Strengths",
+            "bold": true
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 21,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "47d998f1-7f8e-4207-be01-dc6a587b671f": {
+    "id": "47d998f1-7f8e-4207-be01-dc6a587b671f",
+    "value": [
+      {
+        "id": "47859576-71a9-485e-84e9-4aef9479988d",
+        "type": "bulleted-list",
+        "children": [
+          {
+            "text": "Strong government support for the medtech industry, including subsidies and subsidized loans."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "BulletedList",
+    "meta": {
+      "order": 22,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "a1f2cbce-6f39-425d-9379-b8e81f21250e": {
+    "id": "a1f2cbce-6f39-425d-9379-b8e81f21250e",
+    "value": [
+      {
+        "id": "bbffea0c-6fad-4999-80a8-88315ef9f65d",
+        "type": "bulleted-list",
+        "children": [
+          {
+            "text": "A large and growing market driven by factors such as an aging population and increasing demand for healthcare."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "BulletedList",
+    "meta": {
+      "order": 23,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "d2f7de6e-5b41-4c0e-80b7-0cebae176228": {
+    "id": "d2f7de6e-5b41-4c0e-80b7-0cebae176228",
+    "value": [
+      {
+        "id": "e3d4300d-a257-42c7-9000-a5b59e16c17f",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Weaknesses",
+            "bold": true
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 24,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "57d643db-73bc-413a-a8b6-9d114684f049": {
+    "id": "57d643db-73bc-413a-a8b6-9d114684f049",
+    "value": [
+      {
+        "id": "3b52eab3-24e4-4453-8368-3cf43c02a2d2",
+        "type": "bulleted-list",
+        "children": [
+          {
+            "text": "Potential for price cuts and market share gains from the medtech GPO policy."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "BulletedList",
+    "meta": {
+      "order": 25,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "4ee391f9-7afa-42a8-a2c1-b3fdf936bd0c": {
+    "id": "4ee391f9-7afa-42a8-a2c1-b3fdf936bd0c",
+    "value": [
+      {
+        "id": "0261b48e-525b-4b44-9072-47c59e3f78e7",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Opportunities",
+            "bold": true
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 26,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "d42d6d48-7faf-4b68-ae9f-ae8ef2f0e1f0": {
+    "id": "d42d6d48-7faf-4b68-ae9f-ae8ef2f0e1f0",
+    "value": [
+      {
+        "id": "b164b0b2-c4b3-4705-a708-96d562debd7b",
+        "type": "bulleted-list",
+        "children": [
+          {
+            "text": "Significant growth potential for medtech companies due to the equipment renewal program."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "BulletedList",
+    "meta": {
+      "order": 27,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "06beed8f-2423-403e-88db-f8f133d41c80": {
+    "id": "06beed8f-2423-403e-88db-f8f133d41c80",
+    "value": [
+      {
+        "id": "9d82b859-f9af-4dfc-b1aa-e5406314f8c9",
+        "type": "bulleted-list",
+        "children": [
+          {
+            "text": "The opportunity for global companies to leverage their advanced technology and expertise."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "BulletedList",
+    "meta": {
+      "order": 28,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "2d235ae0-b0f4-4d7a-b6ef-21dfec69a90d": {
+    "id": "2d235ae0-b0f4-4d7a-b6ef-21dfec69a90d",
+    "value": [
+      {
+        "id": "8a2b6f48-28e6-4c93-aa45-f5ce06de8d1a",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Threats",
+            "bold": true
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 29,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "bdc6e27f-883c-4227-aff1-f20e2d9dc904": {
+    "id": "bdc6e27f-883c-4227-aff1-f20e2d9dc904",
+    "value": [
+      {
+        "id": "9d55ae10-f145-4f8f-a610-91267b27716d",
+        "type": "bulleted-list",
+        "children": [
+          {
+            "text": "Slower-than-expected recovery of surgical procedures after China's reopening."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "BulletedList",
+    "meta": {
+      "order": 30,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "3a23abdf-8680-41f8-a869-37ec7bedb99a": {
+    "id": "3a23abdf-8680-41f8-a869-37ec7bedb99a",
+    "value": [
+      {
+        "id": "6200b9d4-c100-4ec9-a0e4-5be635f890c9",
+        "type": "bulleted-list",
+        "children": [
+          {
+            "text": "Potential geopolitical risks impacting the supply chain for medical equipment."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "BulletedList",
+    "meta": {
+      "order": 31,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "1d072ace-d47c-4dd4-b16f-456bfab6ea29": {
+    "id": "1d072ace-d47c-4dd4-b16f-456bfab6ea29",
+    "value": [
+      {
+        "id": "0da9cd7e-6dc4-4062-9b39-e1dc5312742f",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 32,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "00d1f64a-f82b-4504-9ca2-95e0bbbc8b63": {
+    "id": "00d1f64a-f82b-4504-9ca2-95e0bbbc8b63",
+    "value": [
+      {
+        "id": "602a0fa2-982a-41bc-b39f-bbce84d03023",
+        "type": "heading-three",
+        "children": [
+          {
+            "text": "7. Future Prospects"
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "HeadingThree",
+    "meta": {
+      "order": 33,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "69c4ee04-58b1-435c-a865-22873dfd5d27": {
+    "id": "69c4ee04-58b1-435c-a865-22873dfd5d27",
+    "value": [
+      {
+        "id": "56ad85ce-9875-43e4-b909-8963151ae31d",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "The report suggests that the medical equipment renewal program represents a significant opportunity for medtech companies, both domestic and global, to grow their business in China. The future prospects for the industry are positive, driven by factors such as an aging population and the government's commitment to improving healthcare infrastructure. However, challenges remain, including the need to ensure that local governments and hospitals have adequate funding to participate in the program. The report highlights the potential risks posed by price cuts, weak demand, and geopolitical tensions."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 34,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "4e804304-56aa-42a0-b912-4acca296bc8d": {
+    "id": "4e804304-56aa-42a0-b912-4acca296bc8d",
+    "value": [
+      {
+        "id": "4e677731-d144-4882-8735-b7ec28b4f177",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "The report concludes by emphasizing the potential for medtech companies to leverage innovation and collaboration to seize opportunities within this burgeoning market. Despite the challenges, the report expresses optimism about the future prospects of China's medtech industry, highlighting the potential for continued growth and development."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 35,
+      "depth": 0,
+      "align": "left"
+    }
+  }
+}

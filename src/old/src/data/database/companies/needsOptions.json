@@ -1,0 +1,28 @@
+{
+  "en": [
+    ["Investment and Financing", "Investment and Financing"],
+    ["Market/Channel", "Market/Channel"],
+    ["Scientific Research/Clinical", "Scientific Research/Clinical"],
+    ["Achievements Transformation", "Achievements Transformation"],
+    ["Investment Promotion", "Investment Promotion"],
+    ["Product Release", "Product Release"],
+    ["Supply Chain", "Supply Chain"],
+    ["Supplier & Engineering", "Supplier & Engineering"],
+    ["Expanding Overseas Market", "Expanding Overseas Market"],
+    ["Consulting", "Consulting"],
+    ["Intellectual Property", "Intellectual Property"]
+  ],
+  "zh": [
+    ["投資和融資", "Investment and Financing"],
+    ["市場/渠道", "Market/Channel"],
+    ["科學研究/臨床", "Scientific Research/Clinical"],
+    ["成果轉化", "Achievements Transformation"],
+    ["投資促進", "Investment Promotion"],
+    ["產品發布", "Product Release"],
+    ["供應鏈", "Supply Chain"],
+    ["供應商與工程", "Supplier & Engineering"],
+    ["拓展海外市場", "Expanding Overseas Market"],
+    ["諮詢", "Consulting"],
+    ["智慧財產權", "Intellectual Property"]
+  ]
+}

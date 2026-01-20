@@ -3,9 +3,12 @@ import useSWR from "swr";
 import { useState, useEffect } from "react";
 
 // TODO: Set these in .env.local
-const baseURL = process.env.NEXT_PUBLIC_API_URL + "/companies";
-const assetURL = process.env.NEXT_PUBLIC_API_URL + "/assets";
-const VITE_API_URL = process.env.NEXT_PUBLIC_API_URL || "";
+// TODO: Set these in .env.local
+// Point to local proxy instead of external URL directly
+const baseURL = "/api/proxy/companies"; 
+const assetURL = "/api/proxy/assets";
+// VITE_API_URL used to be the main API root. Now point to proxy root.
+const VITE_API_URL = "/api/proxy"; 
 
 export const companiesSearchURL = (data: any) =>
   baseURL +
@@ -41,18 +44,17 @@ export const companyProfileAssetsURL = (id: string) =>
 export const fetcher_get = (url: string) =>
   axios
     .get(url, {
-      withCredentials: true,
+      // withCredentials not strictly needed for same-origin (proxy) but harmless.
+      // Removed localStorage clear as we don't use it anymore.
       headers: { Accept: "application/json" },
     })
     .then((res) => {
       return res.data;
     })
     .catch((err) => {
+        // If 401, potentially handle global logout via event or just return null
       if (err.response && err.response.status === 401) {
-        if (typeof window !== "undefined") {
-          localStorage.clear();
-        }
-        return null;
+        return null; // Return null instead of clearing non-existent localStorage
       }
       throw err;
     });

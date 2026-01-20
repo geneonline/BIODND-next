@@ -1,0 +1,1199 @@
+{
+  "head": {
+    "home": {
+      "title": "BIODND - 提供生物醫藥公司產業資料庫，協助生醫轉業人士做出明智決策",
+      "description": "透過BIODND，智慧地做出決策！成為生物醫藥領域的最佳夥伴，提供您所需的生命科學數據、監管見解和產業趨勢，助您輕鬆優化投資管道。"
+    },
+    "database": {
+      "title": "BIODND 資料庫 - 搜索精準的生命科學數據",
+      "description": "探索 BIODND 精準的生命科學資料庫和市場研究平台，為生物技術和製藥專業人士量身打造的資源。輕鬆搜尋公司、資產和行業趨勢，有效地優化您的決策流程。"
+    },
+    "event": {
+      "title": "BIODND 活動：生命科學夥伴、投資與創新聚焦",
+      "description": "深入參與 BIODND 的合作夥伴研討會，匯集從草創企業到世界500強企業的企業家。獲取資訊、找到投資機會，並在生物科技生態系中建立持久夥伴關係。加入我們，一同投資、開展BD&L機會，攜手合作，推動人類健康。"
+    }
+  },
+  "nav": {
+    "chatbot": "CHATDND",
+    "bridging": "夥伴通",
+    "database": "資料庫",
+    "news": "新聞",
+    "member_network": "社群網路",
+    "event": "活動專區",
+    "subscribe": "付費方案",
+    "login": "登入",
+    "signup": "註冊",
+    "about": "關於",
+    "contact_us": "聯絡我們",
+    "user_button": {
+      "view_user_profile": "會員檔案",
+      "view_company_profile": "公司檔案",
+      "view_my_list": "我的清單",
+      "subscribe": "訂閱",
+      "log_out": "登出"
+    },
+    "null_info": "請先建立個人檔案"
+  },
+  "home": {
+    "search_section": {
+      "placeholder": "搜尋關於生醫產業公司的關鍵字及公司名稱",
+      "title": "協助專業人士<br />可供搜尋的產業資料庫。",
+      "description": "BIODND運用人工智慧（AI）簡化了生命科學領域的交易流程，幫助專業人士、業務領導人，及投資人更快的發現有前瞻性機會。<br /><br />我們精準的資料庫整合了亞洲、歐洲和北美的公司資訊，提供資金、合作及技術管線的重要資訊。透過 AI 生成的市場報告獲得深入見解，並利用我們的夥伴通功能進行全球化的連結，優化您的策略。",
+      "graph_part": {
+        "purple": "亞太地區生命科學公司的全面資料庫",
+        "blue": "深入的全球數據",
+        "green": "為全球用戶提供友好的雙語界面"
+      }
+    },
+    "our_partners": "我們的合作夥伴",
+    "demo_section": {
+      "title": "使用BIODND各項強大特色功能<br />探索生醫產業無限可能性",
+      "database": "資料庫",
+      "company_profile": "公司檔案",
+      "user_profile": "用戶檔案"
+    },
+    "chart_section": {
+      "companies": "家生醫企業",
+      "company_assets": "筆投資",
+      "company_types": "生醫企業類別",
+      "companies_by_area": "公司種類",
+      "asset_type": "投資領域",
+      "companies_by_type": "用戶所在地區",
+      "up": "",
+      "types": ""
+    },
+    "why_bio": {
+      "title": "為何",
+      "description_title": [
+        "優化您的決策過程",
+        "取得精準的產業洞察與分析",
+        "超越地域與國界"
+      ],
+      "description_content": [
+        "BIODND 的 AI 智能搜索工具－利用 AI 搜索引擎高效提取數據，並快速找到生技公司、臨床試驗和法規資訊，促進更順暢的互動和決策。",
+        "BIODND 與 Google AI 計畫合作開發的 AI 生成市場報告，利用先進的數據分析和機器學習技術，提供更深入的市場見解和趨勢預測，助您掌握市場動態。",
+        "BIODND 的夥伴通功能，通過互動工具，將您與全球的專家、機構和團隊橋接起來，增強企業合作並促進有效溝通。"
+      ],
+      "join_button": "加入 BIODND",
+      "rect": {
+        "purple": {
+          "title": "強大資料比較工具簡化決策過程",
+          "description": "在BIODND資料庫中輕鬆比較目標公司，揭示關鍵的相似之處、差異以及新興的行業趨勢。非常適合希望獲得競爭優勢的生命科學高管和分析師。"
+        },
+        "green": {
+          "title": "在生技醫藥領域建立商業社交網路",
+          "description": "加入BIODND會員網路，與全球領先的專業人士建立聯繫、合作並建立夥伴關係，是培養策略關係和拓展產業知識的首選。"
+        },
+        "blue": {
+          "title": "輕鬆生成客製化洞察報告",
+          "description": "利用BIODND強大的資料庫，自動生成符合您特定產業需求的詳細趨勢報告。是進行市場研究或跟跟進產業發展的製藥和生物技術分析師的最佳選擇。"
+        }
+      }
+    },
+    "about_geneonline": {
+      "title": "關於基因線上GeneOnline",
+      "description": "基因線上集團是一間專注於生命科學產業的 B2B 生醫媒體資訊平台。是亞太地區生命科學領域媒體領導品牌，我們將重點關注在亞太市場，藉由報導最新的產業趨勢、臨床研究重點，並將關鍵意見領袖專訪內容以多國語言的形式進行媒體曝光。我們的宗旨是希望藉由 B2B 專業媒體服務以及資料庫平台，加速全球生命科學產業的業務拓展。<br />基因線上集團致力於提供精準的媒體曝光服務和業務拓展解決方案，協助您在生命科學領域取得更卓越的成就。期待與您攜手共創更美好的生命科學產業未來。"
+    },
+    "partnership_section": {
+      "title": "合作夥伴",
+      "description": "我們已經成功與美國與亞太地區的多家生醫企業建立良好的合作關係。"
+    },
+    "join_us_section": {
+      "description": "打開通往國際生醫產業網路的大門",
+      "join_biodnd": "加入 BIODND"
+    }
+  },
+  "about": {
+    "title": "關於我們",
+    "sub_title": "關於 BIODND",
+    "p1": "BIODND 是一套由 AI人工智慧所驅動的生命科學產業資料庫，整合了來自APAC區域、歐洲和北美的生命科學產業公司，以及學術機構團隊的相關資訊。",
+    "p2": "可加速生命科學產業高階管理人士、業務拓展專員，及投資者尋找投資標的流程。BIODND期望成為一個串聯生命科學產業上下游廠商的媒介平臺。"
+  },
+  "footer": {
+    "about": "關於我們",
+    "database": "資料庫",
+    "contact_us": "聯絡我們",
+    "report_issue": "回報問題",
+    "terms_of_service": "服務條款",
+    "copyright": "BIODND @ All Rights Reserved."
+  },
+  "login": {
+    "login_page": {
+      "title": "登入",
+      "email_unverified": {
+        "message": "登入失敗。請驗證您的電子郵件後再重新登入。",
+        "button": "前往電郵驗證頁面"
+      },
+      "wrong_email_password": "電子郵件或密碼錯誤。",
+      "form": {
+        "email_label": "電子郵件",
+        "email_placeholder": "輸入電子信箱",
+        "password_label": "密碼",
+        "password_placeholder": "輸入密碼",
+        "remember_me": "記得我",
+        "forgot_password": "忘記密碼？",
+        "login_button": "登入",
+        "or_continue_with": "或透過以下社群帳號登入",
+        "new_to_biodnd": "尚未加入BIODND?",
+        "create_account": "立即註冊"
+      }
+    },
+    "forgot_password_page": {
+      "title": "忘記密碼了嗎？",
+      "instructions": "輸入註冊時使用的電子郵件地址，<br/>系統將會寄送含連結的通知信至此信箱以重設密碼。",
+      "form": {
+        "email_label": "電子郵件",
+        "email_placeholder": "請輸入您的電子郵件地址",
+        "send_mail_button": "寄送重設密碼通知信"
+      },
+      "no_account": "這個帳號不存在。"
+    },
+    "reset_password_page": {
+      "title": "重設密碼",
+      "institutions": "請為您的帳戶重新設定一個密碼。",
+      "form": {
+        "password_label": "密碼",
+        "password_placeholder": "請輸入您的密碼",
+        "confirm_password_label": "確認密碼",
+        "confirm_password_placeholder": "確認您的密碼",
+        "reset_password_button": "重設密碼"
+      },
+      "success_page": {
+        "title": "您的密碼已重設成功",
+        "description": "請登入以繼續。",
+        "button": "登入"
+      },
+      "failed_page": {
+        "title": "重設密碼失敗",
+        "description": "請稍後再試。",
+        "button": "返回登入頁面"
+      }
+    },
+    "resend_email_page": {
+      "title": "重新發送電子郵件",
+      "institutions": "沒有收到電子郵件嗎？<br/>請再次輸入電子郵件地址，系統將會重新發送信件。",
+      "form": {
+        "email_label": "電子郵件",
+        "email_placeholder": "輸入電子郵件地址",
+        "unknow_email": "無效的電子郵件地址",
+        "resend_button": "重新發送電子郵件"
+      }
+    },
+    "popup": {
+      "title": "登入或註冊以繼續",
+      "description": "登入或註冊BIODND以使用搜尋或更多功能。",
+      "button": {
+        "login": "登入",
+        "signup": "註冊"
+      }
+    }
+  },
+  "signup": {
+    "signup_page": {
+      "title": "註冊",
+      "already_have_account": "已經有帳號了嗎？請點擊<1>這裡</1>登入。",
+      "form": {
+        "email_label": "電子郵件",
+        "email_placeholder": "請輸入您的電子郵件地址",
+        "email_used_warning": "這個電子郵件已被使用。",
+        "password_label": "密碼",
+        "password_placeholder": "請輸入您的密碼",
+        "confirm_password_label": "確認密碼",
+        "confirm_password_warning": "密碼必須相符。",
+        "confirm_password_placeholder": "確認您的密碼",
+        "terms_policy_before": "使用我們服務的人可能已經上傳了您的聯絡資訊到BIODND。點擊註冊即表示您同意我們的條款、",
+        "terms_policy_link": "隱私政策與Cookie政策。",
+        "terms_policy_after": "您可能會收到我們的簡訊通知，並且可以隨時選擇退出。",
+        "signup_button": "註冊"
+      },
+      "Policy": {
+        "title": "隱私權政策",
+        "introduction": "這份隱私權政策描述了我們在您使用服務時對您的資訊蒐集、使用和披露的政策和程序，並告知您有關隱私權和法律如何保護您資訊的內容。",
+        "usage": "我們使用您的個人數據來提供和改進服務。通過使用服務，您同意根據本隱私政策收集和使用資訊。這份隱私政策是使用<1>隱私政策生成器</1>創建的。",
+        "interpretationTitle": "解釋與定義",
+        "interpretationSubTitleTitle": "解釋",
+        "interpretationContent": "以下詞語在以下情況下具有定義所指的含義，並且無論是以單數還是複數形式出現，都具有相同的含義。",
+        "definitionsTitle": "定義",
+        "definitionsContent": "在本隱私權政策中，以下詞語具有相同的含義：",
+        "terms": {
+          "account": "<0>帳戶</0>指為您創建的用於訪問我們的服務或我們服務的部分的唯一帳戶。",
+          "affiliate": "<0>關聯公司</0>指控制、被控制或與一方共同控制的實體，「控制」表示擁有50%或更多股份、權益或其他有權投票選舉董事或其他管理機構的證券。",
+          "company": "<0>公司</0>（在本協議中統稱為「公司」、「我們」、「我們」或「我們的」）指GeneOnline，台北市大安區忠孝東路四段303號11樓A室。",
+          "cookies": "<0>Cookies</0>是由網站放置在您的電腦、行動設備或任何其他設備上的小型檔案，其中包含您在該網站上的瀏覽歷史等許多用途的詳細資訊。",
+          "country": "<0>國家</0>指：台灣。",
+          "device": "<0>設備</0>指任何能夠訪問服務的設備，如電腦、手機或平板電腦。",
+          "personalData": "<0>個人數據</0>是指與已識別或可識別個人相關的任何資訊。",
+          "service": "<0>服務</0>指網站。",
+          "serviceProvider": "<0>服務提供商</0>指在公司代表之際處理數據的任何自然或法人。這指的是公司雇用的第三方公司或個人，以促進服務，代表公司提供服務，執行與服務相關的服務或協助公司分析服務的使用方式。",
+          "thirdPartySocialMediaService": "<0>第三方社群媒體服務</0>指用戶可以通過其登錄或創建帳戶以使用服務的任何網站或任何社交網路網站。",
+          "usageData": "<0>使用數據</0>指通過服務的使用或服務基礎設施本身自動生成的數據，例如頁面訪問的持續時間。",
+          "website": "<0>網站</0>指BIODND，可從https://www.biodnd.com/訪問。",
+          "you": "<0>您</0>指的是訪問或使用服務的個人，或是代表該個人訪問或使用服務的公司或其他法人實體，視情況而定。"
+        },
+        "collectingPersonalDataTitle": "蒐集與使用您的個人數據",
+        "typesOfDataCollectedTitle": "蒐集的數據類型",
+        "personalDataTitle": "個人數據",
+        "personalDataDescription": "在使用我們的服務時，我們可能會要求您提供特定可用於聯繫或識別您的個人身份資訊。個人身份資訊可能包括但不限於：",
+        "personalDataList": {
+          "email": "電子郵件",
+          "name": "姓氏與名字",
+          "phone": "電話號碼",
+          "address": "地址、國家、省份、郵遞區號、城市",
+          "usageData": "使用數據"
+        },
+        "usageData": {
+          "description": "使用數據在使用服務時會自動被蒐集。",
+          "details": "使用數據可能包括諸如您設備的網路入口地址（例如 IP 地址）、瀏覽器類型、瀏覽器版本、您訪問我們服務的頁面、訪問的時間和日期、在這些頁面上花費的時間、唯一設備標識符和其他診斷數據等資訊。",
+          "details_2": "當您通過行動設備訪問服務時，我們可能會自動蒐集特定資訊，包括但不限於您使用的行動設備類型、您行動設備的唯一標識符、您行動設備的 IP 地址、您行動設備的操作系統、您使用的行動網路瀏覽器類型、唯一設備標識符和其他診斷數據。",
+          "details_3": "我們還可能在您訪問我們的服務時或通過行動設備訪問服務時蒐集您的瀏覽器在訪問時發送的資訊。"
+        },
+        "thirdPartySocialMediaServices": {
+          "title": "關於第三方社群媒體服務的資訊",
+          "description": "公司允許您通過以下第三方社群媒體服務創建帳戶並登入以使用服務：",
+          "services": ["Google", "Facebook", "Instagram", "LinkedIn"],
+          "additionalInfo": "如果您決定通過第三方社群媒體服務註冊或以其他方式授予我們對其訪問權限，我們可能會收集已與您的第三方社群媒體服務帳戶相關聯的個人數據，例如您的姓名、電子郵件地址、與該帳戶相關聯的活動或聯絡人列表。",
+          "additionalInfo_2": "您還可以選擇通過您的第三方社群媒體服務帳戶與公司分享其他資訊。如果您選擇在註冊或其他時候提供此類信息和個人數據，即表示您授權公司根據本隱私政策使用、分享和儲存這些資訊。"
+        },
+        "trackingAndCookies": {
+          "title": "追蹤技術與Cookies",
+          "description": "我們使用Cookies和類似的追蹤技術來追蹤我們服務上的活動並儲存特定資訊。我們使用的追蹤技術包括信標、標籤和腳本，用於收集和追蹤資訊以改進和分析我們的服務。我們使用的技術可能包括：",
+          "description_2": "Cookies或瀏覽器Cookies。Cookie是放置在您設備上的小型檔案。您可以指示您的瀏覽器拒絕所有Cookies或在發送Cookie時進行提示。但是，如果您不接受Cookies，可能無法使用我們服務的某些部分。除非您已調整瀏覽器設定以阻擋Cookies，否則我們的服務可能會使用Cookies。",
+          "description_3": "網路信標。我們服務的某些部分和我們的電子郵件可能包含稱為網路信標（也稱為清晰GIF圖像、像素標籤和單像素GIF圖像）的小電子文件，允許公司例如計算訪問過這些頁面或打開電子郵件的用戶數量，以及其他相關的網站統計資訊（例如記錄某個部分的受歡迎程度和驗證系統和服務器完整性）。",
+          "cookiesTypes": {
+            "persistent": "Cookies可以是「持久性」或「暫存」Cookies。持久性Cookies在您離線時保留在個人電腦或行動設備上，而暫存Cookies會在您關閉網路瀏覽器時被刪除。在隱私權政策的網站文章中了解更多有關Cookies的資訊。",
+            "below": "我們使用暫存和持久性Cookies來實現以下目的：",
+            "administered": "管理方：我們",
+            "necessary": {
+              "title": "必要 / 基本Cookies",
+              "type": "類型：暫存Cookies",
+              "description": "目的：這些Cookies對於提供通過網站可用的服務以及使您能夠使用其某些功能至關重要。它們有助於驗證用戶並防止用戶帳戶的冒用。如果沒有這些Cookies，您所請求的服務將無法提供，我們只會使用這些Cookies來為您提供這些服務。"
+            },
+            "policyAcceptance": {
+              "title": "Cookies 政策 / 通知接受 Cookies",
+              "type": "類型：持久性Cookies",
+              "description": "目的：這些 Cookies 用於識別用戶是否已經同意在網站上使用 Cookies。"
+            },
+            "functionality": {
+              "title": "功能性Cookies",
+              "type": "類型：持久性Cookies",
+              "description": "目的：這些 Cookies 允許我們記住您在使用網站時所做的選擇，例如記住您的登入詳情或語言偏好。這些 Cookies 的目的是為了為您提供更個人化的體驗，避免您每次使用網站時都需要重新輸入您的偏好設定。",
+              "description_2": "有關我們使用的 Cookies 以及您對 Cookies 的選擇，請訪問我們的 Cookies 政策或隱私權政策的 Cookies 部分獲取更多資訊。"
+            }
+          }
+        },
+        "personalDataUse": {
+          "title": "關於您個人數據的使用",
+          "description": "公司可能會基於以下目的使用您的個人數據：",
+          "purposes": {
+            "serviceProvision": "<0>為提供和維護我們的服務</0>，包括監控我們服務的使用情況。",
+            "accountManagement": "<0>管理您的帳戶</0>：管理您作為一位服務用戶的註冊。您提供的個人數據可以讓您作為註冊用戶訪問服務的不同功能。",
+            "contractPerformance": "<0>履行合約</0>：履行購買產品、物品或服務的合約，或通過服務與我們簽訂的任何其他合約的開發、合規和執行。",
+            "communication": "<0>與您聯繫</0>：通過電子郵件、電話、簡訊或其他等效的電子通信方式與您聯繫，例如行動應用程式的推送通知，關於與功能、產品或已訂購服務相關的更新或資訊通訊，包括必要或合理的安全更新。",
+            "marketing": "<0>提供</0>新聞、特別優惠和有關我們提供的與您已購買或詢問過的類似商品、服務和事件相關的一般資訊，除非您選擇不接收此類資訊。",
+            "requestsManagement": "<0>處理您的請求</0>：處理並回應您向我們提出的請求。",
+            "businessTransfers": "<0>業務轉讓</0>：我們可能使用您的資訊評估或進行合併、剝奪財產權利、重組、改組、解散或其他某些或全部資產的出售或轉讓，無論是作為持續經營的一部分還是作為破產、清算或類似程序的一部分，在這些情況下，我們保存的有關服務用戶的個人數據可能是被轉讓的資產之一。",
+            "otherPurposes": "<0>其他目的</0>：我們可能出於其他目的使用您的資訊，如數據分析、識別使用趨勢、評估促銷活動的有效性，以及評估和改進我們的服務、產品、營銷和您的體驗。"
+          }
+        },
+        "personalDataSharing": {
+          "description": "我們可能會在以下情況分享您的個人資訊：",
+          "situations": {
+            "withServiceProviders": "<0>與服務提供商分享</0>：我們可能與服務提供商分享您的個人資訊，以監控和分析我們服務的使用情況，並與您聯繫。",
+            "forBusinessTransfers": "<0>業務轉讓</0>：在與任何合併、公司資產出售、融資或對我們業務的全部或部分進行收購的談判中，我們可能會分享或轉讓您的個人資訊。",
+            "withAffiliates": "<0>與關聯公司分享</0>：我們可能會與我們的關聯公司分享您的資訊，在這種情況下，我們將要求這些關聯公司遵守本隱私權政策。關聯公司包括我們的母公司和任何其他子公司、合資夥伴或與我們共同控制的其他公司。",
+            "withBusinessPartners": "<0>與業務合作夥伴分享</0>：我們可能會與我們的業務合作夥伴分享您的資訊，以向您提供特定的產品、服務或促銷活動。",
+            "withOtherUsers": "<0>與其他用戶分享</0>：當您在公共區域分享個人資訊或以其他方式與其他用戶互動時，這些資訊可能會被所有用戶查看，並可能在外部公開分發。如果您與其他用戶互動或通過第三方社群媒體服務註冊，第三方社群媒體服務上的聯絡人可能會看到您的姓名、個人資料、照片和您的活動描述。同樣，其他用戶將能夠查看您的活動描述、與您溝通和查看您的個人資料。",
+            "withYourConsent": "<0>在您的同意下分享</0>：在獲得您的同意的情況下，我們可能會出於任何其他目的披露您的個人資訊。"
+          }
+        },
+        "personalDataRetention": {
+          "title": "關於保留您的個人數據",
+          "description": "公司僅在本隱私政策規定的目的所需的時間內保留您的個人數據。我們將保留並使用您的個人數據，以符合我們的法律義務（例如，如果我們需要保留您的數據以遵守適用法律）、解決爭議並執行我們的法律協議和政策。",
+          "description_2": "公司還將保留使用數據用於內部分析目的。使用數據通常會保留較短的時間，除非此數據用於加強服務的安全性或提高功能，或者我們在法律上被要求保留此數據更長的時間。"
+        },
+        "personalDataTransfer": {
+          "title": "關於轉移您的個人數據",
+          "description": "您的資訊，包括個人數據，將在公司的營運辦公室以及處理相關方所在的任何其他地方進行處理。這意味著這些資訊可能被轉移到您所在州、省、國家或其他政府管轄區之外的電腦上，並在該處維護，而該地的數據保護法可能與您所在的管轄區不同。",
+          "description_2": "您對本隱私權政策的同意，以及您提供此類資訊，表示您同意進行這種轉移。",
+          "description_3": "公司將採取一切合理必要的措施，確保按照本隱私權政策安全處理您的數據，不會向任何組織或國家轉移您的個人數據，除非有足夠的控制措施，包括對您的數據和其他個人資訊的安全控管。"
+        },
+        "personalDataDeletion": {
+          "title": "關於刪除您的個人數據",
+          "description": "您有權刪除或要求我們協助刪除我們蒐集到的有關您的個人數據。",
+          "description_2": "我們的服務可能會為您提供從服務內部刪除有關您的某些資訊的功能。",
+          "description_3": "您可以通過登錄您的帳戶（如果有的話）並訪問允許您管理個人資訊的帳戶設定部分，隨時更新、修改或刪除您的資訊。您也可以聯繫我們，請求訪問、更正或刪除您提供給我們的任何個人資訊。",
+          "description_4": "請注意，但是，當我們有法定義務或法定依據時，我們可能需要保留某些資訊。"
+        },
+        "personalDataDisclosure": {
+          "title": "關於披露您的個人數據",
+          "businessTransactions": "業務交易",
+          "description": "如果公司參與合併、收購或資產出售，您的個人數據可能會被轉移。在您的個人數據被轉移並受到不同隱私權政策約束之前，我們將提前通知您。",
+          "lawEnforcement": "法律執行",
+          "description_2": "在某些情況下，公司可能會根據法律的要求或對公共當局（例如法院或政府機構）的有效要求披露您的個人數據。"
+        },
+        "personalDataOther": {
+          "title": "其他法律要求",
+          "description": "公司可能會出於善意信念的原因披露您的個人數據，認為此類行動是必要的：",
+          "list": [
+            "遵守法律義務",
+            "保護和捍衛公司的權利或財產",
+            "防止或調查與服務有關的可能不當行為",
+            "保護服務用戶或公眾的個人安全",
+            "防範法律責任"
+          ]
+        },
+        "security": {
+          "title": "關於個人數據的安全",
+          "description": "您的個人數據安全對我們至關重要，但請記住，網路傳輸或電子儲存的任何方式都無法百分之百安全。儘管我們努力採用商業上可接受的手段來保護您的個人數據，但我們無法保證其絕對安全。"
+        },
+        "childrensPrivacy": {
+          "title": "兒童隱私權",
+          "description": "我們的服務不提供予13歲以下的任何人。我們不會蓄意從13歲以下的任何人蒐集可識別個人身份的資訊。如果您是父母或監護人，並且您知道您的孩子向我們提供了個人數據，請與我們聯繫。如果我們得知我們在未經父母同意的情況下從13歲以下的任何人身上蒐集了個人數據，我們將採取措施從我們的伺服器中刪除這些信息。",
+          "description_2": "如果我們需要仰賴同意作為處理您資訊的法律依據，而您所在的國家要求從父母獲得同意，我們可能需要在蒐集和使用該資訊之前獲得您父母的同意。"
+        },
+        "linksToOtherWebsites": {
+          "title": "連結至其他網站",
+          "description": "我們的服務可能包含導向並非由我們營運的其他網站之連結。如果您點擊第三方連結，您將被引導到該第三方的網站。我們強烈建議您查看您訪問的每個網站的隱私權政策。",
+          "description_2": "我們無法控制並且不對任何第三方網站或服務的內容、隱私政策或做法承擔責任。"
+        },
+        "policyChanges": {
+          "title": "針對此隱私權政策的變更",
+          "description": "我們可能會不時更新我們的隱私權政策。我們將通過在此頁面上發布新的隱私權政策來通知您。",
+          "description_2": "在變更生效之前，我們將通過電子郵件和/或在我們的服務上顯著位置的通知來告知您，並更新本隱私權政策頂部的「最後更新」日期。",
+          "description_3": "建議您定期查看本隱私權政策以獲知任何更動。對本隱私權政策的更改在發布到此頁面時生效。"
+        },
+        "contactUs": {
+          "title": "聯絡我們",
+          "description": "若對此隱私權政策有任何問題，請聯繫我們：",
+          "email": "jerry.jhuang@geneonlineasia.com"
+        },
+        "cookiesPolicy": {
+          "title": "Cookies政策",
+          "sections": {
+            "whatAreCookies": {
+              "title": "什麼是Cookie?",
+              "content": "Cookies是用於在網路瀏覽器上儲存資訊的小型文件檔。Cookies用於在電腦、手機和其他設備上儲存和接收標識符和其他資訊。其他技術，包括我們儲存在您的網路瀏覽器或設備上的數據、與您的設備相關聯的標識符以及其他軟體，都用於類似的目的。在本政策中，我們將所有這些技術稱為「Cookies」。"
+            },
+            "usage": {
+              "content": "如果您擁有BIODND帳戶、使用GeneOnline產品，包括我們的網站，或訪問其他使用GeneOnline產品的網站，我們將使用Cookies。Cookies使GeneOnline能夠向您提供GeneOnline產品，並了解我們收到的有關您的資訊，包括您對其他網站和應用的使用資訊，無論您是否已註冊或登入。"
+            },
+            "explains": "本政策解釋了我們如何使用Cookies以及您的選擇。除非本政策另有說明，否則將適用於我們通過Cookies蒐集的數據的處理。",
+            "whereWeUse": {
+              "title": "我們在哪裡使用Cookies",
+              "content": "當您使用或訪問以下內容時，我們可能會在您的電腦或設備上放置Cookies並接收儲存在Cookies中的資訊：",
+              "content_2": "GeneOnline產品;",
+              "content_3": "GeneOnline其他成員提供的產品;以及使用GeneOnline產品的其他公司提供的網站和應用，包括將GeneOnline技術整合到其網站和應用中的公司。當您訪問這些站點和應用時，GeneOnline會使用Cookies並接收有關您的活動等資訊，而無需您採取進一步的操作。"
+            },
+            "typesOfCookies": {
+              "title": "我們使用哪些Cookies",
+              "necessaryCookies": {
+                "title": "必要的Cookies",
+                "content": "必要的Cookies使我們能夠在訪問和瀏覽我們的網站以及使用其功能時為您提供最佳體驗。例如，這些Cookies使我們能夠識別您已經創建了一個帳戶並已登入至該帳戶。"
+              },
+              "functionalityCookies": {
+                "title": "功能性Cookies",
+                "content": "功能性Cookies使我們能夠根據您的選擇運作網站。例如，我們將識別您的用戶名並記住您在將來訪問時如何自定義網站。"
+              },
+              "analyticalCookies": {
+                "title": "分析性Cookies",
+                "content": "這些Cookies使我們和第三方服務能夠蒐集有關我們訪問者如何使用網站的統計目的的匯總數據。這些Cookies不包含個人資訊，如姓名和電子郵件地址，旨在幫助我們改善您對網站的用戶體驗。"
+              }
+            },
+            "howToDelete": {
+              "title": "如何刪除Cookies",
+              "content": "如果您希望限制或封鎖由我們的網站設置的Cookies，您可以通過瀏覽器設定來完成。或者，您可以訪問www.internetcookies.com，該網站包含有關在各種瀏覽器和設備上執行此操作的詳細資訊。您將找到有關Cookies的一般資訊以及如何從您的設備中刪除Cookies的詳細資訊。"
+            },
+            "contactUs": {
+              "title": "聯絡我們",
+              "content": "如果您對此政策或我們對Cookies的使用有任何問題，請聯絡我們。"
+            }
+          }
+        }
+      }
+    },
+    "confirmation_page": {
+      "title": "完成註冊流程",
+      "verify_email_title": "請驗證您的電子郵件",
+      "instructions": {
+        "part1": "我們已將驗證用的電子郵件寄至",
+        "part2": "請查看您的信箱並點擊郵件內的驗證連結<br/>以完成會員註冊流程。",
+        "part3": "沒有收到電子郵件嗎？"
+      },
+      "resend_button": "重新寄送驗證電子郵件"
+    },
+    "confirmed_page": {
+      "title": "您的電子郵件已成功驗證",
+      "message": "登入以繼續",
+      "button": "登入"
+    },
+    "already_confirmed_page": {
+      "title": "您的電子郵件已經驗證過了",
+      "message": "登入以繼續",
+      "button": "登入"
+    }
+  },
+  "search": {
+    "button": "進階搜尋",
+    "options": {
+      "companies": "公司",
+      "assets": "資產",
+      "teams": "投資人"
+    },
+    "form": {
+      "general_search_placeholder": "輸入關鍵字...",
+      "company_name_label": "公司名稱",
+      "location_label": "地點",
+      "company_types_label": "公司類型",
+      "main_therapeutic_area_label": "主要治療領域",
+      "founded_year_label": "創立年份",
+      "employees_label": "員工數",
+      "asset_name_label": "資產名稱",
+      "assets_types_label": "資產類型",
+      "therapeutic_sector_label": "治療領域",
+      "development_phase_label": "開發階段",
+      "search_button": "搜尋",
+      "clear_search_button": "清除搜尋",
+      "select": {
+        "continent": {
+          "defult_continent": "--選擇洲--",
+          "defult_country": "--選擇國家/地區--",
+          "Global": "全球"
+        },
+        "company_types": {
+          "defult_main_type": "--- 選擇主要類型 ---",
+          "defult_sub_type": "--- 選擇子類型 ---"
+        },
+        "main_therapeutic_area": {
+          "defult": "--- 選擇主要治療領域 ---"
+        },
+        "assets_types": {
+          "defult_main_type": "--- 選擇主要類型 ---",
+          "defult_sub_type": "--- 選擇子類型 ---"
+        },
+        "therapeutic_sector": {
+          "defult": "--- 選擇治療領域 ---"
+        },
+        "development_phase": {
+          "defult": "--- 選擇開發階段 ---"
+        },
+        "employees": {
+          "defult": "--- 選擇員工數 ---"
+        }
+      }
+    },
+    "search_results": {
+      "loading": "正在加載搜索結果...",
+      "results_found": "共找到{{count}}筆結果",
+      "displaying_results": "顯示第{{start}}-{{end}}筆結果",
+      "company_name": "公司名稱",
+      "headquarters": "地點",
+      "company_types": "公司類型",
+      "main_therapeutic_area": "主要治療領域",
+      "description": "公司簡介",
+      "actions": "選項",
+      "view_full_profile": "查看完整檔案",
+      "add_to_list": "加入清單",
+      "added_to_list": "已加入清單",
+      "no_results": "沒有找到任何結果 :("
+    },
+    "search_assets_results": {
+      "loading": "正在加載搜索結果...",
+      "results_found": "共找到{{count}}筆結果",
+      "displaying_results": "顯示第{{start}}-{{end}}筆結果",
+      "table_headers": {
+        "product_name": "產品名稱",
+        "company_name": "公司名稱",
+        "assets_types": "資產類型",
+        "main_therapeutic_area": "主要治療領域",
+        "description": "資產簡介",
+        "development_phase": "開發階段",
+        "view_detail": "查看詳情"
+      },
+      "view_full_profile": "查看完整檔案",
+      "not_found": "未找到任何內容 :("
+    },
+    "subscribe_now": {
+      "title": "瀏覽此次搜尋中的全部1000+家公司",
+      "description": "訂閱BIODND會員後您將可以瀏覽所有搜尋結果與完整公司檔案，包含公司資產與財務資訊，並探索更多會員限定功能。",
+      "button_text": "立即查看會員方案"
+    }
+  },
+  "company_profile": {
+    "top_part": {
+      "back_to_search_results": "回到搜尋結果",
+      "add_to_list": "加入清單",
+      "remove_to_list": "移除清單",
+      "IP_right": "檢視智慧財產權",
+      "company_tag": "公司"
+    },
+
+    "overview": {
+      "about": {
+        "title": "關於",
+        "brief_description": "簡述",
+        "country_region": "國家/地區",
+        "address": "地址",
+        "founded_date": "成立年份",
+        "state_of_ownership": "所有權狀態",
+        "employees_worldwide": "員工數"
+      },
+      "categorization": {
+        "title": "分類",
+        "main_sector": "公司類型",
+        "primary_therapeutic_areas": "主要治療領域"
+      },
+      "summary_of_assets": {
+        "title": "資產簡介",
+        "learn_more_button": "查看資產"
+      },
+      "contact": {
+        "title": "聯絡資訊"
+      },
+      "latest_news": {
+        "title": "近期新聞",
+        "no_news": "沒有任何新聞"
+      },
+      "team": "團隊",
+      "subscribe_now": {
+        "title": "查看更多關於此公司的資訊",
+        "description": "透過訂閱BIODND計劃，您可以獲取所有搜尋結果、完整的公司檔案，包括資產和財務資訊，以及更多探索功能！",
+        "button_text": "立即查看會員方案"
+      }
+    },
+    "assets": {
+      "title": {
+        "Products": "產品",
+        "Services": "服務",
+        "Technologies": "技術",
+        "Others": "其它"
+      },
+      "table_headers": {
+        "product_name": "產品名稱",
+        "service_name": "服務名稱",
+        "technologies_name": "技術名稱",
+        "main_therapeutic_area": "主要治療領域",
+        "product_description": "產品介紹",
+        "service_description": "服務介紹",
+        "technologies_description": "技術介紹",
+        "administration_mode": "管理模式",
+        "development_phase": "開發階段",
+        "service_availability": "狀態"
+      }
+    },
+    "other_info": {
+      "button": {
+        "overview": "概覽",
+        "assets": "資產",
+        "financials": "財務"
+      },
+      "recently_viewed": "近期瀏覽"
+    }
+  },
+  "my_list": {
+    "title": "我的清單",
+    "options": {
+      "companies": "公司",
+      "people": "好友"
+    },
+    "actions": {
+      "delete": "刪除",
+      "compare": "比較"
+    },
+    "view_profile_button": "查看完整檔案",
+    "table_headers": {
+      "checkbox": "",
+      "company_name": "公司名稱",
+      "headquarters": "地點",
+      "company_types": "公司類型",
+      "main_therapeutic_area": "主要治療領域",
+      "description": "公司簡介",
+      "actions": "選項"
+    },
+    "no_data_message": "您還沒有儲存任何公司 :("
+  },
+  "subscribe": {
+    "button": {
+      "current_plan": "目前使用的方案",
+      "purchase_plan": "購買此方案",
+      "manage_subscription": "管理付費方案"
+    },
+    "choose_plan": {
+      "title": "選擇您的最佳BIODND方案。",
+      "plans": {
+        "basic": {
+          "title": "基本版",
+          "price": "免費",
+          "sub_title": "完全免費",
+          "description": "簡便、快速，適合僅做簡單搜尋的個人用戶。",
+          "button": "目前使用的方案",
+          "feature_title": "方案包含",
+          "features": [
+            "每次搜尋可檢視5筆結果",
+            "在搜尋結果頁面僅能檢視公司名稱、總部位置、公司類型、主要治療領域以及公司簡介",
+            "可設定個人以及公司檔案"
+          ]
+        },
+        "silver": {
+          "title": "進階版",
+          "price": "$49",
+          "sub_title": "美元 / 每個月 / 年繳",
+          "description": "專業、深入、更廣泛的功能。幫助個人或小團隊用戶建立精準的商務開發網路。",
+          "feature_title": "方案包含基本版全部功能，加上：",
+          "features": [
+            "每次搜索查看 30 條結果",
+            "發布供應和需求",
+            "查看所有搜索結果"
+          ]
+        },
+        "pro": {
+          "popular": "熱門選擇",
+
+          "title": "專業版",
+          "price": "$5000",
+          "sub_title": "美元 / 每年",
+          "description": "最適合快速成長的團隊建立管道並與聯繫人互動。",
+          "feature_title": "方案包含進階版全部功能，加上：",
+          "features": [
+            "可檢視完整公司檔案，包含資產與財務資訊",
+            "可使用會員網路功能支持和聊天",
+            "公司比較和生成報告功能"
+          ]
+        },
+        "enterprise": {
+          "title": "企業版",
+          "price": "聯絡我們",
+          "sub_title": "依需求報價",
+          "description": "最為全面強大、囊括API功能的BIODND。想擴展、整合事業的大型團隊最佳選擇。",
+          "button": "立即聯繫我們",
+          "feature_title": "方案包含專業版全部功能，加上：",
+          "features": [
+            "可獲得即時更新的公司資訊",
+            "取得API功能",
+            "可大量輸出完整的 BioDND 數據集",
+            "取得客戶成功經理支援"
+          ]
+        }
+      }
+    },
+    "plan_comparison": {
+      "title": "各方案比較",
+      "Current_plan": "目前的方案",
+      "Purchase_now": "立即購買",
+      "options": {
+        "highlights": {
+          "title": "產品特色",
+          "Partial": "僅限部分",
+          "items": [
+            "瀏覽公司資訊",
+            "設定個人與公司檔案",
+            "供應和需求",
+            "聯絡資訊",
+            "存取會員網絡和消息"
+          ]
+        },
+        "feature": {
+          "title": "產品功能",
+          "items": [
+            "我的清單",
+            "檢視全部搜尋結果",
+            "活動參與",
+            "取得社群網路支援與聊天室功能",
+            "比較公司資料",
+            "搜尋IP",
+            "查看近期新聞",
+            "大量輸出BIODND數據集",
+            "取得API功能"
+          ]
+        }
+      }
+    }
+  },
+  "payment": {
+    "pirce_section": {
+      "pro": {
+        "title": {
+          "subscription_name": "訂閱BIODND付費方案：專業版",
+          "price": "US $5,000",
+          "billed_by": "/ 每年"
+        },
+        "details": {
+          "main": {
+            "title": "BIODND 會員訂閱（專業版）",
+            "billed_by": "每年收費",
+            "price": "US $5,000"
+          },
+          "subtotal": { "title": "小計", "price": "US $5,000" },
+          "tax": { "title": "稅金", "price": "US $0.000" },
+          "total": { "title": "總計", "price": "US $5,000" }
+        }
+      },
+      "silver": {
+        "title": {
+          "subscription_name": "訂閱BIODND付費方案：進階版",
+          "price": "US $49",
+          "billed_by": "/ 每年"
+        },
+        "details": {
+          "main": {
+            "title": "BIODND 會員訂閱（進階版）",
+            "billed_by": "每年收費",
+            "price": "US $49"
+          },
+          "subtotal": { "title": "小計", "price": "US $49" },
+          "tax": { "title": "稅金", "price": "US $0" },
+          "total": { "title": "總計", "price": "US $49" }
+        }
+      }
+    },
+    "paymentForm": {
+      "title": "付款資訊",
+      "fields": {
+        "card_number": "卡號",
+        "expiration_date": "到期日",
+        "cvv": "安全碼",
+        "card_holder_name": "持卡人姓名",
+        "postal_code": "郵遞區號"
+      },
+      "placeholder": {
+        "card_number": "輸入信用卡號",
+        "expiration_date": "月/年",
+        "cvv": "輸入信用卡背面末三碼",
+        "card_holder_name": "輸入持卡人姓名",
+        "postal_code": "輸入郵遞區號"
+      },
+      "errors": "錯誤訊息",
+      "submit_button": "確認付款"
+    },
+    "success": {
+      "title": "付款成功",
+      "message": "您已成功完成信用卡交易。<br/>感謝您購買BIODND會員方案。",
+      "button": "回到首頁"
+    },
+    "failed": {
+      "title": "付款失敗",
+      "message": "您的付款操作已被拒絕，可能的原因有：",
+      "list": [
+        "信用卡號碼不正確",
+        "安全碼 (CVC) 不正確",
+        "卡片已到期",
+        "存款/信用不足",
+        "處理過程出現錯誤，或其他錯誤。"
+      ],
+      "message_2": "請重新嘗試付款或聯絡您的發卡銀行。",
+      "button": "回到付款頁面"
+    },
+    "popup": {
+      "title": "此為付費版進階功能",
+      "description": "訂閱BIODND付費方案即可使用並解鎖更多強大功能！",
+      "button": {
+        "subscribe_now": "立即訂閱"
+      }
+    }
+  },
+  "user": {
+    "profile": {
+      "user_profile_section": {
+        "edit_img": "編輯",
+        "edit_profile": "編輯檔案",
+        "save": "儲存",
+        "user_name": "用戶名稱",
+        "job_title": "職稱",
+        "company": "公司名稱",
+        "country_region": "國家/地區",
+        "email": "電子郵件",
+        "office_phone_number": "電話號碼（工作）",
+        "mobile_number": "電話號碼（個人）",
+        "social_media": "社群媒體",
+        "linkedIn": "LinkedIn",
+        "facebook": "Facebook"
+      },
+      "my_lists_section": {
+        "title": "我的清單",
+        "view_list": "檢視清單",
+        "no_company_saved": "您還沒有儲存任何公司 :("
+      },
+      "friends_section": {
+        "title": "好友"
+      },
+      "event_section": {
+        "title": "活動歷史",
+        "no_event_saved": "你沒有參加任何活動"
+      },
+      "needs_section": {
+        "title": "我的供應與需求",
+        "no_company_created": "您還沒有創建任何公司",
+        "create": "創建公司",
+        "view_more": "查看更多",
+        "needs_item": {
+          "view_detail": "查看詳情",
+          "edit": "編輯",
+          "delete": "刪除"
+        }
+      }
+    },
+    "company_profile": {
+      "defult_company_name": "您的公司名稱",
+      "company_profile": "公司資訊",
+      "list": {
+        "overview": {
+          "overview": "公司總覽",
+          "about": "關於",
+          "categorization": "分類",
+          "summary_of_assets": "資產簡介",
+          "contact": "聯絡資訊"
+        },
+        "assets": {
+          "assets": "資產",
+          "products": "產品",
+          "services": "服務",
+          "technologies": "技術"
+        },
+        "financials": {
+          "financials": "財務"
+        }
+      },
+      "fields": {
+        "company_name": "公司名稱",
+        "global_region": "全球分區",
+        "country_region": "國家/地區",
+        "address": "地址",
+        "founded_year": "創立時間",
+        "ownership": "所有權狀態",
+        "employees": "員工數（全球）",
+        "description": "公司簡介",
+        "main_sector": "公司類型",
+        "therapeutic_area": "主要治療領域",
+        "summary_of_assets": "資產簡介",
+        "introduction": "請簡單敘述貴公司的資產特色（200字以內）",
+        "contact_title": "一般聯絡資訊",
+        "website": "公司網站",
+        "email": "電子郵件",
+        "phone": "公司電話",
+        "social_media": "社群媒體",
+        "facebook": "Facebook",
+        "linkedin": "LinkedIn",
+        "twitter": "X (Twitter)"
+      },
+      "placeholders": {
+        "company_name": "輸入公司名稱",
+        "global_region": "選擇全球分區",
+        "country_region": "選擇國家/地區",
+        "address": "輸入地址",
+        "founded_year": "輸入創立時間",
+        "state_of_ownership": "選擇所有權狀態",
+        "employees": "選擇員工數",
+        "company_description": "輸入公司簡介...",
+        "main_company_type": "選擇主要資產類型",
+        "sub_company_type": "選擇子類型",
+        "main_therapeutic_area": "輸入主要治療領域",
+        "summary_of_assets": "輸入資產簡介...",
+        "website": "輸入公司網站網址",
+        "email": "輸入公司電子郵件",
+        "phone_number": "輸入公司電話",
+        "facebook": "輸入官方Facebook URL",
+        "linkedin": "輸入官方LinkedIn URL",
+        "twitter": "輸入官方X(Twitter) URL"
+      },
+      "buttons": {
+        "edit_profile": "編輯公司檔案",
+        "save_changes": "儲存變更",
+        "cancel": "取消",
+        "edit_img": "編輯"
+      },
+      "add_assets_profile": {
+        "title": "資產檔案",
+        "button": {
+          "add": "新增資產",
+          "back": "回到公司檔案",
+          "cancel": "取消編輯",
+          "save": "儲存變更"
+        },
+        "add_sucess": {
+          "sucess": "成功新增資產",
+          "back": "回到公司檔案",
+          "another": "新增另一項資產"
+        },
+        "edit_sucess": {
+          "saved": "變更已儲存",
+          "back": "回到公司檔案"
+        },
+        "fields": {
+          "main_asset_type": "主要資產類型",
+          "sub_asset_type": "次要資產類型",
+          "product_name": "產品名稱",
+          "service_name": "服務名稱",
+          "technologies_name": "技術名稱",
+          "main_therapeutic_sector": "主要治療領域",
+          "mode_of_administration": "管理模式",
+          "development_phase": "開發階段",
+          "service_availability": "服務提供狀態",
+          "product_description": "產品簡介",
+          "service_description": "服務簡介",
+          "technologies_description": "技術簡介"
+        },
+        "placeholder": {
+          "main_asset_type": "選擇主要資產類型",
+          "sub_asset_type": "選擇次要資產類型",
+          "product_name": "輸入產品名稱",
+          "service_name": "輸入服務名稱",
+          "technologies_name": "輸入技術名稱",
+          "main_therapeutic_sector": "選擇主要治療領域",
+          "mode_of_administration": "輸入管理模式",
+          "development_phase": "選擇開發階段",
+          "service_availability": "輸入服務提供狀態",
+          "product_description": "輸入產品簡介",
+          "service_description": "輸入服務簡介",
+          "technologies_description": "輸入技術簡介"
+        }
+      }
+    },
+    "needs_profile": {
+      "title": {
+        "add": "新增供應/需求",
+        "edit": "編輯供應/需求"
+      },
+      "label": {
+        "type": {
+          "supply": "供應",
+          "demand": "需求"
+        },
+        "title": "標題",
+        "category": "類別",
+        "department": "部門",
+        "budget": "預算",
+        "expire_date": "到期日",
+        "description_of_supply/demand": "供應/需求描述"
+      },
+      "placeholders": {
+        "title": "輸入標題",
+        "category": "選擇類別",
+        "department": "輸入部門",
+        "budget": "選擇預算區間",
+        "expire_date": "選擇到期日",
+        "description_of_supply/demand": "輸入描述..."
+      },
+      "button": {
+        "cancel": "取消",
+        "add": "新增供應/需求",
+        "save": "儲存變更"
+      },
+      "popup": {
+        "delete": {
+          "title": "刪除供應/需求",
+          "content": "您確定要刪除此供應/需求嗎？",
+          "cancel": "取消",
+          "confirm": "刪除"
+        },
+        "edit": {
+          "title": "編輯供應/需求",
+          "content": "您確定要放棄編輯供應/需求嗎？",
+          "keep_editing": "繼續編輯",
+          "confirm": "放棄編輯"
+        }
+      }
+    },
+    "first_setting": {
+      "setting_step": {
+        "title": "設定您的帳號資訊",
+        "steps": {
+          "user_profile": "設定個人檔案",
+          "company_profile": "設定公司檔案",
+          "subscription": "選擇會員方案",
+          "confirmation": "確認資訊"
+        }
+      },
+      "profile": {
+        "edit": "編輯",
+        "required": "*必填",
+        "user_name_label": "用戶名稱",
+        "user_name_placeholder": "輸入您的名稱",
+        "job_title_label": "職稱",
+        "job_title_placeholder": "輸入您的職稱",
+        "company_label": "公司名稱",
+        "company_placeholder": "輸入您的公司名稱",
+        "country_label": "國家/地區",
+        "country_placeholder": "選擇國家/地區",
+        "email_label": "電子郵件",
+        "email_placeholder": "輸入您的電子郵件",
+        "office_phone_label": "電話號碼（工作）",
+        "office_phone_placeholder": "輸入工作電話號碼",
+        "mobile_phone_label": "電話號碼（個人）",
+        "mobile_phone_placeholder": "輸入個人電話號碼",
+        "agree_receive": "我同意接收 BIODND 的電子報或促銷電子郵件。",
+        "save_continue_button": "儲存並繼續",
+        "invitation_code": {
+          "label": "適用權限",
+          "description": "請在下方輸入您的邀請碼以解鎖專屬的一個月試用帳號。",
+          "placeholder": "輸入邀請碼",
+          "error": "邀請碼無效或過期。",
+          "button": {
+            "skip": "略過",
+            "continue": "繼續"
+          }
+        }
+      },
+      "company_profile": {
+        "upload_logo": "上傳公司Logo圖片",
+        "list": {
+          "overview": {
+            "overview": "公司總覽",
+            "about": "關於",
+            "categorization": "分類",
+            "summary_of_assets": "資產簡介",
+            "contact": "聯絡資訊",
+            "usage_demand": "使用需求"
+          },
+          "assets": {
+            "assets": "資產"
+          },
+          "financials": {
+            "financials": "財務"
+          }
+        },
+        "fields": {
+          "company_name": "公司名稱",
+          "global_region": "全球分區",
+          "country_region": "國家/地區",
+          "address": "地址",
+          "founded_year": "創立時間",
+          "ownership": "所有權狀態",
+          "employees": "員工數（全球）",
+          "description": "公司簡介",
+          "main_sector": "公司類型",
+          "therapeutic_area": "主要治療領域",
+          "summary_of_assets": "資產簡介",
+          "introduction": "請簡單敘述貴公司的資產特色（200字以內）",
+          "contact_title": "一般聯絡資訊",
+          "website": "公司網站",
+          "email": "電子郵件",
+          "phone": "公司電話",
+          "social_media": "社群媒體",
+          "facebook": "Facebook",
+          "linkedin": "LinkedIn",
+          "twitter": "X (Twitter)",
+          "usage_demand_type": "需求類型",
+          "title_of_demand": "需求名稱",
+          "demand_description": "需求細節"
+        },
+        "placeholders": {
+          "company_name": "輸入公司名稱",
+          "global_region": "選擇全球分區",
+          "country_region": "選擇國家/地區",
+          "address": "輸入地址",
+          "founded_year": "輸入創立時間",
+          "state_of_ownership": "選擇所有權狀態",
+          "employees": "選擇員工數",
+          "company_description": "輸入公司簡介...",
+          "main_sector": "輸入公司類型",
+          "main_therapeutic_area": "輸入主要治療領域",
+          "summary_of_assets": "輸入資產簡介...",
+          "website": "輸入公司網站網址",
+          "email": "輸入公司電子郵件",
+          "phone_number": "輸入公司電話",
+          "facebook": "輸入官方Facebook URL",
+          "linkedin": "輸入官方LinkedIn URL",
+          "twitter": "輸入官方 X(Twitter) URL",
+          "usage_demand_type": "選擇需求類型",
+          "title_of_demand": "輸入需求名稱，例如：尋找CDMO夥伴合作關係",
+          "demand_description": "輸入需求細節。例：我希望能透過BIODND資料庫加速業務開發流程..."
+        },
+        "buttons": {
+          "skip": "暫時跳過",
+          "go_back": "返回上一步",
+          "save_continue": "儲存並繼續",
+          "continue": "繼續"
+        }
+      },
+      "complete": {
+        "all_set": "您的帳號已設定完成",
+        "setup_complete": "您已將帳號資訊設定完成。歡迎開始使用BIODND搜尋功能或繼續編輯個人與公司檔案資訊。",
+        "edit_user_profile": "編輯個人檔案",
+        "edit_company_profile": "編輯公司檔案"
+      }
+    },
+    "popup": {
+      "coming_soon": {
+        "title": "即將推出...",
+        "description": "我們正在努力中，敬請期待！"
+      }
+    },
+    "no_data": {
+      "no_company": {
+        "title": "您尚未建立公司檔案",
+        "description": "請先建立公司檔案",
+        "button": "建立"
+      }
+    }
+  },
+  "event": {
+    "event_page": {
+      "title": "BIODND 活動專區：<br/>生命科學的夥伴、投資機會與創新驅動",
+      "description": "BIODND是一個精準的生命科學資料庫和市場研究平台，旨在促進協作與合作。我們的夥伴研討會匯聚了各種規模的生命科學專業人士，從草創企業到世界500強企業。探索產業趨勢，獲取第一手資訊，辨識投資機會，並在生物科技生態系統中建立長久的夥伴關係。在我們的活動列表中尋找投資、BD&L機會，共同推動人類健康進步。"
+    }
+  },
+  "connect": {
+    "demand": {
+      "title": "公司",
+      "placeholder": "輸入關鍵字以搜尋需求...",
+      "new_needs": "發布新的供給/需求",
+      "all_companies_tag": "所有公司",
+      "post_on": "張貼於",
+      "valid_until": "截止於",
+      "connect": "立即聯繫",
+      "back_button": "回到所有需求",
+      "compant_info": {
+        "name": "公司",
+        "department": "部門",
+        "budget": "預算"
+      }
+    },
+    "supply": {
+      "title": "公司",
+      "placeholder": "輸入關鍵字以搜尋供應商...",
+      "new_needs": "發布新的供給/需求",
+      "all_companies_tag": "所有公司",
+      "post_on": "張貼於",
+      "connect": "立即聯繫",
+      "back_button": "回到所有供應",
+      "compant_info": {
+        "name": "公司",
+        "department": "部門",
+        "budget": "預算"
+      }
+    }
+  },
+  "contact": {
+    "title": "聯絡我們/問題回報",
+    "label": {
+      "name": "您的全名",
+      "email": "電子郵件",
+      "type": "問題類型",
+      "subject": "主題",
+      "description": "問題描述"
+    },
+    "placeholder": {
+      "name": "輸入全名",
+      "email": "輸入電子郵件",
+      "type": "選擇問題類型",
+      "subject": "輸入主題",
+      "description": "輸入問題描述"
+    },
+    "submit": "提交",
+    "popup": {
+      "title": "感謝您的意見",
+      "description": "我們會盡快處理。",
+      "button": "回到首頁"
+    }
+  },
+  "message": {
+    "message_sending": {
+      "title": "發送訊息",
+      "new": "新訊息",
+      "to": "發送至:",
+      "placeholder": "輸入您的訊息..."
+    },
+    "messaging": "訊息",
+    "all_messages": "所有訊息",
+    "read": "已讀"
+  }
+}

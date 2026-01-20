@@ -1,0 +1,1478 @@
+[
+  {
+    "key": "drug_dev-usclinicaltrials",
+    "name": "U.S. Clinical Trials",
+    "filterSections": [
+      {
+        "name": "Drug Information",
+        "inputFilters": [
+          "nct_number",
+          "study_title",
+          "intervention___treatment",
+          "study_areas"
+        ],
+        "refinementFilters": []
+      },
+      {
+        "name": "Registration Details",
+        "inputFilters": [
+          "primary_outcome_measures",
+          "sponsor",
+          "study_start",
+          "results_first_posted"
+        ],
+        "refinementFilters": [{ "attribute": "phase", "fieldType": "text" }]
+      }
+    ],
+    "displayFields": [
+      { "label": "Study Areas", "field": "study_areas" },
+      { "label": "NCT Number", "field": "nct_number" },
+      { "label": "Status", "field": "status" },
+      {
+        "label": "Intervention / Treatment ",
+        "field": "intervention___treatment"
+      },
+      {
+        "label": "Primary Outcome Measures",
+        "field": "primary_outcome_measures"
+      },
+      { "label": "Sex", "field": "sex" },
+      { "label": "Age", "field": "age" },
+      { "label": "Study Start", "field": "study_start" },
+      { "label": "Primary Completion", "field": "primary_completion" },
+      { "label": "Study Completion", "field": "study_completion" },
+      { "label": "Enrollment", "field": "enrollment" },
+      { "label": "Phase", "field": "phase" },
+      { "label": "Sponsor", "field": "sponsor" },
+      { "label": "Funder Type", "field": "funder_type" },
+      { "label": "Study Type", "field": "study_type" },
+      { "label": "Other IDs", "field": "other_ids" },
+      { "label": "Study Design", "field": "study_design" },
+      { "label": "Last Update Posted", "field": "last_update_posted" },
+      {
+        "label": "Others Outcome Measures",
+        "field": "others_outcome_measures"
+      },
+      {
+        "label": "Secondary Outcome Measures",
+        "field": "secondary_outcome_measures"
+      },
+      { "label": "First Posted", "field": "first_posted" }
+    ]
+  },
+  {
+    "key": "drug_dev-chinaclinicaltrialregistrydata",
+    "name": "China Clinical Trial Registry Data",
+    "filterSections": [
+      {
+        "name": "Drug Information",
+        "inputFilters": [
+          "test_number",
+          "last_updated",
+          "study_type",
+          "disease_condition",
+          "interventions"
+        ],
+        "refinementFilters": []
+      },
+      {
+        "name": "Registration Details",
+        "inputFilters": ["public_contact_name", "support_source"],
+        "refinementFilters": []
+      }
+    ],
+    "displayFields": [
+      { "label": "test_number", "field": "test_number" },
+      { "label": "last_updated", "field": "last_updated" },
+      {
+        "label": "scientific_title",
+        "field": "scientific_title"
+      },
+      {
+        "label": "study_type",
+        "field": "study_type"
+      },
+      { "label": "trial_phase", "field": "phase" },
+      { "label": "url", "field": "url" },
+      { "label": "research_design", "field": "research_design" },
+      { "label": "registration_date", "field": "registration_date" },
+      { "label": "recruitment_date", "field": "recruitment_date" },
+      { "label": "sample_size", "field": "sample_size" },
+      { "label": "recruitment_status", "field": "recruitment_status" },
+      { "label": "country", "field": "country" },
+      { "label": "interventions", "field": "interventions" },
+      { "label": "disease_condition", "field": "disease_condition" },
+      { "label": "sex", "field": "sex" },
+      {
+        "label": "inclusion_criteria",
+        "field": "inclusion_criteria"
+      },
+      {
+        "label": "exclusion_criteria",
+        "field": "exclusion_criteria"
+      },
+      { "label": "outcome_measures", "field": "outcome_measures" },
+      { "label": "secondary_results", "field": "secondary_results" },
+      {
+        "label": "public_contact_name",
+        "field": "public_contact_name"
+      },
+      { "label": "public_contact_address", "field": "public_contact_address" },
+      {
+        "label": "public_contact_organization",
+        "field": "public_contact_organization"
+      },
+      {
+        "label": "scientific_contact_name",
+        "field": "scientific_contact_name"
+      },
+      {
+        "label": "public_contact_address",
+        "field": "public_contact_address"
+      },
+      {
+        "label": "scientific_contact_address",
+        "field": "scientific_contact_address"
+      },
+      { "label": "main_sponsor", "field": "main_sponsor" },
+      { "label": "support_source", "field": "support_source" },
+      { "label": "ethical_status", "field": "ethical_status" },
+      { "label": "ethics_approval_date", "field": "ethics_approval_date" },
+      { "label": "ethics_contact_address", "field": "ethics_contact_address" },
+      { "label": "ethics_contact_name", "field": "ethics_contact_name" }
+    ]
+  },
+  {
+    "key": "drug_dev-chinaclinicaltrials",
+    "name": "China Clinical Trials",
+    "filterSections": [
+      {
+        "name": "Drug Information",
+        "inputFilters": [
+          "Registration\\ Number",
+          "Indications",
+          "Drug\\ Name",
+          "Types\\ of\\ medication"
+        ],
+        "refinementFilters": [
+          { "attribute": "Test_status", "fieldType": "keyword" }
+        ]
+      },
+      {
+        "name": "Registration Details",
+        "inputFilters": [
+          "Clinical\\ application\\ acceptance\\ number",
+          "Date\\ of\\ first\\ public\\ disclosure"
+        ],
+        "refinementFilters": []
+      }
+    ],
+    "displayFields": [
+      { "label": "Registration Number", "field": "Registration Number" },
+      {
+        "label": "Date of first public disclosure",
+        "field": "Date of first public disclosure"
+      },
+      { "label": "Test_status", "field": "Test_status" },
+      {
+        "label": "Indications",
+        "field": "Indications"
+      },
+      { "label": "Types of medication", "field": "Types of medication" },
+      {
+        "label": "Test_professional topics",
+        "field": "Test_professional topics"
+      },
+      { "label": "Protocol No_", "field": "Protocol No_" },
+      {
+        "label": "Is the regimen a combination of drugs",
+        "field": "Is the regimen a combination of drugs"
+      },
+      {
+        "label": "Clinical application acceptance number",
+        "field": "Clinical application acceptance number"
+      },
+      { "label": "Purpose of the test", "field": "Purpose of the test" },
+      { "label": "Test_classification", "field": "Test_classification" },
+      { "label": "Trial Phase", "field": "Trial Phase" },
+      { "label": "Design Type", "field": "Design Type" },
+      { "label": "Blind method", "field": "Blind method" },
+      { "label": "Test_scope", "field": "Test_scope" },
+      { "label": "age", "field": "age" },
+      {
+        "label": "gender",
+        "field": "gender"
+      },
+      {
+        "label": "Healthy subjects",
+        "field": "Healthy subjects"
+      },
+      { "label": "Criteria", "field": "Criteria" },
+      { "label": "Exclusion criteria", "field": "Exclusion criteria" },
+      { "label": "Drug Name", "field": "Drug Name" },
+      { "label": "Primary End Point", "field": "Primary End Point" },
+      {
+        "label": "Secondary endpoints",
+        "field": "Secondary endpoints"
+      },
+
+      { "label": "Unit Name", "field": "Unit Name" },
+      {
+        "label": "Data Safety Monitoring Committee_DMC",
+        "field": "Data Safety Monitoring Committee_DMC"
+      },
+      {
+        "label": "Sponsor_Name",
+        "field": "Sponsor_Name"
+      },
+      {
+        "label": "Principal Investigator Information",
+        "field": "Principal Investigator Information"
+      },
+      {
+        "label": "Sponsor contact person",
+        "field": "Sponsor contact person"
+      }
+    ]
+  },
+  {
+    "key": "drug_dev-chinaapprovalclinical",
+    "name": "China Approval for Clinical trials",
+    "filterSections": [
+      {
+        "name": "Drug Information",
+        "inputFilters": ["name_of_drug", "indications_of_drug"],
+        "refinementFilters": []
+      },
+      {
+        "name": "Registration Details",
+        "inputFilters": ["admission_number", "name_of_applicant"],
+        "refinementFilters": []
+      }
+    ],
+    "displayFields": [
+      { "label": "admission_number", "field": "admission_number" },
+      {
+        "label": "name_of_applicant",
+        "field": "name_of_applicant"
+      },
+      {
+        "label": "indications_of_drug",
+        "field": "indications_of_drug"
+      }
+    ]
+  },
+  {
+    "key": "drug_dev-japaneseclinicaltrial",
+    "name": "Japanese Clinical Trial",
+    "filterSections": [
+      {
+        "name": "Drug Information",
+        "inputFilters": ["test_number", "title", "disease_condition"],
+        "refinementFilters": [
+          { "attribute": "study_type", "fieldType": "text" },
+          { "attribute": "phase", "fieldType": "text" }
+        ]
+      },
+      {
+        "name": "Registration Details",
+        "inputFilters": [
+          "registration_date",
+          "recruitment_date",
+          "main_sponsor",
+          "country"
+        ],
+        "refinementFilters": [
+          { "attribute": "recruitment_status", "fieldType": "text" }
+        ]
+      }
+    ],
+    "displayFields": [
+      { "label": "test number", "field": "test_number" },
+      { "label": "scientific title", "field": "scientific_title" },
+      { "label": "url", "field": "url" },
+      { "label": "study type", "field": "study_type" },
+      { "label": "research design", "field": "research_design" },
+      { "label": "phase", "field": "phase" },
+      { "label": "sample size", "field": "sample_size" },
+      { "label": "interventions", "field": "interventions" },
+      { "label": "recruitment status", "field": "recruitment_status" },
+      { "label": "sex", "field": "sex" },
+      { "label": "minimum age", "field": "minimum_age" },
+      { "label": "maximum age", "field": "maximum_age" },
+      { "label": "inclusion criteria", "field": "inclusion_criteria" },
+      { "label": "disease condition", "field": "disease_condition" },
+      { "label": "main results", "field": "main_results" },
+      { "label": "secondary results", "field": "secondary_results" },
+      { "label": "exclusion criteria", "field": "exclusion_criteria" },
+      { "label": "registration date", "field": "registration_date" },
+      { "label": "recruitment date", "field": "recruitment_date" },
+      { "label": "country", "field": "country" },
+      { "label": "completion date", "field": "completion_date" },
+      { "label": "first published", "field": "first_published" },
+      { "label": "public contact name", "field": "public_contact_name" },
+      {
+        "label": "public contact last name",
+        "field": "public_contact_last_name"
+      },
+      { "label": "contact address", "field": "contact_address" },
+      { "label": "contact organization", "field": "contact_organization" },
+      {
+        "label": "scientific contact name",
+        "field": "scientific_contact_name"
+      },
+      {
+        "label": "scientific contact last name",
+        "field": "scientific_contact_last_name"
+      },
+      {
+        "label": "scientific contact address",
+        "field": "scientific_contact_address"
+      },
+      {
+        "label": "scientific contact agency",
+        "field": "scientific_contact_agency"
+      },
+      { "label": "main sponsor", "field": "main_sponsor" },
+      { "label": "secondary sponsor", "field": "secondary_sponsor" },
+      { "label": "support source", "field": "support_source" },
+      { "label": "ethical status", "field": "ethical_status" },
+      { "label": "ethics approval date", "field": "ethics_approval_date" },
+      { "label": "ethics contact name", "field": "ethics_contact_name" },
+      { "label": "ethics contact address", "field": "ethics_contact_address" }
+    ]
+  },
+  {
+    "key": "drug_dev-taiwan_ct",
+    "name": "Taiwan Clinical Trial",
+    "filterSections": [
+      {
+        "name": "Drug Information",
+        "inputFilters": ["Test\\ drug", "Ingredient", "Project\\ Title"],
+        "refinementFilters": [{ "attribute": "Phase", "fieldType": "keyword" }]
+      },
+      {
+        "name": "Clinical Registration",
+        "inputFilters": [
+          "Trial\\ Applicant",
+          "Sponsor",
+          "Period\\ of\\ the\\ test"
+        ],
+        "refinementFilters": [
+          { "attribute": "Execution status", "fieldType": "keyword" }
+        ]
+      }
+    ],
+    "displayFields": [
+      { "label": "Indications", "field": "Indications" },
+      { "label": "Ingredient", "field": "Ingredient" },
+      { "label": "Project Title", "field": "Project Title" },
+      { "label": "Phase", "field": "Phase" },
+      { "label": "Period of the Test", "field": "Period of the test" },
+      { "label": "Execution Status", "field": "Execution status" },
+      { "label": "Trial Applicant", "field": "Trial Applicant" },
+      { "label": "Sponsor", "field": "Sponsor" }
+    ]
+  },
+  {
+    "key": "drug_dev-koreanclinicaltrial",
+    "name": "Korean Clinical Trial",
+    "filterSections": [
+      {
+        "name": "Drug Information",
+        "inputFilters": ["test_number", "title", "disease_condition"],
+        "refinementFilters": [
+          { "attribute": "study_type", "fieldType": "keyword" },
+          { "attribute": "phase", "fieldType": "keyword" }
+        ]
+      },
+      {
+        "name": "Registration Details",
+        "inputFilters": [
+          "registration_date",
+          "recruitment_date",
+          "main_sponsor",
+          "country"
+        ],
+        "refinementFilters": [
+          { "attribute": "recruitment_status", "fieldType": "keyword" }
+        ]
+      }
+    ],
+    "displayFields": [
+      { "label": "Test number", "field": "test_number" },
+      { "label": "Test secondary number", "field": "test_secondary_number" },
+      { "label": "URL", "field": "url" },
+      { "label": "Study type", "field": "study_type" },
+      { "label": "Research Design", "field": "research_design" },
+      { "label": "Phase", "field": "phase" },
+      { "label": "Sample Size", "field": "sample_size" },
+      { "label": "Interventions", "field": "interventions" },
+      { "label": "Recruitment Status", "field": "recruitment_status" },
+      { "label": "Sex", "field": "sex" },
+      { "label": "Minimum age", "field": "minimum_age" },
+      { "label": "Maximum age", "field": "maximum_age" },
+      { "label": "Inclusion criteria", "field": "inclusion_criteria" },
+      { "label": "Disease Condition", "field": "disease_condition" },
+      { "label": "Main results", "field": "main_results" },
+      { "label": "Exclusion criteria", "field": "exclusion_criteria" },
+      { "label": "Secondary Results", "field": "secondary_results" },
+      { "label": "Recruitment type", "field": "recruitment_type" },
+      { "label": "Retrospective Sign", "field": "retrospective_sign" },
+      { "label": "Recruitment Date", "field": "recruitment_date" },
+      { "label": "Country", "field": "country" },
+      { "label": "Registration Date", "field": "registration_date" },
+      {
+        "label": "First Published Results",
+        "field": "first_published_results"
+      },
+      { "label": "Last updated", "field": "last_updated" },
+      {
+        "label": "Individual Profile Plan",
+        "field": "individual_profile_plan"
+      },
+      { "label": "Result URL", "field": "result_url" },
+      { "label": "Summary of Results", "field": "summary_of_results" },
+      { "label": "Result Release Date", "field": "result_release_date" },
+      { "label": "Public Contact Name", "field": "public_contact_name" },
+      {
+        "label": "Public Contact Last Name",
+        "field": "public_contact_last_name"
+      },
+      { "label": "Public Contact Address", "field": "public_contact_address" },
+      {
+        "label": "Public Contact Organization",
+        "field": "public_contact_organization"
+      },
+      {
+        "label": "Scientific Contact Name",
+        "field": "scientific_contact_name"
+      },
+      {
+        "label": "Scientific Contact Last Name",
+        "field": "scientific_contact_last_name"
+      },
+      {
+        "label": "Scientific Contact Address",
+        "field": "scientific_contact_address"
+      },
+      {
+        "label": "Scientific Contact Agency",
+        "field": "scientific_contact_agency"
+      },
+      { "label": "Main sponsor", "field": "main_sponsor" },
+      { "label": "Support Source", "field": "support_source" },
+      { "label": "Ethical status", "field": "ethical_status" },
+      { "label": "Ethics approval date", "field": "ethics_approval_date" },
+      { "label": "Ethics contact address", "field": "ethics_contact_address" }
+    ]
+  },
+  {
+    "key": "drug_dev-thailandclinicaltrial",
+    "name": "Thailand Clinical Trial",
+    "filterSections": [
+      {
+        "name": "Drug Information",
+        "inputFilters": ["test_number", "title", "url", "disease_condition"],
+        "refinementFilters": [
+          { "attribute": "study_type", "fieldType": "text" },
+          { "attribute": "phase", "fieldType": "text" }
+        ]
+      },
+      {
+        "name": "Registration Details",
+        "inputFilters": [
+          "registration_date",
+          "recruitment_date",
+          "main_sponsor",
+          "country"
+        ],
+        "refinementFilters": [
+          { "attribute": "recruitment_status", "fieldType": "text" }
+        ]
+      }
+    ],
+    "displayFields": [
+      { "label": "Test number", "field": "test_number" },
+      { "label": "Scientific Title", "field": "scientific_title" },
+      { "label": "URL", "field": "url" },
+      { "label": "Study type", "field": "study_type" },
+      { "label": "Research Design", "field": "research_design" },
+      { "label": "Phase", "field": "phase" },
+      { "label": "Sample Size", "field": "sample_size" },
+      { "label": "Interventions", "field": "interventions" },
+      { "label": "Recruitment Status", "field": "recruitment_status" },
+      { "label": "Sex", "field": "sex" },
+      { "label": "Minimum age", "field": "minimum_age" },
+      { "label": "Maximum age", "field": "maximum_age" },
+      { "label": "Inclusion criteria", "field": "inclusion_criteria" },
+      { "label": "Disease Condition", "field": "disease_condition" },
+      { "label": "Main results", "field": "main_results" },
+      { "label": "Secondary Results", "field": "secondary_results" },
+      { "label": "Exclusion criteria", "field": "exclusion_criteria" },
+      { "label": "Recruitment type", "field": "recruitment_type" },
+      { "label": "Registration Date", "field": "registration_date" },
+      { "label": "Recruitment Date", "field": "recruitment_date" },
+      { "label": "Country", "field": "country" },
+      {
+        "label": "First Published Results",
+        "field": "first_published_results"
+      },
+      { "label": "Completion Date", "field": "completion_date" },
+      { "label": "Test secondary number", "field": "test_secondary_number" },
+      {
+        "label": "Personal Information Description",
+        "field": "personal_information_description"
+      },
+      {
+        "label": "Individual Profile Plan",
+        "field": "individual_profile_plan"
+      },
+      { "label": "Public Contact Name", "field": "public_contact_name" },
+      {
+        "label": "Public Contact Last Name",
+        "field": "public_contact_last_name"
+      },
+      { "label": "Public Contact Address", "field": "public_contact_address" },
+      {
+        "label": "Public Contact Organization",
+        "field": "public_contact_organization"
+      },
+      {
+        "label": "Scientific Contact Name",
+        "field": "scientific_contact_name"
+      },
+      {
+        "label": "Scientific Contact Last Name",
+        "field": "scientific_contact_last_name"
+      },
+      {
+        "label": "Scientific Contact Address",
+        "field": "scientific_contact_address"
+      },
+      {
+        "label": "Scientific Contact Agency",
+        "field": "scientific_contact_agency"
+      },
+      { "label": "Main sponsor", "field": "main_sponsor" },
+      { "label": "Support Source", "field": "support_source" },
+      { "label": "Ethical Status", "field": "ethical_status" },
+      { "label": "Ethics approval date", "field": "ethics_approval_date" },
+      { "label": "Ethics contact name", "field": "ethics_contact_name" },
+      { "label": "Ethics contact address", "field": "ethics_contact_address" },
+      { "label": "Secondary Sponsor", "field": "secondary_sponsor" }
+    ]
+  },
+  {
+    "key": "drug_dev-traditionalchinesemedicineclinicaltrial",
+    "name": "Traditional Chinese Medicine Clinical Trial",
+    "filterSections": [
+      {
+        "name": "Drug Information",
+        "inputFilters": ["test_number", "last_updated", "title", "url"],
+        "refinementFilters": [
+          { "attribute": "study_type", "fieldType": "keyword" },
+          { "attribute": "phase", "fieldType": "keyword" }
+        ]
+      },
+      {
+        "name": "registration_date",
+        "inputFilters": [
+          "registration_date",
+          "recruitment_date",
+          "main_sponsor",
+          "country"
+        ],
+        "refinementFilters": [
+          { "attribute": "recruitment_status", "fieldType": "keyword" }
+        ]
+      }
+    ],
+    "displayFields": [
+      { "label": "Test number", "field": "test_number" },
+      { "label": "Test secondary number", "field": "test_secondary_number" },
+      { "label": "Last updated", "field": "last_updated" },
+      { "label": "URL", "field": "url" },
+      { "label": "Study type", "field": "study_type" },
+      { "label": "Phase", "field": "phase" },
+      { "label": "Scientific Title", "field": "scientific_title" },
+      { "label": "Research Design", "field": "research_design" },
+      { "label": "Registration Date", "field": "registration_date" },
+      { "label": "Recruitment Date", "field": "recruitment_date" },
+      { "label": "Sample Size", "field": "sample_size" },
+      { "label": "Recruitment Status", "field": "recruitment_status" },
+      { "label": "Country", "field": "country" },
+      { "label": "Interventions", "field": "interventions" },
+      { "label": "Disease Condition", "field": "disease_condition" },
+      { "label": "Minimum age", "field": "minimum_age" },
+      { "label": "Maximum age", "field": "maximum_age" },
+      { "label": "Sex", "field": "sex" },
+      { "label": "Inclusion criteria", "field": "inclusion_criteria" },
+      { "label": "Exclusion criteria", "field": "exclusion_criteria" },
+      { "label": "Main results", "field": "main_results" },
+      { "label": "Secondary Results", "field": "secondary_results" },
+      {
+        "label": "First Published Results",
+        "field": "first_published_results"
+      },
+      { "label": "Public Contact Name", "field": "public_contact_name" },
+      { "label": "Public Contact Address", "field": "public_contact_address" },
+      {
+        "label": "Public Contact Organization",
+        "field": "public_contact_organization"
+      },
+      {
+        "label": "Scientific Contact Name",
+        "field": "scientific_contact_name"
+      },
+      {
+        "label": "Scientific Contact Address",
+        "field": "scientific_contact_address"
+      },
+      {
+        "label": "Scientific Contact Agency",
+        "field": "scientific_contact_agency"
+      },
+      { "label": "Main sponsor", "field": "main_sponsor" },
+      { "label": "Support Source", "field": "support_source" },
+      { "label": "Ethical status", "field": "ethical_status" },
+      { "label": "Ethics approval date", "field": "ethics_approval_date" },
+      { "label": "Ethics contact name", "field": "ethics_contact_name" },
+      { "label": "Ethics contact address", "field": "ethics_contact_address" }
+    ]
+  },
+  {
+    "key": "drug_dev-dutchclinicaltrial",
+    "name": "Dutch Clinical Trial",
+    "refinementList": ["Study Type", "Phase", "Recruitment Status"],
+    "inputFilters": [
+      "Test\\ number",
+      "Last\\ updated",
+      "Title",
+      "URL",
+      "Registration\\ Date",
+      "Recruitment\\ Date",
+      "Main\\ Sponsor",
+      "Country",
+      "Disease\\ Condition"
+    ]
+  },
+  {
+    "key": "drug_dev-germanclinicaltrial",
+    "name": "German Clinical Trial",
+    "filterSections": [
+      {
+        "name": "Drug Information",
+        "inputFilters": ["test_number", "title", "url", "disease_condition"],
+        "refinementFilters": [
+          { "attribute": "study_type", "fieldType": "text" },
+          { "attribute": "phase", "fieldType": "text" }
+        ]
+      },
+      {
+        "name": "Registration Details",
+        "inputFilters": [
+          "registration_date",
+          "recruitment_date",
+          "secondary_results",
+          "country"
+        ],
+        "refinementFilters": [
+          { "attribute": "recruitment_status", "fieldType": "text" }
+        ]
+      }
+    ],
+    "displayFields": [
+      { "label": "Test number", "field": "test_number" },
+      { "label": "Scientific Title", "field": "scientific_title" },
+      { "label": "URL", "field": "url" },
+      { "label": "Study type", "field": "study_type" },
+      { "label": "Research Design", "field": "research_design" },
+      { "label": "Phase", "field": "phase" },
+      { "label": "Sample Size", "field": "sample_size" },
+      { "label": "Interventions", "field": "interventions" },
+      { "label": "Recruitment Status", "field": "recruitment_status" },
+      { "label": "Sex", "field": "sex" },
+      { "label": "Minimum Age", "field": "minimum_age" },
+      { "label": "Maximum Age", "field": "maximum_age" },
+      { "label": "Inclusion criteria", "field": "inclusion_criteria" },
+      { "label": "Disease Condition", "field": "disease_condition" },
+      { "label": "Main results", "field": "main_results" },
+      { "label": "Secondary Results", "field": "secondary_results" },
+      { "label": "Exclusion criteria", "field": "exclusion_criteria" },
+      { "label": "Registration Date", "field": "registration_date" },
+      { "label": "Recruitment Date", "field": "recruitment_date" },
+      { "label": "Country", "field": "country" },
+      { "label": "Completion Date", "field": "completion_date" },
+      {
+        "label": "First Published Results",
+        "field": "first_published_results"
+      },
+      { "label": "Public Contact Name", "field": "public_contact_name" },
+      {
+        "label": "Public Contact Last Name",
+        "field": "public_contact_last_name"
+      },
+      { "label": "Public Contact Address", "field": "public_contact_address" },
+      {
+        "label": "Public Contact Organization",
+        "field": "public_contact_organization"
+      },
+      {
+        "label": "Scientific Contact Name",
+        "field": "scientific_contact_name"
+      },
+      {
+        "label": "Scientific Contact Last Name",
+        "field": "scientific_contact_last_name"
+      },
+      {
+        "label": "Scientific Contact Address",
+        "field": "scientific_contact_address"
+      },
+      {
+        "label": "Scientific Contact Agency",
+        "field": "scientific_contact_agency"
+      },
+      { "label": "Main sponsor", "field": "main_sponsor" },
+      { "label": "Secondary Sponsor", "field": "secondary_sponsor" },
+      { "label": "Support Source", "field": "support_source" },
+      { "label": "Ethical status", "field": "ethical_status" },
+      { "label": "Ethics approval date", "field": "ethics_approval_date" },
+      { "label": "Ethics contact name", "field": "ethics_contact_name" },
+      { "label": "Ethics contact address", "field": "ethics_contact_address" },
+      { "label": "Test secondary number", "field": "test_secondary_number" },
+      { "label": "Recruitment type", "field": "recruitment_type" },
+      { "label": "Result URL", "field": "result_url" },
+      { "label": "Retrospective Sign", "field": "retrospective_sign" },
+      { "label": "Number of Recruits", "field": "number_of_recruits" },
+      {
+        "label": "Personal Information Description",
+        "field": "personal_information_description"
+      },
+      { "label": "Individual Profile Plan", "field": "individual_profile_plan" }
+    ]
+  },
+  {
+    "key": "drug_dev-astralianclinicaltrial",
+    "name": "Australian Clinical Trial",
+    "filterSections": [
+      {
+        "name": "Drug Information",
+        "inputFilters": [
+          "Registration\\ number",
+          "@timestamp",
+          "Drug name",
+          "URL"
+        ],
+        "refinementFilters": [
+          { "attribute": "Classification of Trials", "fieldType": "text" },
+          { "attribute": "Staging of Trials", "fieldType": "text" },
+          { "attribute": "Indications", "fieldType": "text" }
+        ]
+      },
+      {
+        "name": "Registration Details",
+        "inputFilters": [
+          "Date\\ of\\ first\\ public\\ information",
+          "Date\\ the\\ first\\ subject\\ signed\\ the\\ informed\\ consent",
+          "Name\\ of\\ Sponsor",
+          "Country"
+        ],
+        "refinementFilters": [
+          { "attribute": "Trial status", "fieldType": "keyword" }
+        ]
+      }
+    ],
+    "displayFields": [
+      { "label": "Registration number", "field": "Registration number" },
+      { "label": "@timestamp", "field": "@timestamp" },
+      { "label": "URL", "field": "URL" },
+      {
+        "label": "Classification of Trials",
+        "field": "Classification of Trials"
+      },
+      { "label": "Type of design", "field": "Type of design" },
+      { "label": "Staging of Trials", "field": "Staging of Trials" },
+      {
+        "label": "Latest version of protocol number",
+        "field": "Latest version of protocol number"
+      },
+      { "label": "Purpose of trial", "field": "Purpose of trial" },
+      {
+        "label": "Date of first public information",
+        "field": "Date of first public information"
+      },
+      {
+        "label": "Date the first subject signed the informed consent",
+        "field": "Date the first subject signed the informed consent"
+      },
+      {
+        "label": "Target the number of participants enrolled",
+        "field": "Target the number of participants enrolled"
+      },
+      { "label": "Trial status", "field": "Trial status" },
+      { "label": "Country", "field": "Country" },
+      { "label": "Indications", "field": "Indications" },
+      {
+        "label": "Investigational agent / Control drug",
+        "field": "Investigational agent / Control drug"
+      },
+      { "label": "Age (Minimum)", "field": "Age (Minimum)" },
+      { "label": "Age (Maximum)", "field": "Age (Maximum)" },
+      { "label": "Gender", "field": "Gender" },
+      { "label": "Inclusion criteria", "field": "Inclusion criteria" },
+      { "label": "Exclusion criteria", "field": "Exclusion criteria" },
+      {
+        "label": "Primary endpoint measures",
+        "field": "Primary endpoint measures"
+      },
+      { "label": "Secondary endpoints", "field": "Secondary endpoints" },
+      { "label": "Recruitment type", "field": "Recruitment type" },
+      {
+        "label": "Total number of people actually enrolled",
+        "field": "Total number of people actually enrolled"
+      },
+      { "label": "Name of Sponsor", "field": "Name of Sponsor" },
+
+      { "label": "Secondary sponsor", "field": "Secondary sponsor" },
+      { "label": "Support Source", "field": "Support Source" }
+    ]
+  },
+
+  {
+    "key": "drug_dev-isrctnclinicaltrial",
+    "name": "ISRCTN Clinical Trial",
+    "filterSections": [
+      {
+        "name": "Drug Information",
+        "inputFilters": ["Test\\ number", "Last\\ updated", "Title", "URL"],
+        "refinementFilters": [
+          { "attribute": "Study type", "fieldType": "keyword" },
+          { "attribute": "Phase", "fieldType": "keyword" },
+          { "attribute": "Disease Condition", "fieldType": "text" }
+        ]
+      },
+      {
+        "name": "Registration Details",
+        "inputFilters": [
+          "Registration\\ Date",
+          "Recruitment\\ Date",
+          "Main\\ Sponsor",
+          "Country"
+        ],
+        "refinementFilters": [
+          { "attribute": "Recruitment Status", "fieldType": "keyword" }
+        ]
+      }
+    ],
+    "displayFields": [
+      { "label": "Test number", "field": "Test number" },
+      { "label": "Test secondary number", "field": "Test secondary number" },
+      { "label": "Last updated", "field": "Last updated" },
+      { "label": "URL", "field": "URL" },
+      { "label": "Study type", "field": "Study type" },
+      { "label": "Phase", "field": "Phase" },
+      { "label": "Scientific Title", "field": "Scientific Title" },
+      { "label": "Research Design", "field": "Research Design" },
+      { "label": "Registration Date", "field": "Registration Date" },
+      { "label": "Recruitment Date", "field": "Recruitment Date" },
+      { "label": "Sample Size", "field": "Sample Size" },
+      { "label": "Recruitment Status", "field": "Recruitment Status" },
+      { "label": "Country", "field": "Country" },
+      { "label": "Interventions", "field": "Interventions" },
+      { "label": "Disease Condition", "field": "Disease Condition" },
+      { "label": "Sex", "field": "Sex" },
+      { "label": "Inclusion criteria", "field": "Inclusion criteria" },
+      { "label": "Exclusion criteria", "field": "Exclusion criteria" },
+      { "label": "Main results", "field": "Main results" },
+      { "label": "Secondary Results", "field": "Secondary Results" },
+      { "label": "Recruiting children", "field": "Recruiting children" },
+      { "label": "Recruitment type", "field": "Recruitment type" },
+      { "label": "Retrospective Sign", "field": "Retrospective Sign" },
+      { "label": "Number of Recruits", "field": "Number of Recruits" },
+      { "label": "Summary of Results", "field": "Summary of Results" },
+      {
+        "label": "First Published Results",
+        "field": "First Published Results"
+      },
+      {
+        "label": "Individual Profile Plan",
+        "field": "Individual Profile Plan"
+      },
+      { "label": "Completion Date", "field": "Completion Date" },
+      {
+        "label": "Personal Information Description",
+        "field": "Personal Information Description"
+      },
+      { "label": "Bridge Flag", "field": "Bridge Flag" },
+      { "label": "Bridge type", "field": "Bridge type" },
+
+      { "label": "Main sponsor", "field": "Main sponsor" },
+      { "label": "Secondary Sponsor", "field": "Secondary Sponsor" },
+      { "label": "Support Source", "field": "Support Source" }
+    ]
+  },
+  {
+    "key": "globaldm-chainimported",
+    "name": "China Imported Drugs",
+    "filterSections": [
+      {
+        "name": "Drug Information",
+        "inputFilters": ["Product\\ Name", "Approval\\ Holder"],
+        "refinementFilters": []
+      },
+      {
+        "name": "Registration Details",
+        "inputFilters": [
+          "Registration\\ Certificate\\ of\\ Imported\\ Drugs",
+          "Approval\\ Holder",
+          "Dosage\\ form"
+        ],
+        "refinementFilters": []
+      }
+    ],
+    "displayFields": [
+      { "label": "Drug Number", "field": "Drug Number" },
+      {
+        "label": "Registration Certificate of Imported Drugs",
+        "field": "Registration Certificate of Imported Drugs"
+      },
+      { "label": "Dosage form", "field": "Dosage form" },
+      { "label": "Approval Holder", "field": "Approval Holder" },
+      { "label": "Unit dose", "field": "Unit dose" }
+    ]
+  },
+  {
+    "key": "globaldm-pmda",
+    "name": "Japanese PMDA Listed Drugs",
+    "filterSections": [
+      {
+        "name": "Drug Information",
+        "inputFilters": ["Product\\ Name", "Common\\ name", "Drug\\ effects"],
+        "refinementFilters": []
+      },
+      {
+        "name": "Registration Details",
+        "inputFilters": [
+          "Ratification\\ Date",
+          "Registration\\ Number",
+          "Company",
+          "License\\ Number"
+        ],
+        "refinementFilters": []
+      }
+    ],
+    "displayFields": [
+      { "label": "Appellative", "field": "Appellative" },
+      {
+        "label": "Ratification Date",
+        "field": "Ratification Date"
+      },
+      { "label": "License Number", "field": "License Number" },
+      { "label": "Company", "field": "Company" },
+      { "label": "Registration Number", "field": "Registration Number" },
+      { "label": "Drug effects", "field": "Drug effects" }
+    ]
+  },
+  {
+    "key": "globaldm-chinalisted",
+    "name": "China Listed Drugs",
+    "filterSections": [
+      {
+        "name": "Drug Information",
+        "inputFilters": ["Product\\ name", "Drug\\ code", "Production\\ unit"],
+        "refinementFilters": []
+      },
+      {
+        "name": "Registration Details",
+        "inputFilters": [
+          "Approval\\ number",
+          "Marketing\\ Authorization\\ holder"
+        ],
+        "refinementFilters": []
+      }
+    ],
+    "displayFields": [
+      { "label": "Approval number", "field": "Approval number" },
+      {
+        "label": "Dosage Form",
+        "field": "Dosage Form"
+      },
+      { "label": "Specifications", "field": "Specifications" },
+      {
+        "label": "Marketing Authorization holder",
+        "field": "Marketing Authorization holder"
+      },
+      { "label": "Production unit", "field": "Production unit" },
+      { "label": "Drug code", "field": "Drug code" },
+      { "label": "Drug Code Remarks", "field": "Drug Code Remarks" }
+    ]
+  },
+  {
+    "key": "globaldm-taiwanlisteddrugs",
+    "name": "Taiwan Listed Drugs",
+    "filterSections": [
+      {
+        "name": "Drug Information",
+        "inputFilters": [
+          "Chinese\\ product\\ name",
+          "English\\ Product\\ Name",
+          "Indications",
+          "Principal\\ Components"
+        ],
+        "refinementFilters": [
+          { "attribute": "Drug category", "fieldType": "text" }
+        ]
+      },
+      {
+        "name": "Registration Details",
+        "inputFilters": [
+          "Applicant\\ name",
+          "Change\\ date",
+          "License\\ Number",
+          "Cancellation\\ date",
+          "Valid\\ date",
+          "Date\\ of\\ issue",
+          "Customs\\ clearance\\ document\\ number",
+          "Manufacturer\\ name"
+        ],
+        "refinementFilters": [
+          {
+            "attribute": "Controlled drug classification level",
+            "fieldType": "keyword"
+          },
+          { "attribute": "Manufacturer country", "fieldType": "keyword" },
+          { "attribute": "Logout status", "fieldType": "keyword" },
+          { "attribute": "License type", "fieldType": "keyword" }
+        ]
+      }
+    ],
+    "displayFields": [
+      { "label": "Indications", "field": "Indications" },
+      {
+        "label": "Principal Components",
+        "field": "Principal Components"
+      },
+      { "label": "License Number", "field": "License Number" },
+      { "label": "Date of issue", "field": "Date of issue" },
+      { "label": "License type", "field": "License type" },
+      { "label": "Valid date", "field": "Valid date" },
+      { "label": "Dosage form", "field": "Dosage form" },
+      {
+        "label": "Package",
+        "field": "Package"
+      },
+      {
+        "label": "Drug category",
+        "field": "Drug category"
+      },
+      {
+        "label": "Change date",
+        "field": "Change date"
+      },
+      {
+        "label": "Reason for cancellation",
+        "field": "Reason for cancellation"
+      },
+      {
+        "label": "Customs clearance document number",
+        "field": "Customs clearance document number"
+      },
+      { "label": "Logout status", "field": "Logout status" },
+      { "label": "Cancellation date", "field": "Cancellation date" },
+      {
+        "label": "Old certificate font size",
+        "field": "Old certificate font size"
+      },
+      {
+        "label": "Controlled drug classification level",
+        "field": "Controlled drug classification level"
+      },
+      { "label": "Usage and dosage", "field": "Usage and dosage" },
+
+      {
+        "label": "Applicant name",
+        "field": "Applicant name"
+      },
+      {
+        "label": "Applicant's unified number ",
+        "field": "Applicant's unified number "
+      },
+      {
+        "label": "Applicant address",
+        "field": "Applicant address"
+      },
+      {
+        "label": "Packaging and international barcodes",
+        "field": "Packaging and international barcodes"
+      },
+      {
+        "label": "Manufacturer name",
+        "field": "Manufacturer name"
+      },
+      {
+        "label": "Manufacturer country",
+        "field": "Manufacturer country"
+      }
+    ]
+  },
+  {
+    "key": "globaldm-uslisteddrugs",
+    "name": "U.S. Listed Drugs",
+    "filterSections": [
+      {
+        "name": "Drug Information",
+        "inputFilters": [
+          "Product",
+          "Registration\\ application\\ number",
+          "Name(Common)"
+        ],
+        "refinementFilters": []
+      },
+      {
+        "name": "Registration Details",
+        "inputFilters": ["Company\\ Name", "Approval\\ date"],
+        "refinementFilters": [
+          { "attribute": "Application status", "fieldType": "keyword" },
+          { "attribute": "Approval date", "fieldType": "keyword" },
+          { "attribute": "New Drug Application Type", "fieldType": "keyword" },
+          { "attribute": "New Drug Review process", "fieldType": "keyword" },
+          { "attribute": "Application status_1", "fieldType": "keyword" }
+        ]
+      }
+    ],
+    "displayFields": [
+      { "label": "Name(Common)", "field": "Name(Common)" },
+      {
+        "label": "Registration application number",
+        "field": "Registration application number"
+      },
+      { "label": "Number Product", "field": "Number Product" },
+      { "label": "Specification", "field": "Specification" },
+      { "label": "Dosage form", "field": "Dosage form" },
+      {
+        "label": "Drug administration route",
+        "field": "Drug administration route"
+      },
+      { "label": "Application status", "field": "Application status" },
+      { "label": "Company", "field": "Company" },
+      { "label": "Approval date", "field": "Approval date" },
+      {
+        "label": "New Drug Application Type",
+        "field": "New Drug Application Type"
+      },
+      {
+        "label": "New Drug Review process",
+        "field": "New Drug Review process"
+      },
+      {
+        "label": "Approval qualifications",
+        "field": "Approval qualifications"
+      },
+      { "label": "Application status_1", "field": "Application status_1" }
+    ]
+  },
+  {
+    "key": "biodnd_company",
+    "name": "Company & Organization",
+    "filterSections": [
+      {
+        "name": "Company Details",
+        "inputFilters": ["Company_Name"],
+        "refinementFilters": [
+          { "attribute": "Country_Region", "fieldType": "keyword" },
+          { "attribute": "Ownership", "fieldType": "keyword" }
+        ],
+        "specifyRefinementFilters": [
+          {
+            "attribute": "Company_Types",
+            "options": [
+              "Biotech or pharma",
+              "animal health",
+              "therapeutic RD Biotech or pharma"
+            ]
+          }
+        ]
+      }
+    ],
+    "displayFields": [
+      { "label": "Brief_Description", "field": "Brief_Description" },
+      {
+        "label": "Country_Region",
+        "field": "Country_Region"
+      },
+      { "label": "Website", "field": "Website" },
+      { "label": "Company_Types", "field": "Company_Types" },
+      { "label": "Description", "field": "Description" },
+      {
+        "label": "Address",
+        "field": "Address"
+      },
+      { "label": "Phone", "field": "Phone" },
+      { "label": "Email", "field": "Email" },
+      {
+        "label": "Primary_Therapeutic_Areas",
+        "field": "Primary_Therapeutic_Areas"
+      },
+      {
+        "label": "Employee",
+        "field": "Employee"
+      },
+      {
+        "label": "Founded_Year",
+        "field": "Founded_Year"
+      },
+      {
+        "label": "Ownership",
+        "field": "Ownership"
+      },
+      { "label": "Subsectors", "field": "Subsectors" },
+      { "label": "Social_Network", "field": "Social_Network" },
+      { "label": "social_media_1", "field": "social_media_1" },
+      { "label": "Company code name", "field": "Company code name" }
+    ]
+  },
+  {
+    "key": "biodnd_assets",
+    "name": "Company Assets",
+    "filterSections": [
+      {
+        "name": "Assets Details",
+        "inputFilters": [
+          "company_name",
+          "assets_types",
+          "product_name",
+          "main_therapeutic_sector",
+          "mode_of_administration"
+        ],
+        "refinementFilters": [
+          { "attribute": "development_phase", "fieldType": "keyword" }
+        ]
+      }
+    ],
+    "displayFields": [
+      { "label": "assets_types", "field": "assets_types" },
+      {
+        "label": "company_name",
+        "field": "company_name"
+      },
+      {
+        "label": "main_therapeutic_sector",
+        "field": "main_therapeutic_sector"
+      },
+      { "label": "product_description", "field": "product_description" },
+      { "label": "development_phase", "field": "development_phase" },
+      { "label": "mode_of_administration", "field": "mode_of_administration" }
+    ]
+  },
+  {
+    "key": "globaldm-euemalisteddrugs",
+    "name": "EU EMA Listed Drugs",
+    "filterSections": [
+      {
+        "name": "Drug Information",
+        "inputFilters": [
+          "Approval\\ Number",
+          "Product\\ Name",
+          "Indications",
+          "Common\\ Name"
+        ],
+        "refinementFilters": [
+          { "attribute": "Drug Category", "fieldType": "keyword" }
+        ]
+      },
+      {
+        "name": "Registration Details",
+        "inputFilters": ["ATC\\ Code", "Approval\\ Date", "Company\\ Name"],
+        "refinementFilters": [
+          { "attribute": "Approval Status", "fieldType": "keyword" }
+        ]
+      }
+    ],
+    "displayFields": [
+      { "label": "Drug Category", "field": "Drug Category" },
+      {
+        "label": "Indications",
+        "field": "Indications"
+      },
+      {
+        "label": "Common Name",
+        "field": "Common Name"
+      },
+      { "label": "Approval Number", "field": "Approval Number" },
+      { "label": "Approval Status", "field": "Approval Status" },
+      { "label": "ATC Code", "field": "ATC Code" },
+      { "label": "Approval Date", "field": "Approval Date" },
+      { "label": "Company Name", "field": "Company Name" }
+    ]
+  },
+  {
+    "key": "globaldm-euhmallisteddrugs",
+    "name": "EU HMAListed Drugs",
+    "filterSections": [
+      {
+        "name": "Drug Information",
+        "inputFilters": ["drug_name", "atc_code", "authorization_date"],
+        "refinementFilters": [
+          { "attribute": "market_status", "fieldType": "text" }
+        ]
+      }
+    ],
+    "displayFields": [
+      {
+        "label": "Drug Name",
+        "field": "drug_name"
+      },
+      { "label": "Market Status", "field": "market_status" },
+      { "label": "ATC Code", "field": "atc_code" },
+      { "label": "Authorization Date", "field": "authorization_date" },
+      { "label": "Last Update Date", "field": "last_update_date" }
+    ]
+  },
+  {
+    "key": "mdevices-taiwanlistedmedical",
+    "name": "Taiwan Listed Medical Devices",
+    "filterSections": [
+      {
+        "name": "Drug Information",
+        "inputFilters": [
+          "Chinese\\ product\\ name",
+          "English\\ product\\ name",
+          "Function"
+        ],
+        "refinementFilters": [
+          {
+            "attribute": "Medical Equipment Classification",
+            "fieldType": "keyword"
+          }
+        ]
+      },
+      {
+        "name": "Registration Details",
+        "inputFilters": [
+          "Medical\\ device\\ main\\ category\\ one",
+          "Applicant\\ name",
+          "Manufacturer\\ name",
+          "Manufacturer\\ country",
+          "Manufacturing\\ license\\ registration\\ number",
+          "License\\ font\\ size",
+          "Cancellation\\ date",
+          "Valid\\ date",
+          "Date\\ of\\ issue"
+        ],
+        "refinementFilters": [
+          {
+            "attribute": "Logout status",
+            "fieldType": "keyword"
+          },
+          { "attribute": "License type", "fieldType": "keyword" }
+        ]
+      }
+    ],
+    "displayFields": [
+      { "label": "License font size", "field": "License font size" },
+      { "label": "License type", "field": "License type" },
+      { "label": "Logout status", "field": "Logout status" },
+      { "label": "Cancellation date", "field": "Cancellation date" },
+      { "label": "Valid date", "field": "Valid date" },
+      { "label": "Date of issue", "field": "Date of issue" },
+      {
+        "label": "Reason for cancellation",
+        "field": "Reason for cancellation"
+      },
+      {
+        "label": "Old certificate font size",
+        "field": "Old certificate font size"
+      },
+      {
+        "label": "Medical Equipment Classification",
+        "field": "Medical Equipment Classification"
+      },
+      {
+        "label": "MCustoms clearance document number",
+        "field": "MCustoms clearance document number"
+      },
+      { "label": "Function", "field": "Function" },
+      {
+        "label": "Medical device main category one",
+        "field": "Medical device main category one"
+      },
+      {
+        "label": "Medical device subcategory one",
+        "field": "Medical device subcategory one"
+      },
+      {
+        "label": "Medical device main category 2",
+        "field": "Medical device main category 2"
+      },
+      {
+        "label": "Medical device subcategory 2",
+        "field": "Medical device subcategory 2"
+      },
+      {
+        "label": "Medical device main category three",
+        "field": "Medical device main category three"
+      },
+      {
+        "label": "Medical device subcategory three",
+        "field": "Medical device subcategory three"
+      },
+      { "label": "Brief description", "field": "Brief description" },
+      {
+        "label": "Medical Device Specifications",
+        "field": "Medical Device Specifications"
+      },
+      { "label": "Enter Status", "field": "Enter Status" },
+      { "label": "Change date", "field": "Change date" },
+
+      { "label": "Applicant name", "field": "Applicant name" },
+      { "label": "Applicant address", "field": "Applicant address" },
+      {
+        "label": "Applicant's unified number",
+        "field": "Applicant's unified number"
+      },
+
+      { "label": "Manufacturer name", "field": "Manufacturer name" },
+      { "label": "Manufacturer address", "field": "Manufacturer address" },
+      {
+        "label": "Manufacturing plant company address",
+        "field": "Manufacturing plant company address"
+      },
+      { "label": "Manufacturer country", "field": "Manufacturer country" },
+      {
+        "label": "Manufacturing license registration number",
+        "field": "Manufacturing license registration number"
+      },
+      { "label": "Process", "field": "Process" }
+    ],
+    "refinementList": [
+      "Logout\\ status",
+      "License\\ type",
+      "Medical\\ Equipment\\ Classification",
+      ""
+    ],
+    "inputFilters": [
+      "License\\ font\\ size",
+      "Cancellation\\ date",
+      "Valid\\ date",
+      "Date\\ of\\ issue",
+      "Chinese\\ Product\\ Name",
+      "English\\ Product\\ Name",
+      "Function",
+      "Medical\\ device\\ main\\ category\\ one",
+      "Applicant\\ name",
+      "Manufacturer\\ name",
+      "Manufacturer\\ country",
+      "Manufacturing\\ license\\ registration\\ number"
+    ]
+  },
+  {
+    "key": "market_inf-companies_2024_07_17",
+    "name": "market info test"
+  },
+  {
+    "key": "market_inf-uscorporation",
+    "name": "U.S. Corporation"
+  }
+]

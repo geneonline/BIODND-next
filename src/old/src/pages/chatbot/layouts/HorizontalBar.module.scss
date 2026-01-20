@@ -1,0 +1,14 @@
+.ul {
+    min-width: 40%;
+    
+    li {
+        @apply flex;
+        margin: 0 58px 0 38px;
+    }
+    
+    a {
+        @apply flex items-end;
+        padding: 0 12px 11px;
+        flex-basis: 10rem;
+    }    
+}

@@ -1,17 +1,14 @@
 import axios from "axios";
 
-const QUERY_ASSET_BASE = `${process.env.NEXT_PUBLIC_API_URL}/api/QueryAsset`;
+const QUERY_ASSET_BASE = `/api/proxy/api/QueryAsset`;
 
-const buildAuthHeaders = (token: string) =>
-  token ? { Authorization: `Bearer ${token}` } : undefined;
+// No manual keys needed, cookie is automatic via proxy
 
-export const checkAndLockUser = async (token: string): Promise<boolean> => {
-  if (!token) return false;
+export const checkAndLockUser = async (): Promise<boolean> => {
   try {
     const response = await axios.post(
       `${QUERY_ASSET_BASE}/CheckAndLockUser`,
       {},
-      { headers: buildAuthHeaders(token) }
     );
     return response?.data?.status === "Locked";
   } catch (error) {
@@ -21,13 +18,9 @@ export const checkAndLockUser = async (token: string): Promise<boolean> => {
 };
 
 export const storeAssetSearchRequest = async (
-  token: string,
   payload: unknown
 ) => {
-  if (!token) return null;
-  return axios.post(`${QUERY_ASSET_BASE}/StoreRequest`, payload, {
-    headers: buildAuthHeaders(token),
-  });
+  return axios.post(`${QUERY_ASSET_BASE}/StoreRequest`, payload);
 };
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any

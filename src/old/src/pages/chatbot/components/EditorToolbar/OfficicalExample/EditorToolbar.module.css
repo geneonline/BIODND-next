@@ -1,0 +1,119 @@
+.toolbar {
+    display: inline-flex;
+    align-items: stretch;
+    height: 32px;
+    background: white;
+    overflow: hidden;
+    font-size: 14px;
+    line-height: 1.2;
+    border-radius: 5px;
+    box-shadow: rgba(15, 15, 15, 0.05) 0px 0px 0px 1px, rgba(15, 15, 15, 0.1) 0px 3px 6px, rgba(15, 15, 15, 0.2) 0px 9px 24px;
+    pointer-events: auto;
+  }
+  
+  .group {
+    user-select: none;
+    transition: background 20ms ease-in 0s;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    padding: 0;
+    white-space: nowrap;
+    box-shadow: rgba(55, 53, 47, 0.09) 1px 0px 0px;
+    margin-right: 1px;
+  }
+  
+  .item {
+    user-select: none;
+    transition: background 20ms ease-in 0s;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    padding: 0px 8px;
+    color: rgb(55, 53, 47);
+    background-color: inherit;
+    border: none;
+    height: 100%;
+  
+    &:hover {
+      background-color: rgba(55, 53, 47, 0.08) !important;
+    }
+  }
+  
+  .block {
+    display: flex;
+    align-items: center;
+  
+    & svg {
+      margin-left: 4px;
+      width: 10px;
+    }
+  }
+  
+  .askAI {
+    color: rgb(167, 130, 195);
+    font-weight: 600;
+    min-width: 4rem;
+  }
+  
+  .bold {
+    font-weight: 600;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  .strikethrough {
+    text-decoration: line-through;
+  }
+  
+  .underline {
+    text-decoration: underline;
+  }
+  
+  .active {
+    color: rgb(35, 131, 226);
+    fill: rgb(35, 131, 226);
+  }
+  
+  .separator {
+    background-color: rgba(55, 53, 47, 0.09);
+    width: 1px;
+  }
+
+
+  .aiMenuContainer {
+    background: white;
+    border: 1px solid rgba(55, 53, 47, 0.2);
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    /* min-width: 5rem; */
+    z-index: 1000;
+  }
+
+  .aiMenuItem {
+    width: 100%;
+    padding: 8px 12px;
+    text-align: left;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+    color:rgb(167, 130, 195);
+    transition: background-color 0.2s;
+  }
+  
+  .aiMenuItem:hover {
+    background-color: rgba(55, 53, 47, 0.08);
+  }
+  
+  .aiMenuItem:first-child {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+  }
+  
+  .aiMenuItem:last-child {
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+  }

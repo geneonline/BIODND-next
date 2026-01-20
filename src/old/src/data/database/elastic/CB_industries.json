@@ -1,0 +1,57 @@
+{
+  "Healthcare Services and Support": [
+    "Addiction Treatment",
+    "Assisted Living",
+    "Child Care",
+    "Elder Care",
+    "Emergency Medicine",
+    "Fertility",
+    "Home Health Care",
+    "Hospital",
+    "Mental Health",
+    "Nursing and Residential Care",
+    "Outpatient Care",
+    "Primary and Urgent Care",
+    "Rehabilitation",
+    "Telehealth",
+    "Therapeutics"
+  ],
+  "Medical Technology and Digital Health": [
+    "Assistive Technology",
+    "Bioinformatics",
+    "Biometrics",
+    "Electronic Health Record (EHR)",
+    "mHealth",
+    "Quantified Self"
+  ],
+  "Pharmaceuticals, Biotech, and Life Sciences": [
+    "Biopharma",
+    "Biotechnology",
+    "Clinical Trials",
+    "Genetics",
+    "Life Science",
+    "Medical",
+    "Oncology",
+    "Pharmaceutical",
+    "Precision Medicine"
+  ],
+  "Diagnostics and Medical Devices": ["Health Diagnostics", "Medical Device"],
+  "Specialized Medical Care": [
+    "Alternative Medicine",
+    "Cosmetic Surgery",
+    "Dental",
+    "Diabetes",
+    "First Aid",
+    "Neuroscience",
+    "Veterinary"
+  ],
+  "Wellness, Nutrition, and Lifestyle Health": [
+    "Dietary Supplements",
+    "Nutraceutical",
+    "Nutrition",
+    "Personal Health",
+    "Psychology",
+    "Wellness"
+  ],
+  "Agriculture and Food Technology": ["AgTech", "Cannabis"]
+}

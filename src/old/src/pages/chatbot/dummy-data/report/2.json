@@ -1,0 +1,857 @@
+{
+  "c4ab4818-7f05-4e4a-a431-aa4503ef8ef9": {
+    "id": "c4ab4818-7f05-4e4a-a431-aa4503ef8ef9",
+    "value": [
+      {
+        "id": "ee802a93-6df5-4f98-b99f-fba45e69a8ac",
+        "type": "heading-two",
+        "children": [
+          {
+            "text": "20240710-Goldman Sachs-Americas Healthcare：Medical Technology，2QCY2024 Earnings Results to Demonstra Business Analysis"
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "HeadingTwo",
+    "meta": {
+      "order": 0,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "4b979cbb-9d64-4d1e-a499-4e84d557d3ed": {
+    "id": "4b979cbb-9d64-4d1e-a499-4e84d557d3ed",
+    "value": [
+      {
+        "id": "e262f8a6-867d-42c8-b02c-0585fc922e6b",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 1,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "dbc4459c-e464-4707-8ecb-d96fdb256a7a": {
+    "id": "dbc4459c-e464-4707-8ecb-d96fdb256a7a",
+    "value": [
+      {
+        "id": "ace2bbc9-d1e7-4acf-a068-f216b8f8b27b",
+        "type": "heading-three",
+        "children": [
+          {
+            "text": "1.Industry Status"
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "HeadingThree",
+    "meta": {
+      "order": 2,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "a266bc29-a4c4-4b7c-a506-883624910b6b": {
+    "id": "a266bc29-a4c4-4b7c-a506-883624910b6b",
+    "value": [
+      {
+        "id": "61483b02-1514-4628-a5ed-a4a8169ede6c",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "The industry report focuses on the medical technology sector in the Americas, particularly in the U.S. It provides insights into the growth and trends within the medical technology market. The market is driven by demographics, increased disease prevalence, and hospital spending patterns. The report suggests that the industry is expected to grow steadily, with companies showing diverging growth depending on their product cycles, market share dynamics, and discrete margin opportunities."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 3,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "92b7ebce-2428-46ad-a91d-15a34bd3c92d": {
+    "id": "92b7ebce-2428-46ad-a91d-15a34bd3c92d",
+    "value": [
+      {
+        "id": "7033920e-bb33-406d-940a-1d1f1421c209",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 4,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "166bdf99-60ad-4c82-a3d7-375a95dc62c9": {
+    "id": "166bdf99-60ad-4c82-a3d7-375a95dc62c9",
+    "value": [
+      {
+        "id": "2b94d201-b1d6-4a6e-a4c6-08a1c3a27cc2",
+        "type": "heading-three",
+        "children": [
+          {
+            "text": "2.Financial Performance"
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "HeadingThree",
+    "meta": {
+      "order": 5,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "d1f58061-603a-40e1-a707-962209676a0a": {
+    "id": "d1f58061-603a-40e1-a707-962209676a0a",
+    "value": [
+      {
+        "id": "efe85e92-58fe-4b01-95f3-84f892af4cea",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "The report highlights that the medical technology sector is experiencing stable growth, with revenue growing at an average rate of 7.25% for the 11 large cap MedTech companies under coverage (revenue weighted organic growth). This stability can be attributed to a stable utilization backdrop and consistent capex spending environment. However, the report notes that operating margins have shown mixed results. While gross margins improved by 30bps in Q1 2024, increased operating expenses led to a 10bps decline in operating margins."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 6,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "a5a0327d-648c-49cb-9156-a765725cc878": {
+    "id": "a5a0327d-648c-49cb-9156-a765725cc878",
+    "value": [
+      {
+        "id": "aa8ef378-7840-49af-92bf-ebee2f88cf99",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 7,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "7cae88f2-6e68-41ce-92b9-099188c6ce92": {
+    "id": "7cae88f2-6e68-41ce-92b9-099188c6ce92",
+    "value": [
+      {
+        "id": "740a1727-a25d-4f17-b0b4-67cdb3dad023",
+        "type": "heading-three",
+        "children": [
+          {
+            "text": "3.Market Position and Strategy"
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "HeadingThree",
+    "meta": {
+      "order": 8,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "401cb4b2-4a5a-4db6-8103-99a8a414412c": {
+    "id": "401cb4b2-4a5a-4db6-8103-99a8a414412c",
+    "value": [
+      {
+        "id": "e52c1c16-ac45-4703-8a5a-2fc7a8dd308c",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "The report points out that companies are focusing on specific market segments to drive growth. For instance, Boston Scientific is targeting the electrophysiology market, while Edwards is focusing on structural heart technologies. The report suggests that the adoption of Pulsed Field Ablation (PFA) in the electrophysiology market is driving significant share gains for Boston Scientific. Edwards, on the other hand, is facing increased competition in the transcatheter aortic valve replacement (TAVR) market."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 9,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "e46d6e96-a2bb-4461-91af-82e36a014c44": {
+    "id": "e46d6e96-a2bb-4461-91af-82e36a014c44",
+    "value": [
+      {
+        "id": "528054e5-9874-4230-a931-6b8e9224b60d",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 10,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "be4a0061-e5ca-45e6-a3ad-a948e610d613": {
+    "id": "be4a0061-e5ca-45e6-a3ad-a948e610d613",
+    "value": [
+      {
+        "id": "0627319c-3f18-4e1e-ad92-ee073cb84839",
+        "type": "heading-three",
+        "children": [
+          {
+            "text": "4.Competitive Landscape"
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "HeadingThree",
+    "meta": {
+      "order": 11,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "30124dc2-9c05-4a05-b859-63caf97c7e8a": {
+    "id": "30124dc2-9c05-4a05-b859-63caf97c7e8a",
+    "value": [
+      {
+        "id": "6af87ecf-9401-493e-b012-c213db434ed8",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "The report highlights several key competitors within the medical technology sector:"
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 12,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "50568658-ed71-4252-9ff3-56662e8fca8a": {
+    "id": "50568658-ed71-4252-9ff3-56662e8fca8a",
+    "value": [
+      {
+        "id": "6e544d0b-0272-48e6-acd1-a123a76c2b9f",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 13,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "ae54b3da-0c1a-4825-a32f-7efd41e296cf": {
+    "id": "ae54b3da-0c1a-4825-a32f-7efd41e296cf",
+    "value": [
+      {
+        "id": "14d2bf78-0e24-4b1a-b572-c743ffb4a4b7",
+        "type": "heading-three",
+        "children": [
+          {
+            "text": "5.Innovation and Product Development"
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "HeadingThree",
+    "meta": {
+      "order": 14,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "a48f1520-b555-41d2-a5c3-42ccf7ab16d3": {
+    "id": "a48f1520-b555-41d2-a5c3-42ccf7ab16d3",
+    "value": [
+      {
+        "id": "914f04c5-afd4-40f3-a58e-67d87a478134",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "The report notes that several key companies are investing heavily in research and development to drive innovation and growth in the medical technology sector. For example, Boston Scientific is developing new technologies like Pulsed Field Ablation (PFA), and Edwards is focusing on structural heart technologies like the transcatheter mitral and tricuspid technologies (TMTT). The report also mentions that companies like Dexcom, Abbott, and Medtronic are developing continuous glucose monitoring (CGM) systems targeting both Type 1 and Type 2 diabetes patients."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 15,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "f113480e-077a-439c-8d3d-142c19052539": {
+    "id": "f113480e-077a-439c-8d3d-142c19052539",
+    "value": [
+      {
+        "id": "14b9b723-5276-403a-b0a4-4cfaf0caa466",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 16,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "1100976a-ee59-4795-ad9f-6fb710d89c50": {
+    "id": "1100976a-ee59-4795-ad9f-6fb710d89c50",
+    "value": [
+      {
+        "id": "e36e278d-5e22-4ed4-b3de-bd2954bd929c",
+        "type": "heading-three",
+        "children": [
+          {
+            "text": "6.SWOT Analysis"
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "HeadingThree",
+    "meta": {
+      "order": 17,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "a738c1a9-556f-4a7d-9197-0b73b4155311": {
+    "id": "a738c1a9-556f-4a7d-9197-0b73b4155311",
+    "value": [
+      {
+        "id": "15a41a39-999a-4e1e-8825-223a313e3d4c",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Strengths",
+            "bold": true
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 18,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "508276d6-2293-4bfb-b837-15efd0456204": {
+    "id": "508276d6-2293-4bfb-b837-15efd0456204",
+    "value": [
+      {
+        "id": "fdbeb101-13db-4a5f-a8fd-cdf4cbbb2b1d",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Weaknesses",
+            "bold": true
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 23,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "971ce81d-8c67-4aaf-9861-13198d8437f9": {
+    "id": "971ce81d-8c67-4aaf-9861-13198d8437f9",
+    "value": [
+      {
+        "id": "30a6ddcd-b6ed-4859-91fc-9ae691a546cf",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Opportunities",
+            "bold": true
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 26,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "bf39cb2e-85e1-43c9-b429-3ac3596b7068": {
+    "id": "bf39cb2e-85e1-43c9-b429-3ac3596b7068",
+    "value": [
+      {
+        "id": "bf61ab55-6d80-4c56-bfe1-b10bca3d6ceb",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Threats",
+            "bold": true
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 30,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "f4420cb2-416d-4015-b311-75ab50e79859": {
+    "id": "f4420cb2-416d-4015-b311-75ab50e79859",
+    "value": [
+      {
+        "id": "4309f3a3-2637-4445-a913-0f5e882cbfaf",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": ""
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 34,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "bf8735d6-a67c-46af-b17b-5822e6f524cc": {
+    "id": "bf8735d6-a67c-46af-b17b-5822e6f524cc",
+    "value": [
+      {
+        "id": "547a4c16-77e4-436f-a834-8f10b4e8634f",
+        "type": "heading-three",
+        "children": [
+          {
+            "text": "7.Future Prospects"
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "HeadingThree",
+    "meta": {
+      "order": 35,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "6ed4b8cd-218f-48bf-9cf0-080ae78e0c76": {
+    "id": "6ed4b8cd-218f-48bf-9cf0-080ae78e0c76",
+    "value": [
+      {
+        "id": "575b1815-b212-494b-9cb1-6c5536c19989",
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "The medical technology sector is expected to continue its growth trajectory driven by factors like demographics, increasing disease prevalence, and rising hospital spending. Companies are expected to focus on developing innovative products and technologies to gain market share and drive profitability. However, challenges exist, including increased competition, pressure on margins, and regulatory hurdles. Companies will need to adapt their strategies to address these challenges and maintain a sustainable competitive advantage. The report suggests that investments in R&D, strategic acquisitions, and efficient capital allocation will be key for the future success of companies in this sector."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "Paragraph",
+    "meta": {
+      "order": 36,
+      "depth": 0,
+      "align": "left"
+    }
+  },
+  "74c3a159-c7e0-47d2-a433-b8ac1b600957": {
+    "id": "74c3a159-c7e0-47d2-a433-b8ac1b600957",
+    "type": "BulletedList",
+    "meta": {
+      "order": 19,
+      "depth": 0
+    },
+    "value": [
+      {
+        "id": "6c5a2d40-2f4f-4276-b5b5-8d0a3284cc51",
+        "type": "bulleted-list",
+        "children": [
+          {
+            "text": "Stable utilization backdrop and consistent capex spending environment."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ]
+  },
+  "fc0cc770-a72b-4ac4-9d2d-b985b17c1ae5": {
+    "id": "fc0cc770-a72b-4ac4-9d2d-b985b17c1ae5",
+    "value": [
+      {
+        "id": "1a087de0-1eeb-4d4b-b083-c1e7b6f0015a",
+        "type": "bulleted-list",
+        "children": [
+          {
+            "text": "Growing market driven by demographics, increased disease prevalence, and hospital spending patterns."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "BulletedList",
+    "meta": {
+      "order": 20,
+      "depth": 0
+    }
+  },
+  "26564924-671c-4032-95a4-ef15755f3392": {
+    "id": "26564924-671c-4032-95a4-ef15755f3392",
+    "value": [
+      {
+        "id": "51a480fc-22c4-4da4-a7e9-ac30a23df897",
+        "type": "bulleted-list",
+        "children": [
+          {
+            "text": "Strong product cycles, market share dynamics, and discrete margin opportunities."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "BulletedList",
+    "meta": {
+      "order": 21,
+      "depth": 0
+    }
+  },
+  "217f8ac0-44ed-46c0-bddb-afc8f73c1eb2": {
+    "id": "217f8ac0-44ed-46c0-bddb-afc8f73c1eb2",
+    "value": [
+      {
+        "id": "8eef199c-535a-4da9-8095-bc0e85bca6bf",
+        "type": "bulleted-list",
+        "children": [
+          {
+            "text": "Significant investments in R&D, driving innovation and growth."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "BulletedList",
+    "meta": {
+      "order": 22,
+      "depth": 0
+    }
+  },
+  "1decd173-c3da-41e2-a50d-7f2c46391412": {
+    "id": "1decd173-c3da-41e2-a50d-7f2c46391412",
+    "type": "BulletedList",
+    "meta": {
+      "order": 24,
+      "depth": 0
+    },
+    "value": [
+      {
+        "id": "72d2ffc1-4cc5-4a38-bd1b-4aaacef33ca6",
+        "type": "bulleted-list",
+        "children": [
+          {
+            "text": "Increased competition in key segments."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ]
+  },
+  "265ea031-f3ee-4e4d-af38-eb56eac0aa84": {
+    "id": "265ea031-f3ee-4e4d-af38-eb56eac0aa84",
+    "value": [
+      {
+        "id": "7264060f-ce08-42fc-aa16-ab20b061e5a8",
+        "type": "bulleted-list",
+        "children": [
+          {
+            "text": "Pressure on operating margins due to rising operating expenses."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      },
+      {
+        "id": "7264060f-ce08-42fc-aa16-ab20b061e5a8",
+        "type": "bulleted-list",
+        "props": {
+          "nodeType": "block"
+        },
+        "children": [
+          {
+            "text": "Some companies face headwinds from price competition and market share erosion."
+          }
+        ]
+      }
+    ],
+    "type": "BulletedList",
+    "meta": {
+      "order": 25,
+      "depth": 0
+    }
+  },
+  "6116ba30-25e4-4ce3-b1b4-93a5eeee2ecb": {
+    "id": "6116ba30-25e4-4ce3-b1b4-93a5eeee2ecb",
+    "type": "BulletedList",
+    "meta": {
+      "order": 27,
+      "depth": 0
+    },
+    "value": [
+      {
+        "id": "95f201c1-9db8-4508-811c-2146b5d4813d",
+        "type": "bulleted-list",
+        "children": [
+          {
+            "text": "Continued growth in the medical technology market driven by demographics and increasing disease prevalence."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ]
+  },
+  "e003cc44-f2b9-4a1e-9432-f4f9a636d29f": {
+    "id": "e003cc44-f2b9-4a1e-9432-f4f9a636d29f",
+    "value": [
+      {
+        "id": "b31ec7d1-856c-4e32-a869-432016c5e082",
+        "type": "bulleted-list",
+        "children": [
+          {
+            "text": "Potential for significant growth in emerging technologies like PFA and TMTT."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "BulletedList",
+    "meta": {
+      "order": 28,
+      "depth": 0
+    }
+  },
+  "47e23635-f0b2-4954-922b-81944c0255c9": {
+    "id": "47e23635-f0b2-4954-922b-81944c0255c9",
+    "value": [
+      {
+        "id": "f702cebb-b3e6-42ef-8888-77b61e49f13a",
+        "type": "bulleted-list",
+        "children": [
+          {
+            "text": "The development of new products, like continuous glucose monitoring systems for Type 2 diabetes, offers potential for expansion."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "BulletedList",
+    "meta": {
+      "order": 29,
+      "depth": 0
+    }
+  },
+  "f3862f66-01a1-4ad1-b41f-8d3087583171": {
+    "id": "f3862f66-01a1-4ad1-b41f-8d3087583171",
+    "type": "BulletedList",
+    "meta": {
+      "order": 31,
+      "depth": 0
+    },
+    "value": [
+      {
+        "id": "31de2060-dda6-4f1b-87f6-bbc7b7a51a74",
+        "type": "bulleted-list",
+        "children": [
+          {
+            "text": "The emergence of new technologies could disrupt existing markets."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ]
+  },
+  "6e7a8edb-6b32-4ac5-9c9c-2fb5e64371ff": {
+    "id": "6e7a8edb-6b32-4ac5-9c9c-2fb5e64371ff",
+    "value": [
+      {
+        "id": "b1a71d62-aeff-4cd1-a6ce-f906dff2e2b7",
+        "type": "bulleted-list",
+        "children": [
+          {
+            "text": "Price competition could lead to pressure on margins."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "BulletedList",
+    "meta": {
+      "order": 32,
+      "depth": 0
+    }
+  },
+  "1fe28761-bc11-4d3f-b8c6-c2f9bce0fc4f": {
+    "id": "1fe28761-bc11-4d3f-b8c6-c2f9bce0fc4f",
+    "value": [
+      {
+        "id": "ec3f03e7-5b4c-42ed-bca5-7a9c366c06c3",
+        "type": "bulleted-list",
+        "children": [
+          {
+            "text": "Regulatory challenges could impact product development and approval processes."
+          }
+        ],
+        "props": {
+          "nodeType": "block"
+        }
+      }
+    ],
+    "type": "BulletedList",
+    "meta": {
+      "order": 33,
+      "depth": 0
+    }
+  }
+}

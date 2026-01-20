@@ -2,7 +2,10 @@ import Link from "next/link";
 import dna from "@/assets/webp/home/dna.webp";
 import Image from "next/image";
 
-const Hero = ({ token }: { token: string | null }) => {
+import { useUser } from "@/hooks/useUser";
+
+const Hero = () => {
+  const { user } = useUser();
   return (
     <section className="w-full px-8 md:px-16 lg:px-20 xl:px-28 bg-[radial-gradient(ellipse_121.50%_121.50%_at_50.00%_50.00%,_white_0%,_rgba(209,_213,_219,_0.80)_100%)] self-stretch inline-flex flex-col justify-center items-center overflow-hidden">
       <div className="self-stretch  inline-flex justify-center items-start">
@@ -17,7 +20,7 @@ const Hero = ({ token }: { token: string | null }) => {
               </div>
             </div>
             <div className="inline-flex flex-wrap justify-center md:justify-start items-center gap-3">
-              {token ? (
+              {user ? (
                 <Link
                   href="/database/search"
                   className="w-full sm:w-fit px-6 py-3 whitespace-nowrap font-medium text-18px text-white bg-primary-default hover:bg-primary-hovered rounded-50px inline-flex justify-center items-center overflow-hidden"

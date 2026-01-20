@@ -1,38 +1,32 @@
 import useSWR from "swr";
 import axios from "axios";
-import { useAuth } from "../context/AuthContext";
 
-const baseURL = process.env.NEXT_PUBLIC_API_URL || "";
+// Access via proxy which attaches HttpOnly cookie
+const API_URL = "/api/proxy/api/Account";
 
-const fetcher = (url: string, token: string, logout: any) =>
-  axios
-    .get(url, {
-      headers: { Authorization: `Bearer ${token}` },
-    })
-    .then((res) => res.data)
-    .catch((err) => {
-      if (err.response?.status === 401 && typeof logout === "function") {
-        logout();
-      }
-      throw err;
-    });
+const fetcher = (url: string) =>
+  axios.get(url).then((res) => res.data);
 
-//使用方式:帶入 token
-export function useUser(token: string | null) {
-  const auth = useAuth();
-  const logout = auth?.logout;
-
+export function useUser() {
   const { data, error, isLoading, isValidating, mutate } = useSWR(
-    token ? ["/api/Account", token] : null,
-    ([url, token]) => fetcher(`${baseURL}${url}`, token as string, logout),
-    { revalidateOnFocus: false }
+    API_URL,
+    fetcher,
+    {
+      revalidateOnFocus: false,
+      shouldRetryOnError: false, // Don't retry if 401
+    }
   );
 
   return {
-    userData: data,
-    userError: error,
-    userLoading: isLoading,
-    userIsValidating: isValidating,
-    userMutate: mutate, // add mutate so that consumer can manually refetch
+    user: data,
+    userData: data, // Backward compatibility alias
+    isLoading,
+    userLoading: isLoading, // Backward compatibility alias
+    error,
+    userError: error, // Backward compatibility alias
+    isValidating,
+    userIsValidating: isValidating, // Backward compatibility alias
+    mutate,
+    userMutate: mutate, // Backward compatibility alias
   };
 }

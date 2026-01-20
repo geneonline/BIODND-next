@@ -1,0 +1,31 @@
+{
+  "Drug Development": [
+    "drug_dev-usclinicaltrials",
+    "drug_dev-chinaclinicaltrialregistrydata",
+    "drug_dev-chinaclinicaltrials",
+    "drug_dev-japaneseclinicaltrial",
+    "drug_dev-taiwan_ct",
+    "drug_dev-thailandclinicaltrial",
+    "drug_dev-traditionalchinesemedicineclinicaltrial",
+    "drug_dev-germanclinicaltrial",
+    "drug_dev-astralianclinicaltrial",
+    "drug_dev-koreanclinicaltrial",
+    "drug_dev-isrctnclinicaltrial",
+    "drug_dev-chinaapprovalclinical"
+  ],
+  "Medical Devices": ["mdevices-taiwanlistedmedical"],
+  "Global Drugs Market": [
+    "globaldm-chainimported",
+    "globaldm-pmda",
+    "globaldm-taiwanlisteddrugs",
+    "globaldm-uslisteddrugs",
+    "globaldm-euemalisteddrugs",
+    "globaldm-euhmallisteddrugs",
+    "globaldm-chinalisted"
+  ],
+  "Market Information": [
+    "market_inf-companies_2024_07_17",
+    "market_inf-uscorporation",
+    "biodnd_assets"
+  ]
+}

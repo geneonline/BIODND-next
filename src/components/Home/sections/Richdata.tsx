@@ -3,7 +3,10 @@ import richdata_bg from "@/assets/webp/home/richdata-bg.webp";
 import Carousel from "../components/Carousel"; // Adjusted path
 import Image from "next/image";
 
-const Richdata = ({ token }: { token: string | null }) => {
+import { useUser } from "@/hooks/useUser";
+
+const Richdata = () => {
+  const { user } = useUser();
   return (
     <section className="w-full py-32 px-8 md:px-16 lg:px-20 xl:px-28 bg-[radial-gradient(ellipse_121.50%_121.50%_at_50.00%_50.00%,_white_0%,_rgba(209,_213,_219,_0.80)_100%)] self-stretch inline-flex flex-col justify-center items-center overflow-hidden">
       <div className="self-stretch  flex flex-col justify-center items-center">
@@ -28,7 +31,7 @@ const Richdata = ({ token }: { token: string | null }) => {
                 strategic planning and resource allocation
               </div>
             </div>
-            {!token && (
+            {!user && (
               <Link
                 href="/account/register"
                 className="px-6 py-3 font-medium text-white bg-primary-default hover:bg-primary-hovered rounded-50px inline-flex justify-center items-center overflow-hidden"

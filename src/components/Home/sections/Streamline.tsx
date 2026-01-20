@@ -1,7 +1,10 @@
 import Link from "next/link";
 import streamlineBg from "@/assets/webp/home/streamline-bg.webp";
 
-const Streamline = ({ token }: { token: string | null }) => {
+import { useUser } from "@/hooks/useUser";
+
+const Streamline = () => {
+  const { user } = useUser();
   return (
     <section className="w-full h-fit self-stretch  bg-white inline-flex flex-col justify-center items-center overflow-hidden">
       <div
@@ -25,7 +28,7 @@ const Streamline = ({ token }: { token: string | null }) => {
               </div>
             </div>
 
-            {!token && (
+            {!user && (
               <Link
                 href="/account/register"
                 className="px-6 py-3 font-medium text-white bg-primary-default hover:bg-primary-hovered rounded-50px inline-flex justify-center items-center overflow-hidden"

@@ -49,7 +49,7 @@ const Navbar = () => {
   const menuButtonRef = useRef<HTMLButtonElement>(null);
   const [user, setUser] = useContext(UserContext)!; // Non-null assertion for now or better safety
   const { token, logout } = useAuth();
-  const { userData, userLoading } = useUser(token);
+  const { user: userData, isLoading: userLoading } = useUser();
   const { hasPromo, showPromo, isLoading: promoLoading, offer } = usePromo();
   const [authStatusResolved, setAuthStatusResolved] = useState(!token);
 
@@ -180,11 +180,7 @@ const Navbar = () => {
       return;
     }
     try {
-      const response = await axios.get(`${baseURL}/api/ChatDND/Go`, {
-        headers: {
-          Authorization: `Bearer ${token}`,
-        },
-      });
+      const response = await axios.get(`/api/proxy/api/ChatDND/Go`);
       const result =
         typeof response.data === "string" ? response.data : response.data.url;
       if (typeof result === "string" && result.startsWith("http")) {

@@ -1,16 +1,11 @@
 import Client from "@searchkit/instantsearch-client";
 import Searchkit from "searchkit";
 
-const DEFAULT_HOST = `${process.env.NEXT_PUBLIC_API_URL}/api/QueryAsset`;
+const DEFAULT_HOST = `/api/proxy/api/QueryAsset`;
 
 const buildHeaders = (headers: Record<string, string> = {}) => {
-  let token = "";
-  if (typeof window !== "undefined") {
-    token = localStorage.getItem("token") || "";
-  }
-  const authHeaders = token ? { Authorization: `Bearer ${token}` } : {};
+  // Token is handled via HttpOnly cookie automatically by browser
   return {
-    ...authHeaders,
     ...headers,
   };
 };

@@ -1,0 +1,48 @@
+.ps__rail-y {
+  background-color: #f1f1f1 !important;
+  width: 18px !important;
+  border-radius: 0 !important;
+}
+
+.ps__thumb-y {
+  background-color: rgba(135, 151, 166, 0.70) !important;
+  width: 18px !important;
+  border-radius: 0 !important;
+  right: 0;
+  margin: 15px 0;
+}
+
+.scroll-button {
+  position: absolute;
+  right: 0;
+  // transform: translateX(-50%);
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  cursor: pointer;
+  opacity: 0.7;
+  transition: opacity 0.3s;
+  z-index: 1;
+
+  &:hover {
+    opacity: 1;
+  }
+
+  &.scroll-up {
+    top: 0px;
+    border-bottom: 15px solid #c9c9c9;
+    ;
+  }
+
+  &.scroll-down {
+    bottom: 0px;
+    border-top: 15px solid #c9c9c9;
+  }
+}
+
+// 確保 PerfectScrollbar 容器有適當的內邊距，以避免按鈕遮擋內容
+.ps {
+  // padding-top: 30px;
+  // padding-bottom: 30px;
+}

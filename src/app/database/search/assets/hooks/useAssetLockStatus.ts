@@ -47,7 +47,14 @@ export const useAssetLockStatus = ({
     let isCancelled = false;
 
     const checkLockStatus = async () => {
-      if (!token || subscriptionLevel === "Pro") {
+      // If we are "Pro", we don't lock. 
+      // We removed token check because token might be inside cookie now.
+      // However, if we want to skip if not logged in?
+      // checkAndLockUser will fail (return false) or return 401 if not logged in.
+      // But we probably want to know if logged in first?
+      // For now, let's assume if subscriptionLevel is not Pro, we check.
+      
+      if (subscriptionLevel === "Pro") {
         if (isCancelled) return;
         setIsLocked(false);
         setForcePromoResult(false);
@@ -56,7 +63,7 @@ export const useAssetLockStatus = ({
       }
 
       try {
-        const locked = await checkAndLockUser(token);
+        const locked = await checkAndLockUser(); // Removed token arg
         if (isCancelled) return;
 
         if (locked) {
